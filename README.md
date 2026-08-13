@@ -1,1 +1,285 @@
-# enhansome-Awesome-Smart-Contract-Security
+# Awesome-Smart-Contract-Security with stars
+
+![Screenshot](img/SmartContract.png)
+
+# Table of Contents
+
+* [Blogs](#blogs)
+
+* [Papers](#papers)
+
+* [Books](#books)
+
+* [Trainings](#Trainings)
+
+* [Tools](#tools)
+  * [Visualization](#Visualization)
+  * [Verification](#Verification)
+  * [Linters](#Linters)
+  * [BugHunting](#BugHunting)
+  * [Reverse Engineering](#Reverse_Engineering)
+
+* [Awesome-Smart-Contract-Security !awesome](#awesome-smart-contract-security-)
+
+* [Table of Contents](#table-of-contents)
+
+* [Blogs](#blogs)
+
+* [Papers](#papers)
+
+* [Books](#books)
+  * [Security Journal list](#security-journal-list)
+
+* [Trainings](#trainings)
+
+* [Labs](#labs)
+
+* [Capture the Flag and Wargames](#capture-the-flag-and-wargames)
+
+* [Talks](#talks)
+
+* [Misc](#misc)
+
+* [Podcasts](#podcasts)
+
+* [Cheat Sheets](#cheat-sheets)
+
+* [Checklists](#checklists)
+
+* [Bug Bounty & Writeups](#bug-bounty--writeups)
+
+* [Bug Bounty Platforms & Project](#bug-bounty-platforms--project)
+
+# Blogs
+
+* [Ethernaut CTF walkthrough with Brownie framework](https://securitypills.news/articles/ethernaut/)
+* [Sizing Solidity Audits](https://blog.coinfabrik.com/tools/sizing-solidity-audits/)
+* [Reversing Ethereum Smart Contracts](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/)
+* [Emin Gün Sirer, professor in Cornell Tech’s IC3 lab focused on blockchain security.](http://hackingdistributed.com/)
+* [ Phil Daian, grad student behind KEVM, Hydra, and other Ethereum academic projects](https://pdaian.com/blog/)
+* [Cybersecurity R\&D firm with a blockchain security practice](https://blog.trailofbits.com/)
+* [ Martin Swende, programmer and appsec consultant](http://swende.se/)
+* [Company blog about security issues and practices within blockchain ecosystem](https://blog.smartdec.net/)
+* [Solidity Security: Comprehensive list of known attack vectors](https://blog.sigmaprime.io/solidity-security.html)
+* [Use cryptography in mobile apps the right way](https://blog.oversecured.com/Use-cryptography-in-mobile-apps-the-right-way/)
+* [Subzero is an HSM-backed method for cold storage of Bitcoin developed by Square](https://medium.com/square-corner-blog/open-sourcing-subzero-ee9e3e071827)
+* [Contract upgrade anti-patterns](https://blog.trailofbits.com/2018/09/05/contract-upgrade-anti-patterns/)
+* [How the winner got Fomo3D prize — A Detailed Explanation](https://medium.com/coinmonks/how-the-winner-got-fomo3d-prize-a-detailed-explanation-b30a69b7813f)
+* [How to debug Solidity Smart Contracts with Tenderly and Truffle](https://medium.com/tenderly/how-to-debug-solidity-smart-contracts-with-tenderly-and-truffle-da995cfe098f)
+* [Lashing out at a Spank Channel](https://medium.com/coinmonks/lashing-out-at-a-spank-channel-2b42b23f0dc6)
+* [Malicious GasToken Minting](https://medium.com/level-k/public-disclosure-malicious-gastoken-minting-236b2f8ace38)
+* [Missing return value bug in ERC20 tokens](https://medium.com/coinmonks/missing-return-value-bug-at-least-130-tokens-affected-d67bf08521ca)
+* [Not A Fair Game – Fairness Analysis of Dice2win](http://blogs.360.cn/post/Fairness_Analysis_of_Dice2win_EN.html)
+* [Initial Formal Verification of Ethereum Casper Protocol](https://runtimeverification.com/blog/runtime-verification-completes-formal-verification-of-ethereum-casper-protocol/)
+* [Security considerations for Shamir's secret sharing](https://ethresear.ch/t/security-considerations-for-shamirs-secret-sharing/4294)
+* [SmartDec smart contract audit beginner's guide](https://blog.smartdec.net/smartdec-smart-contract-audit-beginners-guide-d04cc7f1c571)
+* [The Anatomy of a Block Stuffing Attack](https://medium.com/hackernoon/the-anatomy-of-a-block-stuffing-attack-a488698732ae)
+* [The phenomenon of smart contract honeypots](https://medium.com/@gerhard.wagner/the-phenomena-of-smart-contract-honeypots-755c1f943f7b)
+* [Use our suite of Ethereum security tools](https://blog.trailofbits.com/2018/03/23/use-our-suite-of-ethereum-security-tools/)
+* [Vertcoin (VTC) was successfully 51% attacked](https://medium.com/coinmonks/vertcoin-vtc-is-currently-being-51-attacked-53ab633c08a4)
+* [Smart contract security audit: tips & tricks](https://www.cossacklabs.com/blog/smart-contract-security-audit-tips-tricks/)
+
+# Papers
+
+* [Security Strengths and Weaknesses of Blockchain Smart Contract System: A Survey](https://www.researchgate.net/profile/Malaw-Ndiaye/publication/360624196_Security_Strengths_and_Weaknesses_of_Blockchain_Smart_Contract_System_A_Survey/links/62824c3590841d5155d7dbb7/Security-Strengths-and-Weaknesses-of-Blockchain-Smart-Contract-System-A-Survey.pdf)
+* [Ethereum smart contract security research: survey and future research opportunities](https://link.springer.com/article/10.1007/s11704-020-9284-9)
+* [Smart contract security: A software lifecycle perspective](https://ieeexplore.ieee.org/iel7/6287639/8600701/08864988.pdf)
+* [Ethainter: a smart contract security analyzer for composite vulnerabilities](https://dl.acm.org/doi/abs/10.1145/3385412.3385990)
+* [NeuCheck: A more practical Ethereum smart contract security analysis tool](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2745)
+* [Smart contract: Attacks and protections](https://ieeexplore.ieee.org/abstract/document/8976179/)
+* [Smart contract vulnerability analysis and security audite](https://ieeexplore.ieee.org/abstract/document/9143290/)
+* [Security analysis methods on ethereum smart contract vulnerabilities: a survey](https://arxiv.org/pdf/1908.08605)
+* [Smart contract privacy protection using AI in cyber-physical systems: tools, techniques and challenges](https://ieeexplore.ieee.org/iel7/6287639/8948470/08976143.pdf)
+* [LedgerHedger: Gas Reservation for Smart-Contract Security](https://eprint.iacr.org/2022/056.pdf)
+* [Combining graph neural networks with expert knowledge for smart contract vulnerability detection](https://arxiv.org/pdf/2107.11598)
+* [Security checklists for Ethereum smart contract development: patterns and best practices](https://arxiv.org/pdf/2008.04761.pdf)
+* [Exploring Security Practices of Smart Contract Developers](https://arxiv.org/pdf/2204.11193)
+
+# Books
+
+* [Fundamentals of Smart Contract Security](https://www.amazon.com/Fundamentals-Smart-Contract-Security-Richard/dp/194944936X)
+* [Hands-On Smart Contract Development with Solidity and Ethereum ](https://www.oreilly.com/library/view/hands-on-smart-contract/9781492045250/ch12.html)
+* [Mastering Ethereum](https://www.bookstack.cn/read/ethereumbook-en/a09dd11523647de0.md)
+
+### Security Journal list
+
+* IEEE Transactions on Information Forensics and Security [\[web\]](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
+* Computer & Security[\[web\]](http://www.elsevier.com/wps/find/journaldescription.cws_home/405877/description#description)
+* IET Information Security[\[web\]](http://www.ietdl.org/IET-IFS)
+* ACM Transactions on Information and System Security[\[web\]](http://tissec.acm.org/)
+* International Journal of Information Security[\[web\]](https://www.springer.com/journal/10207)
+* Security and Communication Networks[\[web\]](http://www.wiley.com/bw/journal.asp?ref=1939-0114)
+* IEEE Security & Privacy[\[web\]](https://www.computer.org/csdl/magazine/sp)
+* IEEE Transactions on Dependable and Secure Computing [\[web\]](http://www.computer.org/tdsc/)
+* Security and Communication Networks[\[web\]](http://onlinelibrary.wiley.com/journal/10.1002/\(ISSN\)1939-0122)
+* Computer Fraud & Security[\[web\]](http://www.elsevierscitech.com/nl/cfs/home.asp)
+
+# Trainings
+
+* [SEC554: Blockchain and Smart Contract Security](https://www.sans.org/cyber-security-courses/blockchain-smart-contract-security/)
+* [SecDim](https://secdim.com)
+* [Ethereum Smart Contract Security](https://academy.moralis.io/courses/ethereum-smart-contract-security)
+* [Solidity, Blockchain, and Smart Contract Course ](https://www.youtube.com/watch?v=M576WGiDBdQ)
+* [Smart Contract Security 101](https://pro.eattheblocks.com/p/smart-contract-security-101)
+* [Certified Blockchain Security Professional (CBSP)](https://blockchaintrainingalliance.com/products/cbsp)
+* [Learn blockchain security](https://www.infosecinstitute.com/skills/learning-paths/blockchain-security/)
+
+# Tools
+
+### Visualization
+
+* [Slither](https://github.com/trailofbits/slither) ⭐ 6,341 | 🐛 470 | 🌐 Python | 📅 2026-08-12 - Slither can map method visibility and modifiers, state variables that are read and written, calls, and can print the inheritance graph of a smart contract
+* [Surya](https://github.com/ConsenSys/surya) ⭐ 1,171 | 🐛 8 | 🌐 JavaScript | 📅 2025-06-26 - Generates various visual outputs of function call graphs
+* [Solgraph](https://github.com/raineorshine/solgraph) ⭐ 1,028 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-04 - Generates DOT graphs with function control flow of a solidity contract
+* [ethereum-graph-debugger](https://github.com/fergarrui/ethereum-graph-debugger) ⭐ 349 | 🐛 21 | 🌐 TypeScript | 📅 2023-03-03 - A graphical EVM debugger. Displays the entire program control flow graph.
+* [sol-function-profiler](https://github.com/EricR/sol-function-profiler) ⭐ 80 | 🐛 2 | 🌐 JavaScript | 📅 2018-10-14 - Solidity contract function profiler
+
+### Verification
+
+* [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool for EVM
+* [KEVM](https://github.com/kframework/evm-semantics) ⭐ 589 | 🐛 90 | 🌐 KCL | 📅 2026-08-12 - K Semantics of the Ethereum Virtual Machine (EVM)
+
+### Linters
+
+* [Solhint](https://github.com/protofire/solhint) ⭐ 1,126 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-10 - Linter for both security and style-guide validations. It strictly adheres to the [Solidity Style Guide](https://solidity.readthedocs.io/en/latest/style-guide.html).
+* [Solium](https://github.com/duaraghav8/Solium) ⭐ 921 | 🐛 73 | 🌐 JavaScript | 📅 2025-01-03 - Linter for both security and style-guide validations. Does not strictly adhere to the Solidity Style Guide.
+* [Remix](https://remix.ethereum.org/) - Browser-based Solidity IDE with linting features
+* [SmarrtCheck](https://tool.smartdec.net/) - A linter for Solidity and Vyper that checks code for security issues and bad practices.
+
+### BugHunting
+
+* [Slither](https://github.com/trailofbits/slither) ⭐ 6,341 | 🐛 470 | 🌐 Python | 📅 2026-08-12 - Static analysis framework, written in Python, with detectors for many common Solidity issues
+* [Mythril OSS](https://github.com/ConsenSys/mythril/) ⭐ 4,259 | 🐛 129 | 🌐 Python | 📅 2026-04-27 - Open-source security analysis tool for Ethereum smart contracts built around detector modules
+* [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
+* [Echidna](https://github.com/trailofbits/echidna) ⭐ 3,166 | 🐛 99 | 🌐 Haskell | 📅 2026-08-12 - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
+* [Securify v2.0](https://github.com/eth-sri/securify2) ⭐ 636 | 🐛 36 | 🌐 Solidity | 📅 2025-05-25 - Static analysis tool from ChainSecurity
+* [Octopus](https://github.com/pventuzelo/octopus) ⚠️ Archived - : Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
+* [Web3 Decoder](https://github.com/nccgroup/web3-decoder) ⭐ 115 | 🐛 0 | 🌐 Java | 📅 2026-06-02 - Web3 Decoder is a Burp Suite Extension that helps to analyze what is going on with the operations involving smart contracts of the web3
+* [L3X](https://github.com/VulnPlanet/l3x) ⭐ 93 | 🐛 0 | 🌐 Rust | 📅 2024-10-03 - AI-driven Smart Contract Static Analyzer
+
+### Runtime Monitoring & Scam Detection
+
+These tools complement static analysis by watching contracts post-deployment for honeypots, rug pulls, and adversarial deployer patterns. Most are free to use.
+
+* [HoneyBadger](https://github.com/christoftorres/HoneyBadger) ⭐ 103 | 🐛 1 | 🌐 Solidity | 📅 2023-03-07 - Honeypot detector for Ethereum smart contracts (academic, EVM bytecode).
+* [ContractScan](https://github.com/dutchaiagency/contractscan-api) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-04-29 - Free client-side smart contract security scanner. Detects proxies, honeypots, rug pulls, and 11 vulnerability patterns across 6 EVM chains. Works in browser, no signup needed.
+* [GoPlus](https://gopluslabs.io/token-security-api) - Token security API covering 30+ chains with honeypot, ownership, and trading risk checks.
+* [Honeypot.is](https://honeypot.is/) - Quick honeypot test for ERC-20 tokens by simulating buy/sell.
+* [RektRadar](https://rektradar.io/) - Real-time Ethereum scam detector with mempool monitoring, deployer graph analysis, and factory pattern detection. Catches rug pulls mid-broadcast and flags honeypots before liquidity is added.
+* [TokenSniffer](https://tokensniffer.com/) - Automated scam detection, auditing, and metrics for ERC-20 tokens.
+* [Sharpe Rug Check](https://www.sharpe.ai/rug-check) - Token risk scanner for EVM and Solana assets, covering liquidity, holder, ownership, authority, and honeypot signals
+
+### Reverse Engineering
+
+* [Panoramix](https://github.com/palkeo/panoramix) ⭐ 937 | 🐛 36 | 🌐 Python | 📅 2024-08-04 - Ethereum decompiler
+* [Ethersplay](https://github.com/trailofbits/ethersplay) ⚠️ Archived - Visual disassembler for EVM bytecode built on Binary Ninja
+* [pyevmasm](https://github.com/trailofbits/pyevmasm) ⭐ 387 | 🐛 20 | 🌐 Python | 📅 2026-04-17 - EVM assembler and disassembler with a CLI and a Python API
+* [evmlab](https://github.com/ethereum/evmlab) ⚠️ Archived - Utilities for interacting with the Ethereum virtual machine
+* [Rattle](https://github.com/trailofbits/rattle) ⭐ 367 | 🐛 12 | 🌐 Python | 📅 2023-09-04 - EVM binary static analysis framework. Produces SSA representations of EVM code.
+* [IDA-EVM](https://github.com/trailofbits/ida-evm) ⭐ 330 | 🐛 8 | 🌐 Python | 📅 2024-01-19 - IDA plugin to view EVM instructions
+* [abi-decompiler](https://github.com/beched/abi-decompiler) ⭐ 231 | 🐛 1 | 🌐 C | 📅 2022-06-15 - EVM reverse engineering helper utility
+* [ethereum-dasm](https://github.com/tintinweb/ethereum-dasm) ⭐ 222 | 🐛 2 | 🌐 Python | 📅 2019-07-07 - EVM disassembler with static and dynamic analysis abilities, including function signature lookup
+* [Solidity Bytes32 Converter Online ](https://neptunemutual.com/web3-tools/string-to-bytes32-converter/) - Convert Solidity bytes32 to utf8 string or integers and vice versa.
+* [Online Solidity ABI Encoder](https://neptunemutual.com/web3-tools/solidity-abi-encoder-online/) - Online Solidity ABI Encoder to encode smart contract arguments, and also perform read and write operations on the blockchain.
+* [Ethereum Unit Converter](https://neptunemutual.com/web3-tools/ethereum-unit-converter/) - Online tool to convert the different ethereum denominations (wei, gwei, ether).
+
+# Labs
+
+* [Smart Contract Labs](https://smartcontractlabs.ee/)
+* [ChainLink Lab](https://chainlinklabs.com/)
+* [A lab that focuses on smart contract security](https://github.com/JonZeolla/lab-SmartContractSecurity) ⭐ 4 | 🐛 1 | 📅 2019-02-22
+
+# Capture the Flag and Wargames
+
+* [Capture the Ether](https://capturetheether.com/)
+* [The Ethernaut](https://ethernaut.openzeppelin.com/)
+* [Etherhack](https://etherhack.positive.com/)
+* [Security Innovation Blockchain CTF](https://blockchain-ctf.securityinnovation.com/)
+* [Ciphershastra CTF](https://ciphershastra.com/)
+* [Defi Hack](https://www.defihack.xyz/)
+* [Gacha Lab (BSC Testnet)](https://gachalab.inspex.co/)
+* [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
+
+# Talks
+
+| Title                                                                                                                                                                                                                                            | Conference     | Year |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | ---- |
+| [6th Workshop on Trusted Smart Contracts](https://fc22.ifca.ai/wtsc/)                                                                                                                                                                            | WTSC 2022      | 2022 |
+| [Smart Contract Security: a Practitioners’ Perspective](https://conf.researchr.org/details/icse-2021/icse-2021-papers/12/Smart-Contract-Security-a-Practitioners-Perspective)                                                                    | ICSE 2021      | 2021 |
+| [Predicting Random Numbers in Ethereum Smart Contracts](https://schd.ws/hosted_files/appseccalifornia2018/00/AppSecCali%202018%20-%20Predicting%20Random%20Numbers%20in%20Ethereum%20Smart%20Contracts.pdf)                                      | OWASP AppSec   | 2018 |
+| [Blockchain Autopsies - Analyzing Smart Contract Deaths](https://github.com/trailofbits/publications/tree/master/presentations/Blockchain%20Autopsies%20-%20Analyzing%20Smart%20Contract%20Deaths) ⭐ 1,876 \| 🐛 3 \| 🌐 Python \| 📅 2026-08-12 | Blackhat USA   | 2018 |
+| [Rattle - an EVM binary analysis framework](https://www.trailofbits.com/presentations/rattle/)                                                                                                                                                   | reCON          | 2018 |
+| [Blackhat Ethereum](https://github.com/trailofbits/publications/blob/master/presentations/Blackhat%20Ethereum) ⭐ 1,876 \| 🐛 3 \| 🌐 Python \| 📅 2026-08-12                                                                                     | CanSecWest     | 2018 |
+| [Smashing Ethereum Smart Contracts for Fun and Profit](https://github.com/b-mueller/smashing-smart-contracts) ⚠️ Archived                                                                                                                        | HITB Amsterdam | 2018 |
+| [Automatic Bug Finding for the Blockchain](https://github.com/trailofbits/publications/blob/master/presentations/Automatic%20bugfinding%20for%20the%20blockchain) ⭐ 1,876 \| 🐛 3 \| 🌐 Python \| 📅 2026-08-12                                  | EkoParty       | 2017 |
+
+# Misc
+
+* [Examples of Solidity security issues](https://github.com/crytic/not-so-smart-contracts) ⚠️ Archived
+* [A Collection of Vulnerabilities in ERC20 Smart Contracts](https://github.com/sec-bit/awesome-buggy-erc20-tokens) ⭐ 630 | 🐛 9 | 🌐 Python | 📅 2024-02-15
+* [A guide to EOS smart contract security best practices](https://github.com/slowmist/eos-smart-contract-security-best-practices) ⭐ 392 | 🐛 0 | 📅 2025-07-31
+* [A guide to smart contract security best practices](https://github.com/ConsenSys/smart-contract-best-practices) ⭐ 25 | 🐛 0 | 🌐 HTML | 📅 2025-03-28
+* [A guide to smart contract security best practices](https://github.com/ConsenSys/smart-contract-best-practices) ⭐ 25 | 🐛 0 | 🌐 HTML | 📅 2025-03-28
+* [Security Pitfalls & Best Practices 201](https://secureum.substack.com/p/security-pitfalls-and-best-practices-201)
+* [Hacking Smart Contracts: Beginners Guide](https://learn.block6.tech/hacking-smart-contracts-beginners-guide-9c84e9de7194)
+* [Security Pitfalls & Best Practices 101](https://secureum.substack.com/p/security-pitfalls-and-best-practices-101?s=r)
+* [Decentralized Application Security Project (or DASP) Top 10](https://www.dasp.co/)
+* [Solidity Security Considerations](https://docs.soliditylang.org/en/latest/security-considerations.html)
+
+# Podcasts
+
+* [CoinSec Podcast](https://coinsecpodcast.com/)
+* [The Smartest Contract](https://www.listennotes.com/podcasts/the-smartest-contract-jeffrey-tong-DmE7O9AYifI/)
+* [Zero Knowledge](http://www.zeroknowledge.fm/)
+
+# Cheat Sheets
+
+* [Solidity Cheat Sheet](https://intellipaat.com/blog/tutorial/blockchain-tutorial/solidity-cheat-sheet/)
+* [Solidity Cheatsheet and Best practices](https://github.com/manojpramesh/solidity-cheatsheet) ⭐ 1,506 | 🐛 0 | 📅 2026-04-05
+* [Ethereum Cheat Sheet](https://intellipaat.com/blog/tutorial/blockchain-tutorial/ethereum-cheat-sheet/)
+* [The Ultimate Blockchain Cheat Sheet](https://101blockchains.com/blockchain-cheat-sheet/)
+
+# Checklists
+
+* [Solidity Auditing Checklistt](https://github.com/cryptofinlabs/audit-checklist) ⭐ 368 | 🐛 1 | 📅 2023-03-06
+* [SMART CONTRACT SECURITY CHECKLIST](https://ethereum.org/en/developers/tutorials/secure-development-workflow/)
+* [Smart Contract Security Audit: Intro & Top 5 Best Practices](https://www.getastra.com/blog/security-audit/smart-contract-security/)
+* [Smart Contract Security Verification Standard](https://securing.github.io/SCSVS/)
+* [Security checklists for Ethereum smart contract development](https://arxiv.org/pdf/2008.04761)
+
+# Bug Bounty & Writeups
+
+* [Smart Contract security audit reports](https://github.com/TechRate/Smart-Contract-Audits) ⭐ 577 | 🐛 29 | 📅 2026-05-05
+
+* [Write up of Metaplex Vuln 2022](https://github.com/Bonfida/metaplex-vulnerability-012022) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2022-06-07
+
+* [Hands on the Ethernaut CTF](https://blog.trailofbits.com/2017/11/06/hands-on-the-ethernaut-ctf/) - Writeups for various Ethernaut CTF challenge contracts.
+
+* [Ethernaut - Naught Coin (ERC20) Exploitation](https://medium.com/coinmonks/ethernaut-naught-coin-erc20-exploitation-218c86bb953b) - Writeup for a vulnerable ERC20 from the Ethernaut CTF.
+
+* [EtherHack CTF Writeup](https://blog.positive.com/phdays-8-etherhack-contest-writeup-794523f01248) - Writeup for EtherHack CTF challenges.
+
+* [PolySwarm Smart Contract Hacking Challenge Writeup](https://raz0r.name/writeups/polyswarm-smart-contract-hacking-challenge-writeup/) - Demonstrates advanced use of Manticore
+
+# Bug Bounty/Audit Platforms & Project
+
+* [Immunefi](https://immunefi.com/explore/)
+* [hackenproof](https://hackenproof.com/)
+* [ETHEREUM Bounty Program](https://bounty.ethereum.org/#bounty-scope)
+* [Hashlock](https://hashlock.com/)
+* [Etherscan Bugbounty Program](https://etherscan.io/bugbounty)
+* [Parity Bug Bounty Program](https://www.parity.io/bug-bounty/)
+* [Gitcoint project](https://gitcoin.co/explorer?network=mainnet\&idx_status=open\&applicants=ALL\&order_by=-web3_created)
+* [Code Arena Bugbounty project](https://code4rena.com/)
+* [Smartlink Dapps](https://www.smartlink.so/bug-bounty/)
+* [Bug Rap](https://bugrap.io/)
+* [Bug Bounty Programs 2026](https://hackenproof.com/programs?page=4)
+
+## Web3 Security Tools
+
+* [MetaVision CVE Oracle](https://metavision.click/cve) - Web3 vulnerability scanner. 355k+ CVEs from NVD, specialized in Ethereum/Solidity/DeFi. Wallet fraud + rug pull detection (ChainAware). API: POST /cve {"keyword": "solidity"}
+* [Kerne Verify Anything](https://kerne.fi/verify-anything) - Free, open, no-login client-side tool to verify any stablecoin's on-chain reserves, signed reserve attestations, and ERC-4626 vault accounting in the browser.
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._

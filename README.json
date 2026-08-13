@@ -1,0 +1,426 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Slither",
+          "description": "Slither can map method visibility and modifiers, state variables that are read and written, calls, and can print the inheritance graph of a smart contract",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:56:04Z",
+            "owner": "crytic",
+            "repo": "slither",
+            "stars": 6341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Surya",
+          "description": "Generates various visual outputs of function call graphs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-26T15:50:00Z",
+            "owner": "ConsenSysDiligence",
+            "repo": "surya",
+            "stars": 1171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solgraph",
+          "description": "Generates DOT graphs with function control flow of a solidity contract",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-04T15:07:40Z",
+            "owner": "raineorshine",
+            "repo": "solgraph",
+            "stars": 1028
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ethereum-graph-debugger",
+          "description": "A graphical EVM debugger. Displays the entire program control flow graph.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-03T11:36:00Z",
+            "owner": "fergarrui",
+            "repo": "ethereum-graph-debugger",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sol-function-profiler",
+          "description": "Solidity contract function profiler",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-14T22:05:38Z",
+            "owner": "EricR",
+            "repo": "sol-function-profiler",
+            "stars": 80
+          }
+        }
+      ],
+      "title": "Visualization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Manticore",
+          "description": "Symbolic execution tool for EVM",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-06-24T16:28:22Z",
+            "owner": "trailofbits",
+            "repo": "manticore",
+            "stars": 3859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KEVM",
+          "description": "K Semantics of the Ethereum Virtual Machine (EVM)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "KCL",
+            "last_commit": "2026-08-12T16:01:08Z",
+            "owner": "runtimeverification",
+            "repo": "evm-semantics",
+            "stars": 589
+          }
+        }
+      ],
+      "title": "Verification"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Solhint",
+          "description": "Linter for both security and style-guide validations. It strictly adheres to the Solidity Style Guide.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T23:16:59Z",
+            "owner": "protofire",
+            "repo": "solhint",
+            "stars": 1126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solium",
+          "description": "Linter for both security and style-guide validations. Does not strictly adhere to the Solidity Style Guide.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-03T12:12:22Z",
+            "owner": "duaraghav8",
+            "repo": "Ethlint",
+            "stars": 921
+          }
+        }
+      ],
+      "title": "Linters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Slither",
+          "description": "Static analysis framework, written in Python, with detectors for many common Solidity issues",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:56:04Z",
+            "owner": "crytic",
+            "repo": "slither",
+            "stars": 6341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mythril OSS",
+          "description": "Open-source security analysis tool for Ethereum smart contracts built around detector modules",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-27T04:13:25Z",
+            "owner": "ConsenSysDiligence",
+            "repo": "mythril",
+            "stars": 4259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Manticore",
+          "description": "Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-06-24T16:28:22Z",
+            "owner": "trailofbits",
+            "repo": "manticore",
+            "stars": 3859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Echidna",
+          "description": "Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-12T22:59:04Z",
+            "owner": "crytic",
+            "repo": "echidna",
+            "stars": 3166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Securify v2.0",
+          "description": "Static analysis tool from ChainSecurity",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2025-05-25T17:35:38Z",
+            "owner": "eth-sri",
+            "repo": "securify2",
+            "stars": 636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Octopus",
+          "description": ": Blockchain Smart Contracts (BTC/ETH/NEO/EOS)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-11-24T18:39:20Z",
+            "owner": "FuzzingLabs",
+            "repo": "octopus",
+            "stars": 494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web3 Decoder",
+          "description": "Web3 Decoder is a Burp Suite Extension that helps to analyze what is going on with the operations involving smart contracts of the web3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-02T17:17:56Z",
+            "owner": "nccgroup",
+            "repo": "web3-decoder",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "L3X",
+          "description": "AI-driven Smart Contract Static Analyzer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-10-03T17:45:40Z",
+            "owner": "VulnPlanet",
+            "repo": "l3x",
+            "stars": 93
+          }
+        }
+      ],
+      "title": "BugHunting"
+    },
+    {
+      "description": "These tools complement static analysis by watching contracts post-deployment for honeypots, rug pulls, and adversarial deployer patterns. Most are free to use.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HoneyBadger",
+          "description": "Honeypot detector for Ethereum smart contracts (academic, EVM bytecode).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2023-03-07T13:58:29Z",
+            "owner": "christoftorres",
+            "repo": "HoneyBadger",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ContractScan",
+          "description": "Free client-side smart contract security scanner. Detects proxies, honeypots, rug pulls, and 11 vulnerability patterns across 6 EVM chains. Works in browser, no signup needed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-29T08:55:51Z",
+            "owner": "dutchaiagency",
+            "repo": "contractscan-api",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Runtime Monitoring & Scam Detection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Panoramix",
+          "description": "Ethereum decompiler",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-04T02:46:29Z",
+            "owner": "palkeo",
+            "repo": "panoramix",
+            "stars": 937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ethersplay",
+          "description": "Visual disassembler for EVM bytecode built on Binary Ninja",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-09-04T20:46:29Z",
+            "owner": "crytic",
+            "repo": "ethersplay",
+            "stars": 858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyevmasm",
+          "description": "EVM assembler and disassembler with a CLI and a Python API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-17T13:27:15Z",
+            "owner": "crytic",
+            "repo": "pyevmasm",
+            "stars": 387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evmlab",
+          "description": "Utilities for interacting with the Ethereum virtual machine",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-05-07T13:04:11Z",
+            "owner": "ethereum",
+            "repo": "evmlab",
+            "stars": 383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rattle",
+          "description": "EVM binary static analysis framework. Produces SSA representations of EVM code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-04T23:49:37Z",
+            "owner": "crytic",
+            "repo": "rattle",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IDA-EVM",
+          "description": "IDA plugin to view EVM instructions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-19T09:47:36Z",
+            "owner": "crytic",
+            "repo": "ida-evm",
+            "stars": 330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "abi-decompiler",
+          "description": "EVM reverse engineering helper utility",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-06-15T19:48:27Z",
+            "owner": "Decurity",
+            "repo": "abi-decompiler",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ethereum-dasm",
+          "description": "EVM disassembler with static and dynamic analysis abilities, including function signature lookup",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-07T00:24:53Z",
+            "owner": "tintinweb",
+            "repo": "ethereum-dasm",
+            "stars": 222
+          }
+        }
+      ],
+      "title": "Reverse Engineering"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:27:40.554Z",
+    "original_repository": "saeidshirazi/Awesome-Smart-Contract-Security",
+    "original_repository_sha": "5452a06b434fd6249a063ba0158fcdedd02862d7",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Smart-Contract-Security",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Smart-Contract-Security with stars"
+  }
+}
