@@ -14,7 +14,7 @@
             "last_commit": "2026-08-12T22:56:04Z",
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6342
+            "stars": 6345
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2025-06-26T15:50:00Z",
             "owner": "ConsenSysDiligence",
             "repo": "surya",
-            "stars": 1171
+            "stars": 1172
           }
         },
         {
@@ -158,7 +158,7 @@
             "last_commit": "2026-08-12T22:56:04Z",
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6342
+            "stars": 6345
           }
         },
         {
@@ -197,7 +197,7 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-14T00:06:57Z",
+            "last_commit": "2026-08-14T23:14:32Z",
             "owner": "crytic",
             "repo": "echidna",
             "stars": 3167
@@ -310,7 +310,7 @@
             "last_commit": "2024-08-04T02:46:29Z",
             "owner": "palkeo",
             "repo": "panoramix",
-            "stars": 939
+            "stars": 940
           }
         },
         {
@@ -416,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:27:44.596Z",
+    "last_updated": "2026-08-15T10:58:03.081Z",
     "original_repository": "saeidshirazi/Awesome-Smart-Contract-Security",
     "original_repository_sha": "5452a06b434fd6249a063ba0158fcdedd02862d7",
     "enhanced_repository": "enhansome/enhansome-Awesome-Smart-Contract-Security",
