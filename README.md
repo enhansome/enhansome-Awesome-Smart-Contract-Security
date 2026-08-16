@@ -207,11 +207,11 @@ These tools complement static analysis by watching contracts post-deployment for
 | [6th Workshop on Trusted Smart Contracts](https://fc22.ifca.ai/wtsc/)                                                                                                                                                                            | WTSC 2022      | 2022 |
 | [Smart Contract Security: a Practitioners’ Perspective](https://conf.researchr.org/details/icse-2021/icse-2021-papers/12/Smart-Contract-Security-a-Practitioners-Perspective)                                                                    | ICSE 2021      | 2021 |
 | [Predicting Random Numbers in Ethereum Smart Contracts](https://schd.ws/hosted_files/appseccalifornia2018/00/AppSecCali%202018%20-%20Predicting%20Random%20Numbers%20in%20Ethereum%20Smart%20Contracts.pdf)                                      | OWASP AppSec   | 2018 |
-| [Blockchain Autopsies - Analyzing Smart Contract Deaths](https://github.com/trailofbits/publications/tree/master/presentations/Blockchain%20Autopsies%20-%20Analyzing%20Smart%20Contract%20Deaths) ⭐ 1,877 \| 🐛 3 \| 🌐 Python \| 📅 2026-08-14 | Blackhat USA   | 2018 |
+| [Blockchain Autopsies - Analyzing Smart Contract Deaths](https://github.com/trailofbits/publications/tree/master/presentations/Blockchain%20Autopsies%20-%20Analyzing%20Smart%20Contract%20Deaths) ⭐ 1,878 \| 🐛 3 \| 🌐 Python \| 📅 2026-08-14 | Blackhat USA   | 2018 |
 | [Rattle - an EVM binary analysis framework](https://www.trailofbits.com/presentations/rattle/)                                                                                                                                                   | reCON          | 2018 |
-| [Blackhat Ethereum](https://github.com/trailofbits/publications/blob/master/presentations/Blackhat%20Ethereum) ⭐ 1,877 \| 🐛 3 \| 🌐 Python \| 📅 2026-08-14                                                                                     | CanSecWest     | 2018 |
+| [Blackhat Ethereum](https://github.com/trailofbits/publications/blob/master/presentations/Blackhat%20Ethereum) ⭐ 1,878 \| 🐛 3 \| 🌐 Python \| 📅 2026-08-14                                                                                     | CanSecWest     | 2018 |
 | [Smashing Ethereum Smart Contracts for Fun and Profit](https://github.com/b-mueller/smashing-smart-contracts) ⚠️ Archived                                                                                                                        | HITB Amsterdam | 2018 |
-| [Automatic Bug Finding for the Blockchain](https://github.com/trailofbits/publications/blob/master/presentations/Automatic%20bugfinding%20for%20the%20blockchain) ⭐ 1,877 \| 🐛 3 \| 🌐 Python \| 📅 2026-08-14                                  | EkoParty       | 2017 |
+| [Automatic Bug Finding for the Blockchain](https://github.com/trailofbits/publications/blob/master/presentations/Automatic%20bugfinding%20for%20the%20blockchain) ⭐ 1,878 \| 🐛 3 \| 🌐 Python \| 📅 2026-08-14                                  | EkoParty       | 2017 |
 
 # Misc
 
@@ -282,4 +282,4 @@ These tools complement static analysis by watching contracts post-deployment for
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
