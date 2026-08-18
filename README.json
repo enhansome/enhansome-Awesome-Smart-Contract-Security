@@ -124,7 +124,7 @@
             "last_commit": "2026-08-13T13:28:54Z",
             "owner": "protofire",
             "repo": "solhint",
-            "stars": 1126
+            "stars": 1125
           }
         },
         {
@@ -416,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T11:02:20.853Z",
+    "last_updated": "2026-08-18T11:02:17.298Z",
     "original_repository": "saeidshirazi/Awesome-Smart-Contract-Security",
     "original_repository_sha": "5452a06b434fd6249a063ba0158fcdedd02862d7",
     "enhanced_repository": "enhansome/enhansome-Awesome-Smart-Contract-Security",
