@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 147583941,
                 "language": "Python",
-                "last_commit": "2026-08-12T22:56:04Z",
+                "last_commit": "2026-08-19T22:55:02Z",
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6345
+                "stars": 6346
               }
             },
             {
@@ -170,10 +170,10 @@
                 "archived": false,
                 "id": 147583941,
                 "language": "Python",
-                "last_commit": "2026-08-12T22:56:04Z",
+                "last_commit": "2026-08-19T22:55:02Z",
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6345
+                "stars": 6346
               }
             },
             {
@@ -483,7 +483,7 @@
             "last_commit": "2024-02-15T09:18:47Z",
             "owner": "sec-bit",
             "repo": "awesome-buggy-erc20-tokens",
-            "stars": 630
+            "stars": 631
           }
         },
         {
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:08:27.800Z",
+    "last_updated": "2026-08-20T11:03:25.185Z",
     "original_repository": "saeidshirazi/Awesome-Smart-Contract-Security",
     "original_repository_id": 488823706,
     "original_repository_sha": "5452a06b434fd6249a063ba0158fcdedd02862d7",

@@ -128,7 +128,7 @@
 
 ### Visualization
 
-* [Slither](https://github.com/trailofbits/slither) ⭐ 6,345 | 🐛 473 | 🌐 Python | 📅 2026-08-12 - Slither can map method visibility and modifiers, state variables that are read and written, calls, and can print the inheritance graph of a smart contract
+* [Slither](https://github.com/trailofbits/slither) ⭐ 6,346 | 🐛 474 | 🌐 Python | 📅 2026-08-19 - Slither can map method visibility and modifiers, state variables that are read and written, calls, and can print the inheritance graph of a smart contract
 * [Surya](https://github.com/ConsenSys/surya) ⭐ 1,172 | 🐛 8 | 🌐 JavaScript | 📅 2025-06-26 - Generates various visual outputs of function call graphs
 * [Solgraph](https://github.com/raineorshine/solgraph) ⭐ 1,028 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-04 - Generates DOT graphs with function control flow of a solidity contract
 * [ethereum-graph-debugger](https://github.com/fergarrui/ethereum-graph-debugger) ⭐ 349 | 🐛 21 | 🌐 TypeScript | 📅 2023-03-03 - A graphical EVM debugger. Displays the entire program control flow graph.
@@ -148,7 +148,7 @@
 
 ### BugHunting
 
-* [Slither](https://github.com/trailofbits/slither) ⭐ 6,345 | 🐛 473 | 🌐 Python | 📅 2026-08-12 - Static analysis framework, written in Python, with detectors for many common Solidity issues
+* [Slither](https://github.com/trailofbits/slither) ⭐ 6,346 | 🐛 474 | 🌐 Python | 📅 2026-08-19 - Static analysis framework, written in Python, with detectors for many common Solidity issues
 * [Mythril OSS](https://github.com/ConsenSys/mythril/) ⭐ 4,262 | 🐛 129 | 🌐 Python | 📅 2026-04-27 - Open-source security analysis tool for Ethereum smart contracts built around detector modules
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
 * [Echidna](https://github.com/trailofbits/echidna) ⭐ 3,169 | 🐛 104 | 🌐 Haskell | 📅 2026-08-14 - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
@@ -216,7 +216,7 @@ These tools complement static analysis by watching contracts post-deployment for
 # Misc
 
 * [Examples of Solidity security issues](https://github.com/crytic/not-so-smart-contracts) ⚠️ Archived
-* [A Collection of Vulnerabilities in ERC20 Smart Contracts](https://github.com/sec-bit/awesome-buggy-erc20-tokens) ⭐ 630 | 🐛 9 | 🌐 Python | 📅 2024-02-15
+* [A Collection of Vulnerabilities in ERC20 Smart Contracts](https://github.com/sec-bit/awesome-buggy-erc20-tokens) ⭐ 631 | 🐛 9 | 🌐 Python | 📅 2024-02-15
 * [A guide to EOS smart contract security best practices](https://github.com/slowmist/eos-smart-contract-security-best-practices) ⭐ 392 | 🐛 0 | 📅 2025-07-31
 * [A guide to smart contract security best practices](https://github.com/ConsenSys/smart-contract-best-practices) ⭐ 25 | 🐛 0 | 🌐 HTML | 📅 2025-03-28
 * [A guide to smart contract security best practices](https://github.com/ConsenSys/smart-contract-best-practices) ⭐ 25 | 🐛 0 | 🌐 HTML | 📅 2025-03-28
@@ -282,4 +282,4 @@ These tools complement static analysis by watching contracts post-deployment for
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
