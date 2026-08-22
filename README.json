@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T22:55:02Z",
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6346
+                "stars": 6349
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-19T22:55:02Z",
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6346
+                "stars": 6349
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-04-27T04:13:25Z",
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4262
+                "stars": 4264
               }
             },
             {
@@ -337,7 +337,7 @@
                 "last_commit": "2024-08-04T02:46:29Z",
                 "owner": "palkeo",
                 "repo": "panoramix",
-                "stars": 940
+                "stars": 941
               }
             },
             {
@@ -352,7 +352,7 @@
                 "last_commit": "2023-09-04T20:46:29Z",
                 "owner": "crytic",
                 "repo": "ethersplay",
-                "stars": 858
+                "stars": 856
               }
             },
             {
@@ -468,7 +468,7 @@
             "last_commit": "2023-02-24T12:18:59Z",
             "owner": "crytic",
             "repo": "not-so-smart-contracts",
-            "stars": 2227
+            "stars": 2226
           }
         },
         {
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:02:50.778Z",
+    "last_updated": "2026-08-22T10:59:02.055Z",
     "original_repository": "saeidshirazi/Awesome-Smart-Contract-Security",
     "original_repository_id": 488823706,
     "original_repository_sha": "5452a06b434fd6249a063ba0158fcdedd02862d7",
