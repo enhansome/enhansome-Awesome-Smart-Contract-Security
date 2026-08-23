@@ -136,7 +136,7 @@
                 "last_commit": "2026-08-13T13:28:54Z",
                 "owner": "protofire",
                 "repo": "solhint",
-                "stars": 1125
+                "stars": 1126
               }
             },
             {
@@ -218,7 +218,7 @@
                 "last_commit": "2026-08-14T23:14:32Z",
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3169
+                "stars": 3170
               }
             },
             {
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T10:59:02.055Z",
+    "last_updated": "2026-08-23T10:59:03.817Z",
     "original_repository": "saeidshirazi/Awesome-Smart-Contract-Security",
     "original_repository_id": 488823706,
     "original_repository_sha": "5452a06b434fd6249a063ba0158fcdedd02862d7",
