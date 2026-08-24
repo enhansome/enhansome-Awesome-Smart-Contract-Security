@@ -458,6 +458,72 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Blockchain Autopsies - Analyzing Smart Contract Deaths",
+          "description": "Blackhat USA 2018",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34814001,
+            "language": "Python",
+            "last_commit": "2026-08-19T05:07:48Z",
+            "owner": "trailofbits",
+            "repo": "publications",
+            "stars": 1879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blackhat Ethereum",
+          "description": "CanSecWest 2018",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34814001,
+            "language": "Python",
+            "last_commit": "2026-08-19T05:07:48Z",
+            "owner": "trailofbits",
+            "repo": "publications",
+            "stars": 1879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smashing Ethereum Smart Contracts for Fun and Profit",
+          "description": "HITB Amsterdam 2018",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 127846989,
+            "language": "HTML",
+            "last_commit": "2019-08-12T21:04:58Z",
+            "owner": "muellerberndt",
+            "repo": "smashing-smart-contracts",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Automatic Bug Finding for the Blockchain",
+          "description": "EkoParty 2017",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34814001,
+            "language": "Python",
+            "last_commit": "2026-08-19T05:07:48Z",
+            "owner": "trailofbits",
+            "repo": "publications",
+            "stars": 1879
+          }
+        }
+      ],
+      "title": "Talks"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Examples of Solidity security issues",
           "description": null,
           "children": [],
@@ -539,6 +605,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Solidity Cheatsheet and Best practices",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111513785,
+            "language": null,
+            "last_commit": "2026-04-05T02:30:43Z",
+            "owner": "manojpramesh",
+            "repo": "solidity-cheatsheet",
+            "stars": 1507
+          }
+        }
+      ],
+      "title": "Cheat Sheets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Solidity Auditing Checklistt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137932038,
+            "language": null,
+            "last_commit": "2023-03-06T15:58:19Z",
+            "owner": "cryptofinlabs",
+            "repo": "audit-checklist",
+            "stars": 368
+          }
+        }
+      ],
+      "title": "Checklists"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Smart Contract security audit reports",
           "description": null,
           "children": [],
@@ -572,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:06:46.601Z",
+    "last_updated": "2026-08-24T14:14:50.870Z",
     "original_repository": "saeidshirazi/Awesome-Smart-Contract-Security",
     "original_repository_id": 488823706,
     "original_repository_sha": "5452a06b434fd6249a063ba0158fcdedd02862d7",
