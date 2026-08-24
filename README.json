@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T22:55:02Z",
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6349
+                "stars": 6350
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-12T16:01:08Z",
                 "owner": "runtimeverification",
                 "repo": "evm-semantics",
-                "stars": 589
+                "stars": 590
               }
             }
           ],
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-19T22:55:02Z",
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6349
+                "stars": 6350
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-04-27T04:13:25Z",
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4264
+                "stars": 4265
               }
             },
             {
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:59:03.817Z",
+    "last_updated": "2026-08-24T11:06:46.601Z",
     "original_repository": "saeidshirazi/Awesome-Smart-Contract-Security",
     "original_repository_id": 488823706,
     "original_repository_sha": "5452a06b434fd6249a063ba0158fcdedd02862d7",
