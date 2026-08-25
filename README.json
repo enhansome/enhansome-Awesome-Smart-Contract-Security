@@ -215,7 +215,7 @@
                 "archived": false,
                 "id": 101585932,
                 "language": "Haskell",
-                "last_commit": "2026-08-24T21:11:29Z",
+                "last_commit": "2026-08-25T06:19:25Z",
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3170
@@ -615,7 +615,7 @@
             "last_commit": "2026-04-05T02:30:43Z",
             "owner": "manojpramesh",
             "repo": "solidity-cheatsheet",
-            "stars": 1507
+            "stars": 1506
           }
         }
       ],
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:10:19.373Z",
+    "last_updated": "2026-08-25T11:04:22.361Z",
     "original_repository": "saeidshirazi/Awesome-Smart-Contract-Security",
     "original_repository_id": 488823706,
     "original_repository_sha": "5452a06b434fd6249a063ba0158fcdedd02862d7",
