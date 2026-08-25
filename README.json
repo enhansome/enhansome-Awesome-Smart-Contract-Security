@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T22:55:02Z",
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6350
+                "stars": 6351
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2026-06-24T16:28:22Z",
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3859
+                "stars": 3858
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-19T22:55:02Z",
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6350
+                "stars": 6351
               }
             },
             {
@@ -203,7 +203,7 @@
                 "last_commit": "2026-06-24T16:28:22Z",
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3859
+                "stars": 3858
               }
             },
             {
@@ -215,7 +215,7 @@
                 "archived": false,
                 "id": 101585932,
                 "language": "Haskell",
-                "last_commit": "2026-08-14T23:14:32Z",
+                "last_commit": "2026-08-24T21:11:29Z",
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3170
@@ -468,7 +468,7 @@
             "last_commit": "2026-08-19T05:07:48Z",
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1879
+            "stars": 1878
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2026-08-19T05:07:48Z",
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1879
+            "stars": 1878
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2026-08-19T05:07:48Z",
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1879
+            "stars": 1878
           }
         }
       ],
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:14:50.870Z",
+    "last_updated": "2026-08-25T06:10:19.373Z",
     "original_repository": "saeidshirazi/Awesome-Smart-Contract-Security",
     "original_repository_id": 488823706,
     "original_repository_sha": "5452a06b434fd6249a063ba0158fcdedd02862d7",
