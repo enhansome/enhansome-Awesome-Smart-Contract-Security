@@ -111,7 +111,7 @@
                 "archived": false,
                 "id": 69834435,
                 "language": "KCL",
-                "last_commit": "2026-08-27T11:19:48Z",
+                "last_commit": "2026-08-27T15:33:55Z",
                 "owner": "runtimeverification",
                 "repo": "evm-semantics",
                 "stars": 590
@@ -136,7 +136,7 @@
                 "last_commit": "2026-08-13T13:28:54Z",
                 "owner": "protofire",
                 "repo": "solhint",
-                "stars": 1126
+                "stars": 1127
               }
             },
             {
@@ -215,7 +215,7 @@
                 "archived": false,
                 "id": 101585932,
                 "language": "Haskell",
-                "last_commit": "2026-08-26T21:34:24Z",
+                "last_commit": "2026-08-27T13:12:52Z",
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3171
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:24:48.720Z",
+    "last_updated": "2026-08-27T20:46:02.169Z",
     "original_repository_info": {
       "archived": false,
       "id": 488823706,
