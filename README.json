@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 147583941,
                 "language": "Python",
-                "last_commit": "2026-08-19T22:55:02Z",
+                "last_commit": "2026-08-26T22:54:54Z",
                 "owner": "crytic",
                 "repo": "slither",
                 "stars": 6353
@@ -99,7 +99,7 @@
                 "last_commit": "2026-06-24T16:28:22Z",
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3858
+                "stars": 3857
               }
             },
             {
@@ -111,7 +111,7 @@
                 "archived": false,
                 "id": 69834435,
                 "language": "KCL",
-                "last_commit": "2026-08-12T16:01:08Z",
+                "last_commit": "2026-08-27T11:19:48Z",
                 "owner": "runtimeverification",
                 "repo": "evm-semantics",
                 "stars": 590
@@ -170,7 +170,7 @@
                 "archived": false,
                 "id": 147583941,
                 "language": "Python",
-                "last_commit": "2026-08-19T22:55:02Z",
+                "last_commit": "2026-08-26T22:54:54Z",
                 "owner": "crytic",
                 "repo": "slither",
                 "stars": 6353
@@ -203,7 +203,7 @@
                 "last_commit": "2026-06-24T16:28:22Z",
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3858
+                "stars": 3857
               }
             },
             {
@@ -215,10 +215,10 @@
                 "archived": false,
                 "id": 101585932,
                 "language": "Haskell",
-                "last_commit": "2026-08-25T06:19:25Z",
+                "last_commit": "2026-08-26T21:34:24Z",
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3170
+                "stars": 3171
               }
             },
             {
@@ -337,7 +337,7 @@
                 "last_commit": "2024-08-04T02:46:29Z",
                 "owner": "palkeo",
                 "repo": "panoramix",
-                "stars": 941
+                "stars": 943
               }
             },
             {
@@ -468,7 +468,7 @@
             "last_commit": "2026-08-19T05:07:48Z",
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1878
+            "stars": 1880
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2026-08-19T05:07:48Z",
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1878
+            "stars": 1880
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2026-08-19T05:07:48Z",
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1878
+            "stars": 1880
           }
         }
       ],
@@ -680,9 +680,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:07:11.659Z",
-    "original_repository": "saeidshirazi/Awesome-Smart-Contract-Security",
-    "original_repository_id": 488823706,
+    "last_updated": "2026-08-27T11:24:48.720Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 488823706,
+      "language": null,
+      "last_commit": "2026-07-13T20:44:26Z",
+      "owner": "saeidshirazi",
+      "repo": "Awesome-Smart-Contract-Security",
+      "stars": 906
+    },
     "original_repository_sha": "5452a06b434fd6249a063ba0158fcdedd02862d7",
     "enhanced_repository": "enhansome/enhansome-Awesome-Smart-Contract-Security",
     "enhanced_repository_description": null,
