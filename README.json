@@ -21,7 +21,7 @@
                 "open_issues": 473,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6354,
+                "stars": 6355,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -289,7 +289,7 @@
                 "open_issues": 473,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6354,
+                "stars": 6355,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -378,7 +378,7 @@
                 "open_issues": 102,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3171,
+                "stars": 3172,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -1051,7 +1051,7 @@
             "open_issues": 0,
             "owner": "manojpramesh",
             "repo": "solidity-cheatsheet",
-            "stars": 1506,
+            "stars": 1507,
             "topics": [
               "best-practices",
               "blockchain",
@@ -1157,7 +1157,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:35:26.520Z",
+    "last_updated": "2026-08-29T15:19:50.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
