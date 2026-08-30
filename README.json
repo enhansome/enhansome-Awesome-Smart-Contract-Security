@@ -47,7 +47,7 @@
                 "open_issues": 8,
                 "owner": "ConsenSysDiligence",
                 "repo": "surya",
-                "stars": 1173,
+                "stars": 1172,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -68,7 +68,7 @@
                 "open_issues": 5,
                 "owner": "raineorshine",
                 "repo": "solgraph",
-                "stars": 1028,
+                "stars": 1027,
                 "topics": [
                   "ethereum",
                   "solidity"
@@ -92,7 +92,7 @@
                 "open_issues": 21,
                 "owner": "fergarrui",
                 "repo": "ethereum-graph-debugger",
-                "stars": 349,
+                "stars": 348,
                 "topics": [
                   "blockchain",
                   "bytecode",
@@ -131,7 +131,7 @@
                 "open_issues": 2,
                 "owner": "EricR",
                 "repo": "sol-function-profiler",
-                "stars": 80,
+                "stars": 79,
                 "topics": [
                   "ethereum",
                   "solidity"
@@ -162,7 +162,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3858,
+                "stars": 3857,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -191,11 +191,11 @@
                 "id": 69834435,
                 "language": "KCL",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-28T12:48:58Z",
+                "last_commit": "2026-08-30T05:40:43Z",
                 "open_issues": 89,
                 "owner": "runtimeverification",
                 "repo": "evm-semantics",
-                "stars": 590,
+                "stars": 589,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -223,7 +223,7 @@
                 "open_issues": 3,
                 "owner": "protofire",
                 "repo": "solhint",
-                "stars": 1127,
+                "stars": 1126,
                 "topics": [
                   "ast",
                   "code-quality",
@@ -255,7 +255,7 @@
                 "open_issues": 73,
                 "owner": "duaraghav8",
                 "repo": "Ethlint",
-                "stars": 921,
+                "stars": 920,
                 "topics": [
                   "ethereum",
                   "lint",
@@ -345,7 +345,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3858,
+                "stars": 3857,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -407,7 +407,7 @@
                 "open_issues": 36,
                 "owner": "eth-sri",
                 "repo": "securify2",
-                "stars": 636,
+                "stars": 635,
                 "topics": [
                   "datalog",
                   "ethereum",
@@ -631,7 +631,7 @@
                 "open_issues": 9,
                 "owner": "crytic",
                 "repo": "ethersplay",
-                "stars": 856,
+                "stars": 855,
                 "topics": [
                   "binary-ninja",
                   "disassembler",
@@ -657,7 +657,7 @@
                 "open_issues": 20,
                 "owner": "crytic",
                 "repo": "pyevmasm",
-                "stars": 387,
+                "stars": 386,
                 "topics": [
                   "assembler",
                   "dissassembler",
@@ -684,7 +684,7 @@
                 "open_issues": 10,
                 "owner": "ethereum",
                 "repo": "evmlab",
-                "stars": 383,
+                "stars": 380,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -705,7 +705,7 @@
                 "open_issues": 12,
                 "owner": "crytic",
                 "repo": "rattle",
-                "stars": 367,
+                "stars": 366,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -730,7 +730,7 @@
                 "open_issues": 8,
                 "owner": "crytic",
                 "repo": "ida-evm",
-                "stars": 330,
+                "stars": 329,
                 "topics": [
                   "dissassembler",
                   "evm",
@@ -757,7 +757,7 @@
                 "open_issues": 1,
                 "owner": "Decurity",
                 "repo": "abi-decompiler",
-                "stars": 231,
+                "stars": 230,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -778,7 +778,7 @@
                 "open_issues": 2,
                 "owner": "tintinweb",
                 "repo": "ethereum-dasm",
-                "stars": 222,
+                "stars": 221,
                 "topics": [
                   "blockchain",
                   "disassembler",
@@ -919,7 +919,7 @@
             "open_issues": 10,
             "owner": "crytic",
             "repo": "not-so-smart-contracts",
-            "stars": 2226,
+            "stars": 2225,
             "topics": [
               "ethereum",
               "solidity",
@@ -944,7 +944,7 @@
             "open_issues": 9,
             "owner": "sec-bit",
             "repo": "awesome-buggy-erc20-tokens",
-            "stars": 631,
+            "stars": 630,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1084,7 +1084,7 @@
             "open_issues": 1,
             "owner": "cryptofinlabs",
             "repo": "audit-checklist",
-            "stars": 368,
+            "stars": 369,
             "topics": [
               "ethereum",
               "security",
@@ -1157,7 +1157,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:19:50.506Z",
+    "last_updated": "2026-08-30T15:00:27.427Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
