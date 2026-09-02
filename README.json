@@ -21,7 +21,7 @@
                 "open_issues": 474,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6357,
+                "stars": 6359,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -289,7 +289,7 @@
                 "open_issues": 474,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6357,
+                "stars": 6359,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -374,8 +374,8 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-31T10:29:55Z",
-                "open_issues": 101,
+                "last_commit": "2026-09-02T12:41:05Z",
+                "open_issues": 105,
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3172,
@@ -610,7 +610,7 @@
                 "open_issues": 36,
                 "owner": "palkeo",
                 "repo": "panoramix",
-                "stars": 945,
+                "stars": 946,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -813,11 +813,11 @@
             "id": 34814001,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-31T19:55:29Z",
+            "last_commit": "2026-09-02T05:07:39Z",
             "open_issues": 3,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1884,
+            "stars": 1886,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -838,11 +838,11 @@
             "id": 34814001,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-31T19:55:29Z",
+            "last_commit": "2026-09-02T05:07:39Z",
             "open_issues": 3,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1884,
+            "stars": 1886,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -884,11 +884,11 @@
             "id": 34814001,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-31T19:55:29Z",
+            "last_commit": "2026-09-02T05:07:39Z",
             "open_issues": 3,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1884,
+            "stars": 1886,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1157,7 +1157,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T15:11:20.764Z",
+    "last_updated": "2026-09-02T14:42:29.584Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
