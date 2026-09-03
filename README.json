@@ -17,11 +17,11 @@
                 "id": 147583941,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-26T22:54:54Z",
+                "last_commit": "2026-09-02T22:56:07Z",
                 "open_issues": 474,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6359,
+                "stars": 6357,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -68,7 +68,7 @@
                 "open_issues": 5,
                 "owner": "raineorshine",
                 "repo": "solgraph",
-                "stars": 1027,
+                "stars": 1026,
                 "topics": [
                   "ethereum",
                   "solidity"
@@ -219,8 +219,8 @@
                 "id": 107120334,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-13T13:28:54Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-03T00:20:05Z",
+                "open_issues": 5,
                 "owner": "protofire",
                 "repo": "solhint",
                 "stars": 1126,
@@ -285,11 +285,11 @@
                 "id": 147583941,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-26T22:54:54Z",
+                "last_commit": "2026-09-02T22:56:07Z",
                 "open_issues": 474,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6359,
+                "stars": 6357,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -374,11 +374,11 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-02T12:41:05Z",
-                "open_issues": 105,
+                "last_commit": "2026-09-02T21:35:09Z",
+                "open_issues": 106,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3172,
+                "stars": 3173,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -407,7 +407,7 @@
                 "open_issues": 36,
                 "owner": "eth-sri",
                 "repo": "securify2",
-                "stars": 634,
+                "stars": 633,
                 "topics": [
                   "datalog",
                   "ethereum",
@@ -436,7 +436,7 @@
                 "open_issues": 12,
                 "owner": "FuzzingLabs",
                 "repo": "octopus",
-                "stars": 494,
+                "stars": 493,
                 "topics": [
                   "blockchain",
                   "call-flow-analysis",
@@ -517,6 +517,70 @@
                 ]
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OpenClaw Audit",
+              "description": "Free heuristic static analysis scanner for Solidity with a GitHub Action; 12 detectors, calibrated to 0 findings across the OpenZeppelin library. No API keys, MIT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Free heuristic Solidity security scanner — repo in, professional report out.",
+                "homepage": "https://juan23z.github.io",
+                "id": 1296758056,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-06T21:35:10Z",
+                "open_issues": 0,
+                "owner": "juan23z",
+                "repo": "openclaw-audit",
+                "stars": 1,
+                "topics": [
+                  "audit",
+                  "defi",
+                  "ethereum",
+                  "github-action",
+                  "security",
+                  "smart-contract-security",
+                  "smart-contracts",
+                  "solidity",
+                  "solidity-security",
+                  "static-analysis",
+                  "vulnerability-scanner",
+                  "web3"
+                ]
+              },
+              "first_seen": "2026-09-03T14:43:31.398Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Al-Mizaan Judge",
+              "description": "CLI that runs a bug bounty finding through an adversarial debate (Defender/Attacker/Judge) before you spend a Sherlock/Immunefi/Cantina submission on it",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Strict 7-gate validity judge for a smart-contract bug bounty finding, a second opinion before you spend a Sherlock/Immunefi/Cantina submission.",
+                "homepage": null,
+                "id": 1330695896,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-08-20T10:58:28Z",
+                "open_issues": 0,
+                "owner": "holistis",
+                "repo": "al-mizaan-judge",
+                "stars": 1,
+                "topics": [
+                  "bug-bounty",
+                  "cli",
+                  "defi",
+                  "llm",
+                  "security",
+                  "smart-contracts",
+                  "solidity",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-09-03T14:43:31.398Z"
             }
           ],
           "description": null,
@@ -631,7 +695,7 @@
                 "open_issues": 9,
                 "owner": "crytic",
                 "repo": "ethersplay",
-                "stars": 855,
+                "stars": 854,
                 "topics": [
                   "binary-ninja",
                   "disassembler",
@@ -944,7 +1008,7 @@
             "open_issues": 9,
             "owner": "sec-bit",
             "repo": "awesome-buggy-erc20-tokens",
-            "stars": 630,
+            "stars": 629,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1157,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T14:42:29.584Z",
+    "last_updated": "2026-09-03T14:43:31.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
@@ -1165,8 +1229,8 @@
       "id": 488823706,
       "language": null,
       "license": null,
-      "last_commit": "2026-07-13T20:44:26Z",
-      "open_issues": 6,
+      "last_commit": "2026-09-02T23:28:35Z",
+      "open_issues": 2,
       "owner": "saeidshirazi",
       "repo": "Awesome-Smart-Contract-Security",
       "stars": 906,
@@ -1180,7 +1244,7 @@
         "solidity"
       ]
     },
-    "original_repository_sha": "5452a06b434fd6249a063ba0158fcdedd02862d7",
+    "original_repository_sha": "9ee0baeb51fa7a24643d6d0984eb3c0b6078460d",
     "enhanced_repository": "enhansome/enhansome-Awesome-Smart-Contract-Security",
     "enhanced_repository_description": null,
     "title": "Awesome-Smart-Contract-Security with stars"
