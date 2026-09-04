@@ -149,12 +149,12 @@
 ### BugHunting
 
 * [Slither](https://github.com/trailofbits/slither) ⭐ 6,357 | 🐛 474 | 🌐 Python | 📅 2026-09-02 - Static analysis framework, written in Python, with detectors for many common Solidity issues
-* [Mythril OSS](https://github.com/ConsenSys/mythril/) ⭐ 4,265 | 🐛 130 | 🌐 Python | 📅 2026-04-27 - Open-source security analysis tool for Ethereum smart contracts built around detector modules
+* [Mythril OSS](https://github.com/ConsenSys/mythril/) ⭐ 4,266 | 🐛 130 | 🌐 Python | 📅 2026-04-27 - Open-source security analysis tool for Ethereum smart contracts built around detector modules
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
-* [Echidna](https://github.com/trailofbits/echidna) ⭐ 3,173 | 🐛 106 | 🌐 Haskell | 📅 2026-09-02 - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
+* [Echidna](https://github.com/trailofbits/echidna) ⭐ 3,173 | 🐛 107 | 🌐 Haskell | 📅 2026-09-03 - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
 * [Securify v2.0](https://github.com/eth-sri/securify2) ⭐ 633 | 🐛 36 | 🌐 Solidity | 📅 2025-05-25 - Static analysis tool from ChainSecurity
 * [Octopus](https://github.com/pventuzelo/octopus) ⚠️ Archived - : Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
-* [Web3 Decoder](https://github.com/nccgroup/web3-decoder) ⭐ 115 | 🐛 0 | 🌐 Java | 📅 2026-06-02 - Web3 Decoder is a Burp Suite Extension that helps to analyze what is going on with the operations involving smart contracts of the web3
+* [Web3 Decoder](https://github.com/nccgroup/web3-decoder) ⭐ 116 | 🐛 0 | 🌐 Java | 📅 2026-06-02 - Web3 Decoder is a Burp Suite Extension that helps to analyze what is going on with the operations involving smart contracts of the web3
 * [L3X](https://github.com/VulnPlanet/l3x) ⭐ 93 | 🐛 0 | 🌐 Rust | 📅 2024-10-03 - AI-driven Smart Contract Static Analyzer
 * [OpenClaw Audit](https://github.com/juan23z/openclaw-audit) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-06 - Free heuristic static analysis scanner for Solidity with a GitHub Action; 12 detectors, calibrated to 0 findings across the OpenZeppelin library. No API keys, MIT.
 * [Al-Mizaan Judge](https://github.com/holistis/al-mizaan-judge) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-20 - CLI that runs a bug bounty finding through an adversarial debate (Defender/Attacker/Judge) before you spend a Sherlock/Immunefi/Cantina submission on it
@@ -174,7 +174,7 @@ These tools complement static analysis by watching contracts post-deployment for
 
 ### Reverse Engineering
 
-* [Panoramix](https://github.com/palkeo/panoramix) ⭐ 946 | 🐛 36 | 🌐 Python | 📅 2024-08-04 - Ethereum decompiler
+* [Panoramix](https://github.com/palkeo/panoramix) ⭐ 946 | 🐛 37 | 🌐 Python | 📅 2024-08-04 - Ethereum decompiler
 * [Ethersplay](https://github.com/trailofbits/ethersplay) ⚠️ Archived - Visual disassembler for EVM bytecode built on Binary Ninja
 * [pyevmasm](https://github.com/trailofbits/pyevmasm) ⭐ 386 | 🐛 20 | 🌐 Python | 📅 2026-04-17 - EVM assembler and disassembler with a CLI and a Python API
 * [evmlab](https://github.com/ethereum/evmlab) ⚠️ Archived - Utilities for interacting with the Ethereum virtual machine
@@ -210,11 +210,11 @@ These tools complement static analysis by watching contracts post-deployment for
 | [6th Workshop on Trusted Smart Contracts](https://fc22.ifca.ai/wtsc/)                                                                                                                                                                            | WTSC 2022      | 2022 |
 | [Smart Contract Security: a Practitioners’ Perspective](https://conf.researchr.org/details/icse-2021/icse-2021-papers/12/Smart-Contract-Security-a-Practitioners-Perspective)                                                                    | ICSE 2021      | 2021 |
 | [Predicting Random Numbers in Ethereum Smart Contracts](https://schd.ws/hosted_files/appseccalifornia2018/00/AppSecCali%202018%20-%20Predicting%20Random%20Numbers%20in%20Ethereum%20Smart%20Contracts.pdf)                                      | OWASP AppSec   | 2018 |
-| [Blockchain Autopsies - Analyzing Smart Contract Deaths](https://github.com/trailofbits/publications/tree/master/presentations/Blockchain%20Autopsies%20-%20Analyzing%20Smart%20Contract%20Deaths) ⭐ 1,886 \| 🐛 3 \| 🌐 Python \| 📅 2026-09-02 | Blackhat USA   | 2018 |
+| [Blockchain Autopsies - Analyzing Smart Contract Deaths](https://github.com/trailofbits/publications/tree/master/presentations/Blockchain%20Autopsies%20-%20Analyzing%20Smart%20Contract%20Deaths) ⭐ 1,886 \| 🐛 4 \| 🌐 Python \| 📅 2026-09-04 | Blackhat USA   | 2018 |
 | [Rattle - an EVM binary analysis framework](https://www.trailofbits.com/presentations/rattle/)                                                                                                                                                   | reCON          | 2018 |
-| [Blackhat Ethereum](https://github.com/trailofbits/publications/blob/master/presentations/Blackhat%20Ethereum) ⭐ 1,886 \| 🐛 3 \| 🌐 Python \| 📅 2026-09-02                                                                                     | CanSecWest     | 2018 |
+| [Blackhat Ethereum](https://github.com/trailofbits/publications/blob/master/presentations/Blackhat%20Ethereum) ⭐ 1,886 \| 🐛 4 \| 🌐 Python \| 📅 2026-09-04                                                                                     | CanSecWest     | 2018 |
 | [Smashing Ethereum Smart Contracts for Fun and Profit](https://github.com/b-mueller/smashing-smart-contracts) ⚠️ Archived                                                                                                                        | HITB Amsterdam | 2018 |
-| [Automatic Bug Finding for the Blockchain](https://github.com/trailofbits/publications/blob/master/presentations/Automatic%20bugfinding%20for%20the%20blockchain) ⭐ 1,886 \| 🐛 3 \| 🌐 Python \| 📅 2026-09-02                                  | EkoParty       | 2017 |
+| [Automatic Bug Finding for the Blockchain](https://github.com/trailofbits/publications/blob/master/presentations/Automatic%20bugfinding%20for%20the%20blockchain) ⭐ 1,886 \| 🐛 4 \| 🌐 Python \| 📅 2026-09-04                                  | EkoParty       | 2017 |
 
 # Misc
 
@@ -286,4 +286,4 @@ These tools complement static analysis by watching contracts post-deployment for
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
