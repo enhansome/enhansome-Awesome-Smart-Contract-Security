@@ -128,7 +128,7 @@
 
 ### Visualization
 
-* [Slither](https://github.com/trailofbits/slither) ⭐ 6,357 | 🐛 474 | 🌐 Python | 📅 2026-09-02 - Slither can map method visibility and modifiers, state variables that are read and written, calls, and can print the inheritance graph of a smart contract
+* [Slither](https://github.com/trailofbits/slither) ⭐ 6,355 | 🐛 475 | 🌐 Python | 📅 2026-09-02 - Slither can map method visibility and modifiers, state variables that are read and written, calls, and can print the inheritance graph of a smart contract
 * [Surya](https://github.com/ConsenSys/surya) ⭐ 1,172 | 🐛 8 | 🌐 JavaScript | 📅 2025-06-26 - Generates various visual outputs of function call graphs
 * [Solgraph](https://github.com/raineorshine/solgraph) ⭐ 1,026 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-04 - Generates DOT graphs with function control flow of a solidity contract
 * [ethereum-graph-debugger](https://github.com/fergarrui/ethereum-graph-debugger) ⭐ 348 | 🐛 21 | 🌐 TypeScript | 📅 2023-03-03 - A graphical EVM debugger. Displays the entire program control flow graph.
@@ -141,15 +141,15 @@
 
 ### Linters
 
-* [Solhint](https://github.com/protofire/solhint) ⭐ 1,126 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-03 - Linter for both security and style-guide validations. It strictly adheres to the [Solidity Style Guide](https://solidity.readthedocs.io/en/latest/style-guide.html).
+* [Solhint](https://github.com/protofire/solhint) ⭐ 1,125 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-03 - Linter for both security and style-guide validations. It strictly adheres to the [Solidity Style Guide](https://solidity.readthedocs.io/en/latest/style-guide.html).
 * [Solium](https://github.com/duaraghav8/Solium) ⭐ 920 | 🐛 73 | 🌐 JavaScript | 📅 2025-01-03 - Linter for both security and style-guide validations. Does not strictly adhere to the Solidity Style Guide.
 * [Remix](https://remix.ethereum.org/) - Browser-based Solidity IDE with linting features
 * [SmarrtCheck](https://tool.smartdec.net/) - A linter for Solidity and Vyper that checks code for security issues and bad practices.
 
 ### BugHunting
 
-* [Slither](https://github.com/trailofbits/slither) ⭐ 6,357 | 🐛 474 | 🌐 Python | 📅 2026-09-02 - Static analysis framework, written in Python, with detectors for many common Solidity issues
-* [Mythril OSS](https://github.com/ConsenSys/mythril/) ⭐ 4,267 | 🐛 130 | 🌐 Python | 📅 2026-04-27 - Open-source security analysis tool for Ethereum smart contracts built around detector modules
+* [Slither](https://github.com/trailofbits/slither) ⭐ 6,355 | 🐛 475 | 🌐 Python | 📅 2026-09-02 - Static analysis framework, written in Python, with detectors for many common Solidity issues
+* [Mythril OSS](https://github.com/ConsenSys/mythril/) ⭐ 4,266 | 🐛 130 | 🌐 Python | 📅 2026-04-27 - Open-source security analysis tool for Ethereum smart contracts built around detector modules
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
 * [Echidna](https://github.com/trailofbits/echidna) ⭐ 3,173 | 🐛 106 | 🌐 Haskell | 📅 2026-09-05 - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
 * [Securify v2.0](https://github.com/eth-sri/securify2) ⭐ 633 | 🐛 36 | 🌐 Solidity | 📅 2025-05-25 - Static analysis tool from ChainSecurity
@@ -174,11 +174,11 @@ These tools complement static analysis by watching contracts post-deployment for
 
 ### Reverse Engineering
 
-* [Panoramix](https://github.com/palkeo/panoramix) ⭐ 947 | 🐛 37 | 🌐 Python | 📅 2024-08-04 - Ethereum decompiler
+* [Panoramix](https://github.com/palkeo/panoramix) ⭐ 946 | 🐛 37 | 🌐 Python | 📅 2024-08-04 - Ethereum decompiler
 * [Ethersplay](https://github.com/trailofbits/ethersplay) ⚠️ Archived - Visual disassembler for EVM bytecode built on Binary Ninja
 * [pyevmasm](https://github.com/trailofbits/pyevmasm) ⭐ 386 | 🐛 20 | 🌐 Python | 📅 2026-04-17 - EVM assembler and disassembler with a CLI and a Python API
 * [evmlab](https://github.com/ethereum/evmlab) ⚠️ Archived - Utilities for interacting with the Ethereum virtual machine
-* [Rattle](https://github.com/trailofbits/rattle) ⭐ 366 | 🐛 12 | 🌐 Python | 📅 2023-09-04 - EVM binary static analysis framework. Produces SSA representations of EVM code.
+* [Rattle](https://github.com/trailofbits/rattle) ⭐ 365 | 🐛 12 | 🌐 Python | 📅 2023-09-04 - EVM binary static analysis framework. Produces SSA representations of EVM code.
 * [IDA-EVM](https://github.com/trailofbits/ida-evm) ⭐ 329 | 🐛 8 | 🌐 Python | 📅 2024-01-19 - IDA plugin to view EVM instructions
 * [abi-decompiler](https://github.com/beched/abi-decompiler) ⭐ 231 | 🐛 1 | 🌐 C | 📅 2022-06-15 - EVM reverse engineering helper utility
 * [ethereum-dasm](https://github.com/tintinweb/ethereum-dasm) ⭐ 221 | 🐛 2 | 🌐 Python | 📅 2019-07-07 - EVM disassembler with static and dynamic analysis abilities, including function signature lookup
@@ -237,14 +237,14 @@ These tools complement static analysis by watching contracts post-deployment for
 
 # Cheat Sheets
 
-* [Solidity Cheatsheet and Best practices](https://github.com/manojpramesh/solidity-cheatsheet) ⭐ 1,507 | 🐛 0 | 📅 2026-04-05
+* [Solidity Cheatsheet and Best practices](https://github.com/manojpramesh/solidity-cheatsheet) ⭐ 1,505 | 🐛 0 | 📅 2026-04-05
 * [Solidity Cheat Sheet](https://intellipaat.com/blog/tutorial/blockchain-tutorial/solidity-cheat-sheet/)
 * [Ethereum Cheat Sheet](https://intellipaat.com/blog/tutorial/blockchain-tutorial/ethereum-cheat-sheet/)
 * [The Ultimate Blockchain Cheat Sheet](https://101blockchains.com/blockchain-cheat-sheet/)
 
 # Checklists
 
-* [Solidity Auditing Checklistt](https://github.com/cryptofinlabs/audit-checklist) ⭐ 369 | 🐛 1 | 📅 2023-03-06
+* [Solidity Auditing Checklistt](https://github.com/cryptofinlabs/audit-checklist) ⭐ 367 | 🐛 1 | 📅 2023-03-06
 * [SMART CONTRACT SECURITY CHECKLIST](https://ethereum.org/en/developers/tutorials/secure-development-workflow/)
 * [Smart Contract Security Audit: Intro & Top 5 Best Practices](https://www.getastra.com/blog/security-audit/smart-contract-security/)
 * [Smart Contract Security Verification Standard](https://securing.github.io/SCSVS/)
@@ -252,7 +252,7 @@ These tools complement static analysis by watching contracts post-deployment for
 
 # Bug Bounty & Writeups
 
-* [Smart Contract security audit reports](https://github.com/TechRate/Smart-Contract-Audits) ⭐ 577 | 🐛 29 | 📅 2026-05-05
+* [Smart Contract security audit reports](https://github.com/TechRate/Smart-Contract-Audits) ⭐ 576 | 🐛 29 | 📅 2026-05-05
 
 * [Write up of Metaplex Vuln 2022](https://github.com/Bonfida/metaplex-vulnerability-012022) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2022-06-07
 
@@ -286,4 +286,4 @@ These tools complement static analysis by watching contracts post-deployment for
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
