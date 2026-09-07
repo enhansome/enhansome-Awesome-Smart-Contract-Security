@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-02T22:56:07Z",
-                "open_issues": 475,
+                "open_issues": 477,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6355,
+                "stars": 6356,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -191,7 +191,7 @@
                 "id": 69834435,
                 "language": "KCL",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-30T05:40:43Z",
+                "last_commit": "2026-09-07T12:47:53Z",
                 "open_issues": 89,
                 "owner": "runtimeverification",
                 "repo": "evm-semantics",
@@ -286,10 +286,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-02T22:56:07Z",
-                "open_issues": 475,
+                "open_issues": 477,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6355,
+                "stars": 6356,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -881,7 +881,7 @@
             "open_issues": 3,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1886,
+            "stars": 1887,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -906,7 +906,7 @@
             "open_issues": 3,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1886,
+            "stars": 1887,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -952,7 +952,7 @@
             "open_issues": 3,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1886,
+            "stars": 1887,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T13:48:09.863Z",
+    "last_updated": "2026-09-07T16:04:01.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
@@ -1230,7 +1230,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-02T23:28:35Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "saeidshirazi",
       "repo": "Awesome-Smart-Contract-Security",
       "stars": 905,
