@@ -128,7 +128,7 @@
 
 ### Visualization
 
-* [Slither](https://github.com/trailofbits/slither) ⭐ 6,356 | 🐛 477 | 🌐 Python | 📅 2026-09-02 - Slither can map method visibility and modifiers, state variables that are read and written, calls, and can print the inheritance graph of a smart contract
+* [Slither](https://github.com/trailofbits/slither) ⭐ 6,357 | 🐛 478 | 🌐 Python | 📅 2026-09-02 - Slither can map method visibility and modifiers, state variables that are read and written, calls, and can print the inheritance graph of a smart contract
 * [Surya](https://github.com/ConsenSys/surya) ⭐ 1,172 | 🐛 8 | 🌐 JavaScript | 📅 2025-06-26 - Generates various visual outputs of function call graphs
 * [Solgraph](https://github.com/raineorshine/solgraph) ⭐ 1,026 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-04 - Generates DOT graphs with function control flow of a solidity contract
 * [ethereum-graph-debugger](https://github.com/fergarrui/ethereum-graph-debugger) ⭐ 348 | 🐛 21 | 🌐 TypeScript | 📅 2023-03-03 - A graphical EVM debugger. Displays the entire program control flow graph.
@@ -137,7 +137,7 @@
 ### Verification
 
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool for EVM
-* [KEVM](https://github.com/kframework/evm-semantics) ⭐ 589 | 🐛 89 | 🌐 KCL | 📅 2026-09-07 - K Semantics of the Ethereum Virtual Machine (EVM)
+* [KEVM](https://github.com/kframework/evm-semantics) ⭐ 589 | 🐛 88 | 🌐 KCL | 📅 2026-09-08 - K Semantics of the Ethereum Virtual Machine (EVM)
 
 ### Linters
 
@@ -148,16 +148,16 @@
 
 ### BugHunting
 
-* [Slither](https://github.com/trailofbits/slither) ⭐ 6,356 | 🐛 477 | 🌐 Python | 📅 2026-09-02 - Static analysis framework, written in Python, with detectors for many common Solidity issues
+* [Slither](https://github.com/trailofbits/slither) ⭐ 6,357 | 🐛 478 | 🌐 Python | 📅 2026-09-02 - Static analysis framework, written in Python, with detectors for many common Solidity issues
 * [Mythril OSS](https://github.com/ConsenSys/mythril/) ⭐ 4,266 | 🐛 130 | 🌐 Python | 📅 2026-04-27 - Open-source security analysis tool for Ethereum smart contracts built around detector modules
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
-* [Echidna](https://github.com/trailofbits/echidna) ⭐ 3,173 | 🐛 106 | 🌐 Haskell | 📅 2026-09-05 - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
+* [Echidna](https://github.com/trailofbits/echidna) ⭐ 3,175 | 🐛 106 | 🌐 Haskell | 📅 2026-09-05 - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
 * [Securify v2.0](https://github.com/eth-sri/securify2) ⭐ 633 | 🐛 36 | 🌐 Solidity | 📅 2025-05-25 - Static analysis tool from ChainSecurity
 * [Octopus](https://github.com/pventuzelo/octopus) ⚠️ Archived - : Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
 * [Web3 Decoder](https://github.com/nccgroup/web3-decoder) ⭐ 116 | 🐛 0 | 🌐 Java | 📅 2026-06-02 - Web3 Decoder is a Burp Suite Extension that helps to analyze what is going on with the operations involving smart contracts of the web3
 * [L3X](https://github.com/VulnPlanet/l3x) ⭐ 93 | 🐛 0 | 🌐 Rust | 📅 2024-10-03 - AI-driven Smart Contract Static Analyzer
 * [OpenClaw Audit](https://github.com/juan23z/openclaw-audit) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-06 - Free heuristic static analysis scanner for Solidity with a GitHub Action; 12 detectors, calibrated to 0 findings across the OpenZeppelin library. No API keys, MIT.
-* [Al-Mizaan Judge](https://github.com/holistis/al-mizaan-judge) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-20 - CLI that runs a bug bounty finding through an adversarial debate (Defender/Attacker/Judge) before you spend a Sherlock/Immunefi/Cantina submission on it
+* [Al-Mizaan Judge](https://github.com/holistis/al-mizaan-judge) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-08 - CLI that runs a bug bounty finding through an adversarial debate (Defender/Attacker/Judge) before you spend a Sherlock/Immunefi/Cantina submission on it
 
 ### Runtime Monitoring & Scam Detection
 
@@ -210,11 +210,11 @@ These tools complement static analysis by watching contracts post-deployment for
 | [6th Workshop on Trusted Smart Contracts](https://fc22.ifca.ai/wtsc/)                                                                                                                                                                            | WTSC 2022      | 2022 |
 | [Smart Contract Security: a Practitioners’ Perspective](https://conf.researchr.org/details/icse-2021/icse-2021-papers/12/Smart-Contract-Security-a-Practitioners-Perspective)                                                                    | ICSE 2021      | 2021 |
 | [Predicting Random Numbers in Ethereum Smart Contracts](https://schd.ws/hosted_files/appseccalifornia2018/00/AppSecCali%202018%20-%20Predicting%20Random%20Numbers%20in%20Ethereum%20Smart%20Contracts.pdf)                                      | OWASP AppSec   | 2018 |
-| [Blockchain Autopsies - Analyzing Smart Contract Deaths](https://github.com/trailofbits/publications/tree/master/presentations/Blockchain%20Autopsies%20-%20Analyzing%20Smart%20Contract%20Deaths) ⭐ 1,887 \| 🐛 3 \| 🌐 Python \| 📅 2026-09-04 | Blackhat USA   | 2018 |
+| [Blockchain Autopsies - Analyzing Smart Contract Deaths](https://github.com/trailofbits/publications/tree/master/presentations/Blockchain%20Autopsies%20-%20Analyzing%20Smart%20Contract%20Deaths) ⭐ 1,888 \| 🐛 3 \| 🌐 Python \| 📅 2026-09-04 | Blackhat USA   | 2018 |
 | [Rattle - an EVM binary analysis framework](https://www.trailofbits.com/presentations/rattle/)                                                                                                                                                   | reCON          | 2018 |
-| [Blackhat Ethereum](https://github.com/trailofbits/publications/blob/master/presentations/Blackhat%20Ethereum) ⭐ 1,887 \| 🐛 3 \| 🌐 Python \| 📅 2026-09-04                                                                                     | CanSecWest     | 2018 |
+| [Blackhat Ethereum](https://github.com/trailofbits/publications/blob/master/presentations/Blackhat%20Ethereum) ⭐ 1,888 \| 🐛 3 \| 🌐 Python \| 📅 2026-09-04                                                                                     | CanSecWest     | 2018 |
 | [Smashing Ethereum Smart Contracts for Fun and Profit](https://github.com/b-mueller/smashing-smart-contracts) ⚠️ Archived                                                                                                                        | HITB Amsterdam | 2018 |
-| [Automatic Bug Finding for the Blockchain](https://github.com/trailofbits/publications/blob/master/presentations/Automatic%20bugfinding%20for%20the%20blockchain) ⭐ 1,887 \| 🐛 3 \| 🌐 Python \| 📅 2026-09-04                                  | EkoParty       | 2017 |
+| [Automatic Bug Finding for the Blockchain](https://github.com/trailofbits/publications/blob/master/presentations/Automatic%20bugfinding%20for%20the%20blockchain) ⭐ 1,888 \| 🐛 3 \| 🌐 Python \| 📅 2026-09-04                                  | EkoParty       | 2017 |
 
 # Misc
 
@@ -286,4 +286,4 @@ These tools complement static analysis by watching contracts post-deployment for
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
