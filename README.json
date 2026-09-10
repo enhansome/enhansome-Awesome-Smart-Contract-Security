@@ -17,7 +17,7 @@
                 "id": 147583941,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-02T22:56:07Z",
+                "last_commit": "2026-09-09T22:56:10Z",
                 "open_issues": 478,
                 "owner": "crytic",
                 "repo": "slither",
@@ -47,7 +47,7 @@
                 "open_issues": 8,
                 "owner": "ConsenSysDiligence",
                 "repo": "surya",
-                "stars": 1172,
+                "stars": 1173,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -191,11 +191,11 @@
                 "id": 69834435,
                 "language": "KCL",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-09T12:45:03Z",
+                "last_commit": "2026-09-10T14:08:18Z",
                 "open_issues": 88,
                 "owner": "runtimeverification",
                 "repo": "evm-semantics",
-                "stars": 589,
+                "stars": 590,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -219,8 +219,8 @@
                 "id": 107120334,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T00:20:05Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-10T02:55:49Z",
+                "open_issues": 7,
                 "owner": "protofire",
                 "repo": "solhint",
                 "stars": 1125,
@@ -285,7 +285,7 @@
                 "id": 147583941,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-02T22:56:07Z",
+                "last_commit": "2026-09-09T22:56:10Z",
                 "open_issues": 478,
                 "owner": "crytic",
                 "repo": "slither",
@@ -315,7 +315,7 @@
                 "open_issues": 130,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4267,
+                "stars": 4268,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -374,11 +374,11 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-08T21:39:22Z",
-                "open_issues": 108,
+                "last_commit": "2026-09-10T13:34:02Z",
+                "open_issues": 113,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3175,
+                "stars": 3177,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -695,7 +695,7 @@
                 "open_issues": 9,
                 "owner": "crytic",
                 "repo": "ethersplay",
-                "stars": 853,
+                "stars": 854,
                 "topics": [
                   "binary-ninja",
                   "disassembler",
@@ -881,7 +881,7 @@
             "open_issues": 3,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1888,
+            "stars": 1889,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -906,7 +906,7 @@
             "open_issues": 3,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1888,
+            "stars": 1889,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -952,7 +952,7 @@
             "open_issues": 3,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1888,
+            "stars": 1889,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T14:48:24.226Z",
+    "last_updated": "2026-09-10T14:38:52.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
