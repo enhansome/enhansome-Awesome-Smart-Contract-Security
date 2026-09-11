@@ -137,11 +137,11 @@
 ### Verification
 
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool for EVM
-* [KEVM](https://github.com/kframework/evm-semantics) ⭐ 590 | 🐛 88 | 🌐 KCL | 📅 2026-09-10 - K Semantics of the Ethereum Virtual Machine (EVM)
+* [KEVM](https://github.com/kframework/evm-semantics) ⭐ 590 | 🐛 87 | 🌐 KCL | 📅 2026-09-11 - K Semantics of the Ethereum Virtual Machine (EVM)
 
 ### Linters
 
-* [Solhint](https://github.com/protofire/solhint) ⭐ 1,125 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-10 - Linter for both security and style-guide validations. It strictly adheres to the [Solidity Style Guide](https://solidity.readthedocs.io/en/latest/style-guide.html).
+* [Solhint](https://github.com/protofire/solhint) ⭐ 1,126 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-10 - Linter for both security and style-guide validations. It strictly adheres to the [Solidity Style Guide](https://solidity.readthedocs.io/en/latest/style-guide.html).
 * [Solium](https://github.com/duaraghav8/Solium) ⭐ 920 | 🐛 73 | 🌐 JavaScript | 📅 2025-01-03 - Linter for both security and style-guide validations. Does not strictly adhere to the Solidity Style Guide.
 * [Remix](https://remix.ethereum.org/) - Browser-based Solidity IDE with linting features
 * [SmarrtCheck](https://tool.smartdec.net/) - A linter for Solidity and Vyper that checks code for security issues and bad practices.
@@ -149,12 +149,12 @@
 ### BugHunting
 
 * [Slither](https://github.com/trailofbits/slither) ⭐ 6,361 | 🐛 478 | 🌐 Python | 📅 2026-09-09 - Static analysis framework, written in Python, with detectors for many common Solidity issues
-* [Mythril OSS](https://github.com/ConsenSys/mythril/) ⭐ 4,268 | 🐛 130 | 🌐 Python | 📅 2026-04-27 - Open-source security analysis tool for Ethereum smart contracts built around detector modules
+* [Mythril OSS](https://github.com/ConsenSys/mythril/) ⭐ 4,269 | 🐛 130 | 🌐 Python | 📅 2026-04-27 - Open-source security analysis tool for Ethereum smart contracts built around detector modules
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
-* [Echidna](https://github.com/trailofbits/echidna) ⭐ 3,177 | 🐛 113 | 🌐 Haskell | 📅 2026-09-10 - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
+* [Echidna](https://github.com/trailofbits/echidna) ⭐ 3,176 | 🐛 113 | 🌐 Haskell | 📅 2026-09-10 - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
 * [Securify v2.0](https://github.com/eth-sri/securify2) ⭐ 634 | 🐛 36 | 🌐 Solidity | 📅 2025-05-25 - Static analysis tool from ChainSecurity
 * [Octopus](https://github.com/pventuzelo/octopus) ⚠️ Archived - : Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
-* [Web3 Decoder](https://github.com/nccgroup/web3-decoder) ⭐ 116 | 🐛 0 | 🌐 Java | 📅 2026-06-02 - Web3 Decoder is a Burp Suite Extension that helps to analyze what is going on with the operations involving smart contracts of the web3
+* [Web3 Decoder](https://github.com/nccgroup/web3-decoder) ⭐ 117 | 🐛 0 | 🌐 Java | 📅 2026-06-02 - Web3 Decoder is a Burp Suite Extension that helps to analyze what is going on with the operations involving smart contracts of the web3
 * [L3X](https://github.com/VulnPlanet/l3x) ⭐ 93 | 🐛 0 | 🌐 Rust | 📅 2024-10-03 - AI-driven Smart Contract Static Analyzer
 * [OpenClaw Audit](https://github.com/juan23z/openclaw-audit) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-06 - Free heuristic static analysis scanner for Solidity with a GitHub Action; 12 detectors, calibrated to 0 findings across the OpenZeppelin library. No API keys, MIT.
 * [Al-Mizaan Judge](https://github.com/holistis/al-mizaan-judge) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-08 - CLI that runs a bug bounty finding through an adversarial debate (Defender/Attacker/Judge) before you spend a Sherlock/Immunefi/Cantina submission on it
@@ -286,4 +286,4 @@ These tools complement static analysis by watching contracts post-deployment for
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
