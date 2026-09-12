@@ -137,7 +137,7 @@
 ### Verification
 
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool for EVM
-* [KEVM](https://github.com/kframework/evm-semantics) ⭐ 590 | 🐛 87 | 🌐 KCL | 📅 2026-09-11 - K Semantics of the Ethereum Virtual Machine (EVM)
+* [KEVM](https://github.com/kframework/evm-semantics) ⭐ 590 | 🐛 86 | 🌐 KCL | 📅 2026-09-11 - K Semantics of the Ethereum Virtual Machine (EVM)
 
 ### Linters
 
@@ -174,7 +174,7 @@ These tools complement static analysis by watching contracts post-deployment for
 
 ### Reverse Engineering
 
-* [Panoramix](https://github.com/palkeo/panoramix) ⭐ 946 | 🐛 37 | 🌐 Python | 📅 2024-08-04 - Ethereum decompiler
+* [Panoramix](https://github.com/palkeo/panoramix) ⭐ 947 | 🐛 37 | 🌐 Python | 📅 2024-08-04 - Ethereum decompiler
 * [Ethersplay](https://github.com/trailofbits/ethersplay) ⚠️ Archived - Visual disassembler for EVM bytecode built on Binary Ninja
 * [pyevmasm](https://github.com/trailofbits/pyevmasm) ⭐ 386 | 🐛 19 | 🌐 Python | 📅 2026-04-17 - EVM assembler and disassembler with a CLI and a Python API
 * [evmlab](https://github.com/ethereum/evmlab) ⚠️ Archived - Utilities for interacting with the Ethereum virtual machine
@@ -286,4 +286,4 @@ These tools complement static analysis by watching contracts post-deployment for
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
