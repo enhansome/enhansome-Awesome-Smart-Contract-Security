@@ -162,7 +162,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3855,
+                "stars": 3856,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -345,7 +345,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3855,
+                "stars": 3856,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -375,7 +375,7 @@
                 "language": "Haskell",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-10T19:07:35Z",
-                "open_issues": 113,
+                "open_issues": 112,
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3176,
@@ -881,7 +881,7 @@
             "open_issues": 3,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1889,
+            "stars": 1890,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -906,7 +906,7 @@
             "open_issues": 3,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1889,
+            "stars": 1890,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -952,7 +952,7 @@
             "open_issues": 3,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1889,
+            "stars": 1890,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1008,7 +1008,7 @@
             "open_issues": 9,
             "owner": "sec-bit",
             "repo": "awesome-buggy-erc20-tokens",
-            "stars": 629,
+            "stars": 630,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:44:19.440Z",
+    "last_updated": "2026-09-13T14:41:26.128Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
