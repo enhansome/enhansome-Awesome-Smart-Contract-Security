@@ -137,7 +137,7 @@
 ### Verification
 
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool for EVM
-* [KEVM](https://github.com/kframework/evm-semantics) ⭐ 590 | 🐛 86 | 🌐 KCL | 📅 2026-09-11 - K Semantics of the Ethereum Virtual Machine (EVM)
+* [KEVM](https://github.com/kframework/evm-semantics) ⭐ 591 | 🐛 86 | 🌐 KCL | 📅 2026-09-11 - K Semantics of the Ethereum Virtual Machine (EVM)
 
 ### Linters
 
@@ -151,7 +151,7 @@
 * [Slither](https://github.com/trailofbits/slither) ⭐ 6,361 | 🐛 478 | 🌐 Python | 📅 2026-09-09 - Static analysis framework, written in Python, with detectors for many common Solidity issues
 * [Mythril OSS](https://github.com/ConsenSys/mythril/) ⭐ 4,269 | 🐛 130 | 🌐 Python | 📅 2026-04-27 - Open-source security analysis tool for Ethereum smart contracts built around detector modules
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
-* [Echidna](https://github.com/trailofbits/echidna) ⭐ 3,176 | 🐛 112 | 🌐 Haskell | 📅 2026-09-10 - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
+* [Echidna](https://github.com/trailofbits/echidna) ⭐ 3,175 | 🐛 112 | 🌐 Haskell | 📅 2026-09-10 - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
 * [Securify v2.0](https://github.com/eth-sri/securify2) ⭐ 634 | 🐛 36 | 🌐 Solidity | 📅 2025-05-25 - Static analysis tool from ChainSecurity
 * [Octopus](https://github.com/pventuzelo/octopus) ⚠️ Archived - : Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
 * [Web3 Decoder](https://github.com/nccgroup/web3-decoder) ⭐ 117 | 🐛 0 | 🌐 Java | 📅 2026-06-02 - Web3 Decoder is a Burp Suite Extension that helps to analyze what is going on with the operations involving smart contracts of the web3
@@ -176,7 +176,7 @@ These tools complement static analysis by watching contracts post-deployment for
 
 * [Panoramix](https://github.com/palkeo/panoramix) ⭐ 947 | 🐛 37 | 🌐 Python | 📅 2024-08-04 - Ethereum decompiler
 * [Ethersplay](https://github.com/trailofbits/ethersplay) ⚠️ Archived - Visual disassembler for EVM bytecode built on Binary Ninja
-* [pyevmasm](https://github.com/trailofbits/pyevmasm) ⭐ 386 | 🐛 19 | 🌐 Python | 📅 2026-04-17 - EVM assembler and disassembler with a CLI and a Python API
+* [pyevmasm](https://github.com/trailofbits/pyevmasm) ⭐ 385 | 🐛 19 | 🌐 Python | 📅 2026-04-17 - EVM assembler and disassembler with a CLI and a Python API
 * [evmlab](https://github.com/ethereum/evmlab) ⚠️ Archived - Utilities for interacting with the Ethereum virtual machine
 * [Rattle](https://github.com/trailofbits/rattle) ⭐ 365 | 🐛 12 | 🌐 Python | 📅 2023-09-04 - EVM binary static analysis framework. Produces SSA representations of EVM code.
 * [IDA-EVM](https://github.com/trailofbits/ida-evm) ⭐ 329 | 🐛 8 | 🌐 Python | 📅 2024-01-19 - IDA plugin to view EVM instructions
@@ -286,4 +286,4 @@ These tools complement static analysis by watching contracts post-deployment for
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
