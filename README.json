@@ -21,7 +21,7 @@
                 "open_issues": 478,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6361,
+                "stars": 6362,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -220,7 +220,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-10T02:55:49Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "protofire",
                 "repo": "solhint",
                 "stars": 1126,
@@ -289,7 +289,7 @@
                 "open_issues": 478,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6361,
+                "stars": 6362,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -315,7 +315,7 @@
                 "open_issues": 130,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4269,
+                "stars": 4271,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -375,10 +375,10 @@
                 "language": "Haskell",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-10T19:07:35Z",
-                "open_issues": 112,
+                "open_issues": 111,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3175,
+                "stars": 3176,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -881,7 +881,7 @@
             "open_issues": 3,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1890,
+            "stars": 1891,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -906,7 +906,7 @@
             "open_issues": 3,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1890,
+            "stars": 1891,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -952,7 +952,7 @@
             "open_issues": 3,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1890,
+            "stars": 1891,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -983,7 +983,7 @@
             "open_issues": 10,
             "owner": "crytic",
             "repo": "not-so-smart-contracts",
-            "stars": 2223,
+            "stars": 2224,
             "topics": [
               "ethereum",
               "solidity",
@@ -1008,7 +1008,7 @@
             "open_issues": 9,
             "owner": "sec-bit",
             "repo": "awesome-buggy-erc20-tokens",
-            "stars": 630,
+            "stars": 631,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T16:34:02.711Z",
+    "last_updated": "2026-09-15T15:16:29.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
@@ -1230,7 +1230,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-02T23:28:35Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "saeidshirazi",
       "repo": "Awesome-Smart-Contract-Security",
       "stars": 906,
