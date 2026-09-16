@@ -375,7 +375,7 @@
                 "language": "Haskell",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-10T19:07:35Z",
-                "open_issues": 111,
+                "open_issues": 113,
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3176,
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T15:16:29.020Z",
+    "last_updated": "2026-09-16T15:09:40.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
