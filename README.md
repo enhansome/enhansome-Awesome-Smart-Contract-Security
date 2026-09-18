@@ -128,7 +128,7 @@
 
 ### Visualization
 
-* [Slither](https://github.com/trailofbits/slither) ⭐ 6,363 | 🐛 478 | 🌐 Python | 📅 2026-09-09 - Slither can map method visibility and modifiers, state variables that are read and written, calls, and can print the inheritance graph of a smart contract
+* [Slither](https://github.com/trailofbits/slither) ⭐ 6,362 | 🐛 478 | 🌐 Python | 📅 2026-09-09 - Slither can map method visibility and modifiers, state variables that are read and written, calls, and can print the inheritance graph of a smart contract
 * [Surya](https://github.com/ConsenSys/surya) ⭐ 1,174 | 🐛 8 | 🌐 JavaScript | 📅 2025-06-26 - Generates various visual outputs of function call graphs
 * [Solgraph](https://github.com/raineorshine/solgraph) ⭐ 1,025 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-04 - Generates DOT graphs with function control flow of a solidity contract
 * [ethereum-graph-debugger](https://github.com/fergarrui/ethereum-graph-debugger) ⭐ 348 | 🐛 21 | 🌐 TypeScript | 📅 2023-03-03 - A graphical EVM debugger. Displays the entire program control flow graph.
@@ -148,10 +148,10 @@
 
 ### BugHunting
 
-* [Slither](https://github.com/trailofbits/slither) ⭐ 6,363 | 🐛 478 | 🌐 Python | 📅 2026-09-09 - Static analysis framework, written in Python, with detectors for many common Solidity issues
-* [Mythril OSS](https://github.com/ConsenSys/mythril/) ⭐ 4,271 | 🐛 130 | 🌐 Python | 📅 2026-04-27 - Open-source security analysis tool for Ethereum smart contracts built around detector modules
+* [Slither](https://github.com/trailofbits/slither) ⭐ 6,362 | 🐛 478 | 🌐 Python | 📅 2026-09-09 - Static analysis framework, written in Python, with detectors for many common Solidity issues
+* [Mythril OSS](https://github.com/ConsenSys/mythril/) ⭐ 4,270 | 🐛 130 | 🌐 Python | 📅 2026-04-27 - Open-source security analysis tool for Ethereum smart contracts built around detector modules
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
-* [Echidna](https://github.com/trailofbits/echidna) ⭐ 3,176 | 🐛 114 | 🌐 Haskell | 📅 2026-09-16 - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
+* [Echidna](https://github.com/trailofbits/echidna) ⭐ 3,177 | 🐛 114 | 🌐 Haskell | 📅 2026-09-16 - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
 * [Securify v2.0](https://github.com/eth-sri/securify2) ⭐ 634 | 🐛 36 | 🌐 Solidity | 📅 2025-05-25 - Static analysis tool from ChainSecurity
 * [Octopus](https://github.com/pventuzelo/octopus) ⚠️ Archived - : Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
 * [Web3 Decoder](https://github.com/nccgroup/web3-decoder) ⭐ 117 | 🐛 0 | 🌐 Java | 📅 2026-06-02 - Web3 Decoder is a Burp Suite Extension that helps to analyze what is going on with the operations involving smart contracts of the web3
@@ -252,7 +252,7 @@ These tools complement static analysis by watching contracts post-deployment for
 
 # Bug Bounty & Writeups
 
-* [Smart Contract security audit reports](https://github.com/TechRate/Smart-Contract-Audits) ⭐ 576 | 🐛 29 | 📅 2026-05-05
+* [Smart Contract security audit reports](https://github.com/TechRate/Smart-Contract-Audits) ⭐ 575 | 🐛 29 | 📅 2026-05-05
 
 * [Write up of Metaplex Vuln 2022](https://github.com/Bonfida/metaplex-vulnerability-012022) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2022-06-07
 
@@ -286,4 +286,4 @@ These tools complement static analysis by watching contracts post-deployment for
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

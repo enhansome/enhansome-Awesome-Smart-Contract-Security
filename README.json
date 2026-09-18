@@ -21,7 +21,7 @@
                 "open_issues": 478,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6363,
+                "stars": 6362,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -289,7 +289,7 @@
                 "open_issues": 478,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6363,
+                "stars": 6362,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -315,7 +315,7 @@
                 "open_issues": 130,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4271,
+                "stars": 4270,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -378,7 +378,7 @@
                 "open_issues": 114,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3176,
+                "stars": 3177,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -1179,7 +1179,7 @@
             "open_issues": 29,
             "owner": "TechRate",
             "repo": "Smart-Contract-Audits",
-            "stars": 576,
+            "stars": 575,
             "topics": [
               "audit",
               "defi",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T15:18:51.846Z",
+    "last_updated": "2026-09-18T14:38:52.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
@@ -1233,7 +1233,7 @@
       "open_issues": 4,
       "owner": "saeidshirazi",
       "repo": "Awesome-Smart-Contract-Security",
-      "stars": 905,
+      "stars": 906,
       "topics": [
         "awesome-list",
         "blockchain-security",
