@@ -21,7 +21,7 @@
                 "open_issues": 478,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6362,
+                "stars": 6364,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -162,7 +162,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3855,
+                "stars": 3856,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -195,7 +195,7 @@
                 "open_issues": 86,
                 "owner": "runtimeverification",
                 "repo": "evm-semantics",
-                "stars": 591,
+                "stars": 592,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -289,7 +289,7 @@
                 "open_issues": 478,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6362,
+                "stars": 6364,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -345,7 +345,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3855,
+                "stars": 3856,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -378,7 +378,7 @@
                 "open_issues": 114,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3177,
+                "stars": 3179,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -674,7 +674,7 @@
                 "open_issues": 37,
                 "owner": "palkeo",
                 "repo": "panoramix",
-                "stars": 947,
+                "stars": 948,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -877,11 +877,11 @@
             "id": 34814001,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-09T05:09:40Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-18T19:24:22Z",
+            "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1892,
+            "stars": 1893,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -902,11 +902,11 @@
             "id": 34814001,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-09T05:09:40Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-18T19:24:22Z",
+            "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1892,
+            "stars": 1893,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -948,11 +948,11 @@
             "id": 34814001,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-09T05:09:40Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-18T19:24:22Z",
+            "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1892,
+            "stars": 1893,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T14:38:52.678Z",
+    "last_updated": "2026-09-19T13:59:16.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
