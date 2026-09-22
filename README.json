@@ -219,8 +219,8 @@
                 "id": 107120334,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-21T10:08:16Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-22T02:40:58Z",
+                "open_issues": 5,
                 "owner": "protofire",
                 "repo": "solhint",
                 "stars": 1125,
@@ -315,7 +315,7 @@
                 "open_issues": 130,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4272,
+                "stars": 4273,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -877,7 +877,7 @@
             "id": 34814001,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-18T19:24:22Z",
+            "last_commit": "2026-09-21T19:57:05Z",
             "open_issues": 5,
             "owner": "trailofbits",
             "repo": "publications",
@@ -902,7 +902,7 @@
             "id": 34814001,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-18T19:24:22Z",
+            "last_commit": "2026-09-21T19:57:05Z",
             "open_issues": 5,
             "owner": "trailofbits",
             "repo": "publications",
@@ -948,7 +948,7 @@
             "id": 34814001,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-18T19:24:22Z",
+            "last_commit": "2026-09-21T19:57:05Z",
             "open_issues": 5,
             "owner": "trailofbits",
             "repo": "publications",
@@ -983,7 +983,7 @@
             "open_issues": 10,
             "owner": "crytic",
             "repo": "not-so-smart-contracts",
-            "stars": 2225,
+            "stars": 2224,
             "topics": [
               "ethereum",
               "solidity",
@@ -1115,7 +1115,7 @@
             "open_issues": 0,
             "owner": "manojpramesh",
             "repo": "solidity-cheatsheet",
-            "stars": 1505,
+            "stars": 1506,
             "topics": [
               "best-practices",
               "blockchain",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T16:35:56.797Z",
+    "last_updated": "2026-09-22T15:10:31.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",

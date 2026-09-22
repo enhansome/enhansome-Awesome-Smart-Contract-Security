@@ -141,7 +141,7 @@
 
 ### Linters
 
-* [Solhint](https://github.com/protofire/solhint) ⭐ 1,125 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-21 - Linter for both security and style-guide validations. It strictly adheres to the [Solidity Style Guide](https://solidity.readthedocs.io/en/latest/style-guide.html).
+* [Solhint](https://github.com/protofire/solhint) ⭐ 1,125 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-22 - Linter for both security and style-guide validations. It strictly adheres to the [Solidity Style Guide](https://solidity.readthedocs.io/en/latest/style-guide.html).
 * [Solium](https://github.com/duaraghav8/Solium) ⭐ 920 | 🐛 73 | 🌐 JavaScript | 📅 2025-01-03 - Linter for both security and style-guide validations. Does not strictly adhere to the Solidity Style Guide.
 * [Remix](https://remix.ethereum.org/) - Browser-based Solidity IDE with linting features
 * [SmarrtCheck](https://tool.smartdec.net/) - A linter for Solidity and Vyper that checks code for security issues and bad practices.
@@ -149,7 +149,7 @@
 ### BugHunting
 
 * [Slither](https://github.com/trailofbits/slither) ⭐ 6,365 | 🐛 477 | 🌐 Python | 📅 2026-09-09 - Static analysis framework, written in Python, with detectors for many common Solidity issues
-* [Mythril OSS](https://github.com/ConsenSys/mythril/) ⭐ 4,272 | 🐛 130 | 🌐 Python | 📅 2026-04-27 - Open-source security analysis tool for Ethereum smart contracts built around detector modules
+* [Mythril OSS](https://github.com/ConsenSys/mythril/) ⭐ 4,273 | 🐛 130 | 🌐 Python | 📅 2026-04-27 - Open-source security analysis tool for Ethereum smart contracts built around detector modules
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
 * [Echidna](https://github.com/trailofbits/echidna) ⭐ 3,180 | 🐛 114 | 🌐 Haskell | 📅 2026-09-16 - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
 * [Securify v2.0](https://github.com/eth-sri/securify2) ⭐ 634 | 🐛 36 | 🌐 Solidity | 📅 2025-05-25 - Static analysis tool from ChainSecurity
@@ -210,11 +210,11 @@ These tools complement static analysis by watching contracts post-deployment for
 | [6th Workshop on Trusted Smart Contracts](https://fc22.ifca.ai/wtsc/)                                                                                                                                                                            | WTSC 2022      | 2022 |
 | [Smart Contract Security: a Practitioners’ Perspective](https://conf.researchr.org/details/icse-2021/icse-2021-papers/12/Smart-Contract-Security-a-Practitioners-Perspective)                                                                    | ICSE 2021      | 2021 |
 | [Predicting Random Numbers in Ethereum Smart Contracts](https://schd.ws/hosted_files/appseccalifornia2018/00/AppSecCali%202018%20-%20Predicting%20Random%20Numbers%20in%20Ethereum%20Smart%20Contracts.pdf)                                      | OWASP AppSec   | 2018 |
-| [Blockchain Autopsies - Analyzing Smart Contract Deaths](https://github.com/trailofbits/publications/tree/master/presentations/Blockchain%20Autopsies%20-%20Analyzing%20Smart%20Contract%20Deaths) ⭐ 1,896 \| 🐛 5 \| 🌐 Python \| 📅 2026-09-18 | Blackhat USA   | 2018 |
+| [Blockchain Autopsies - Analyzing Smart Contract Deaths](https://github.com/trailofbits/publications/tree/master/presentations/Blockchain%20Autopsies%20-%20Analyzing%20Smart%20Contract%20Deaths) ⭐ 1,896 \| 🐛 5 \| 🌐 Python \| 📅 2026-09-21 | Blackhat USA   | 2018 |
 | [Rattle - an EVM binary analysis framework](https://www.trailofbits.com/presentations/rattle/)                                                                                                                                                   | reCON          | 2018 |
-| [Blackhat Ethereum](https://github.com/trailofbits/publications/blob/master/presentations/Blackhat%20Ethereum) ⭐ 1,896 \| 🐛 5 \| 🌐 Python \| 📅 2026-09-18                                                                                     | CanSecWest     | 2018 |
+| [Blackhat Ethereum](https://github.com/trailofbits/publications/blob/master/presentations/Blackhat%20Ethereum) ⭐ 1,896 \| 🐛 5 \| 🌐 Python \| 📅 2026-09-21                                                                                     | CanSecWest     | 2018 |
 | [Smashing Ethereum Smart Contracts for Fun and Profit](https://github.com/b-mueller/smashing-smart-contracts) ⚠️ Archived                                                                                                                        | HITB Amsterdam | 2018 |
-| [Automatic Bug Finding for the Blockchain](https://github.com/trailofbits/publications/blob/master/presentations/Automatic%20bugfinding%20for%20the%20blockchain) ⭐ 1,896 \| 🐛 5 \| 🌐 Python \| 📅 2026-09-18                                  | EkoParty       | 2017 |
+| [Automatic Bug Finding for the Blockchain](https://github.com/trailofbits/publications/blob/master/presentations/Automatic%20bugfinding%20for%20the%20blockchain) ⭐ 1,896 \| 🐛 5 \| 🌐 Python \| 📅 2026-09-21                                  | EkoParty       | 2017 |
 
 # Misc
 
@@ -237,7 +237,7 @@ These tools complement static analysis by watching contracts post-deployment for
 
 # Cheat Sheets
 
-* [Solidity Cheatsheet and Best practices](https://github.com/manojpramesh/solidity-cheatsheet) ⭐ 1,505 | 🐛 0 | 📅 2026-04-05
+* [Solidity Cheatsheet and Best practices](https://github.com/manojpramesh/solidity-cheatsheet) ⭐ 1,506 | 🐛 0 | 📅 2026-04-05
 * [Solidity Cheat Sheet](https://intellipaat.com/blog/tutorial/blockchain-tutorial/solidity-cheat-sheet/)
 * [Ethereum Cheat Sheet](https://intellipaat.com/blog/tutorial/blockchain-tutorial/ethereum-cheat-sheet/)
 * [The Ultimate Blockchain Cheat Sheet](https://101blockchains.com/blockchain-cheat-sheet/)
@@ -286,4 +286,4 @@ These tools complement static analysis by watching contracts post-deployment for
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
