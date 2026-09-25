@@ -21,7 +21,7 @@
                 "open_issues": 479,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6371,
+                "stars": 6372,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -219,8 +219,8 @@
                 "id": 107120334,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-22T02:40:58Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-25T06:14:51Z",
+                "open_issues": 6,
                 "owner": "protofire",
                 "repo": "solhint",
                 "stars": 1126,
@@ -289,7 +289,7 @@
                 "open_issues": 479,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6371,
+                "stars": 6372,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -315,7 +315,7 @@
                 "open_issues": 130,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4275,
+                "stars": 4277,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -375,7 +375,7 @@
                 "language": "Haskell",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-23T21:34:24Z",
-                "open_issues": 114,
+                "open_issues": 113,
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3181,
@@ -881,7 +881,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1900,
+            "stars": 1901,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -906,7 +906,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1900,
+            "stars": 1901,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -952,7 +952,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1900,
+            "stars": 1901,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T15:30:23.171Z",
+    "last_updated": "2026-09-25T15:34:20.091Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
@@ -1233,7 +1233,7 @@
       "open_issues": 4,
       "owner": "saeidshirazi",
       "repo": "Awesome-Smart-Contract-Security",
-      "stars": 905,
+      "stars": 906,
       "topics": [
         "awesome-list",
         "blockchain-security",
