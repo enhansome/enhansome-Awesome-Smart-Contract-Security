@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-23T22:54:56Z",
-                "open_issues": 479,
+                "open_issues": 480,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6373,
+                "stars": 6374,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -68,7 +68,7 @@
                 "open_issues": 5,
                 "owner": "raineorshine",
                 "repo": "solgraph",
-                "stars": 1026,
+                "stars": 1027,
                 "topics": [
                   "ethereum",
                   "solidity"
@@ -162,7 +162,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3857,
+                "stars": 3858,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -286,10 +286,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-23T22:54:56Z",
-                "open_issues": 479,
+                "open_issues": 480,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6373,
+                "stars": 6374,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -315,7 +315,7 @@
                 "open_issues": 130,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4276,
+                "stars": 4277,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -345,7 +345,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3857,
+                "stars": 3858,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -374,11 +374,11 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-27T21:30:23Z",
-                "open_issues": 112,
+                "last_commit": "2026-09-29T16:28:04Z",
+                "open_issues": 109,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3180,
+                "stars": 3181,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -881,7 +881,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1903,
+            "stars": 1904,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -906,7 +906,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1903,
+            "stars": 1904,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -952,7 +952,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1903,
+            "stars": 1904,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -983,7 +983,7 @@
             "open_issues": 10,
             "owner": "crytic",
             "repo": "not-so-smart-contracts",
-            "stars": 2226,
+            "stars": 2227,
             "topics": [
               "ethereum",
               "solidity",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T18:15:37.470Z",
+    "last_updated": "2026-09-29T16:38:24.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
@@ -1233,7 +1233,7 @@
       "open_issues": 4,
       "owner": "saeidshirazi",
       "repo": "Awesome-Smart-Contract-Security",
-      "stars": 907,
+      "stars": 906,
       "topics": [
         "awesome-list",
         "blockchain-security",
