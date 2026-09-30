@@ -162,7 +162,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3858,
+                "stars": 3857,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -219,8 +219,8 @@
                 "id": 107120334,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-28T04:37:32Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-30T14:53:58Z",
+                "open_issues": 4,
                 "owner": "protofire",
                 "repo": "solhint",
                 "stars": 1127,
@@ -315,7 +315,7 @@
                 "open_issues": 130,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4277,
+                "stars": 4276,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -345,7 +345,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3858,
+                "stars": 3857,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -374,11 +374,11 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-29T16:28:04Z",
-                "open_issues": 109,
+                "last_commit": "2026-09-29T20:36:14Z",
+                "open_issues": 108,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3181,
+                "stars": 3182,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -436,7 +436,7 @@
                 "open_issues": 12,
                 "owner": "FuzzingLabs",
                 "repo": "octopus",
-                "stars": 493,
+                "stars": 492,
                 "topics": [
                   "blockchain",
                   "call-flow-analysis",
@@ -674,7 +674,7 @@
                 "open_issues": 38,
                 "owner": "palkeo",
                 "repo": "panoramix",
-                "stars": 949,
+                "stars": 950,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -695,7 +695,7 @@
                 "open_issues": 9,
                 "owner": "crytic",
                 "repo": "ethersplay",
-                "stars": 855,
+                "stars": 854,
                 "topics": [
                   "binary-ninja",
                   "disassembler",
@@ -842,7 +842,7 @@
                 "open_issues": 2,
                 "owner": "tintinweb",
                 "repo": "ethereum-dasm",
-                "stars": 222,
+                "stars": 223,
                 "topics": [
                   "blockchain",
                   "disassembler",
@@ -881,7 +881,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1904,
+            "stars": 1905,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -906,7 +906,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1904,
+            "stars": 1905,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -952,7 +952,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1904,
+            "stars": 1905,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1008,7 +1008,7 @@
             "open_issues": 9,
             "owner": "sec-bit",
             "repo": "awesome-buggy-erc20-tokens",
-            "stars": 632,
+            "stars": 631,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T16:38:24.148Z",
+    "last_updated": "2026-09-30T16:30:34.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
