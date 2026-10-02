@@ -21,7 +21,7 @@
                 "open_issues": 480,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6374,
+                "stars": 6373,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -219,7 +219,7 @@
                 "id": 107120334,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T16:27:03Z",
+                "last_commit": "2026-10-02T13:09:11Z",
                 "open_issues": 4,
                 "owner": "protofire",
                 "repo": "solhint",
@@ -289,7 +289,7 @@
                 "open_issues": 480,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6374,
+                "stars": 6373,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -315,7 +315,7 @@
                 "open_issues": 130,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4277,
+                "stars": 4276,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -378,7 +378,7 @@
                 "open_issues": 109,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3182,
+                "stars": 3184,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -436,7 +436,7 @@
                 "open_issues": 12,
                 "owner": "FuzzingLabs",
                 "repo": "octopus",
-                "stars": 492,
+                "stars": 491,
                 "topics": [
                   "blockchain",
                   "call-flow-analysis",
@@ -674,7 +674,7 @@
                 "open_issues": 38,
                 "owner": "palkeo",
                 "repo": "panoramix",
-                "stars": 950,
+                "stars": 951,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -877,11 +877,11 @@
             "id": 34814001,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-30T19:00:46Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-02T16:13:48Z",
+            "open_issues": 5,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1905,
+            "stars": 1906,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -902,11 +902,11 @@
             "id": 34814001,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-30T19:00:46Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-02T16:13:48Z",
+            "open_issues": 5,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1905,
+            "stars": 1906,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -948,11 +948,11 @@
             "id": 34814001,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-30T19:00:46Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-02T16:13:48Z",
+            "open_issues": 5,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1905,
+            "stars": 1906,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T17:08:38.303Z",
+    "last_updated": "2026-10-02T16:22:09.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
