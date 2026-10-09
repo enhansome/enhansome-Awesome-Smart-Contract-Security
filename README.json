@@ -315,7 +315,7 @@
                 "open_issues": 130,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4273,
+                "stars": 4272,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -374,8 +374,8 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-08T16:40:43Z",
-                "open_issues": 106,
+                "last_commit": "2026-10-08T19:31:20Z",
+                "open_issues": 105,
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3186,
@@ -407,7 +407,7 @@
                 "open_issues": 8,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1010,
+                "stars": 1012,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -1025,7 +1025,7 @@
             "open_issues": 10,
             "owner": "crytic",
             "repo": "not-so-smart-contracts",
-            "stars": 2226,
+            "stars": 2225,
             "topics": [
               "ethereum",
               "solidity",
@@ -1157,7 +1157,7 @@
             "open_issues": 0,
             "owner": "manojpramesh",
             "repo": "solidity-cheatsheet",
-            "stars": 1507,
+            "stars": 1508,
             "topics": [
               "best-practices",
               "blockchain",
@@ -1263,7 +1263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T17:36:10.104Z",
+    "last_updated": "2026-10-09T17:11:00.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
