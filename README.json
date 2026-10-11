@@ -21,7 +21,7 @@
                 "open_issues": 482,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6374,
+                "stars": 6373,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -162,7 +162,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3855,
+                "stars": 3854,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -289,7 +289,7 @@
                 "open_issues": 482,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6374,
+                "stars": 6373,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -312,7 +312,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-04-27T04:13:25Z",
-                "open_issues": 130,
+                "open_issues": 129,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
                 "stars": 4272,
@@ -345,7 +345,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3855,
+                "stars": 3854,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -407,7 +407,7 @@
                 "open_issues": 8,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1015,
+                "stars": 1016,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -478,7 +478,7 @@
                 "open_issues": 12,
                 "owner": "FuzzingLabs",
                 "repo": "octopus",
-                "stars": 491,
+                "stars": 490,
                 "topics": [
                   "blockchain",
                   "call-flow-analysis",
@@ -1025,7 +1025,7 @@
             "open_issues": 10,
             "owner": "crytic",
             "repo": "not-so-smart-contracts",
-            "stars": 2225,
+            "stars": 2224,
             "topics": [
               "ethereum",
               "solidity",
@@ -1263,7 +1263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:57:27.653Z",
+    "last_updated": "2026-10-11T16:25:21.814Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
