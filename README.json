@@ -47,7 +47,7 @@
                 "open_issues": 8,
                 "owner": "ConsenSysDiligence",
                 "repo": "surya",
-                "stars": 1174,
+                "stars": 1172,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -378,7 +378,7 @@
                 "open_issues": 105,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3186,
+                "stars": 3185,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -716,7 +716,7 @@
                 "open_issues": 38,
                 "owner": "palkeo",
                 "repo": "panoramix",
-                "stars": 954,
+                "stars": 955,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -923,7 +923,7 @@
             "open_issues": 5,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1911,
+            "stars": 1912,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -948,7 +948,7 @@
             "open_issues": 5,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1911,
+            "stars": 1912,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -994,7 +994,7 @@
             "open_issues": 5,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1911,
+            "stars": 1912,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1263,7 +1263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T15:00:24.343Z",
+    "last_updated": "2026-10-17T13:56:43.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
