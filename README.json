@@ -195,7 +195,7 @@
                 "open_issues": 85,
                 "owner": "runtimeverification",
                 "repo": "evm-semantics",
-                "stars": 594,
+                "stars": 595,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -223,7 +223,7 @@
                 "open_issues": 8,
                 "owner": "protofire",
                 "repo": "solhint",
-                "stars": 1127,
+                "stars": 1126,
                 "topics": [
                   "ast",
                   "code-quality",
@@ -255,7 +255,7 @@
                 "open_issues": 74,
                 "owner": "duaraghav8",
                 "repo": "Ethlint",
-                "stars": 921,
+                "stars": 920,
                 "topics": [
                   "ethereum",
                   "lint",
@@ -315,7 +315,7 @@
                 "open_issues": 129,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4273,
+                "stars": 4274,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -407,7 +407,7 @@
                 "open_issues": 8,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1031,
+                "stars": 1040,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -923,7 +923,7 @@
             "open_issues": 5,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1912,
+            "stars": 1911,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -948,7 +948,7 @@
             "open_issues": 5,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1912,
+            "stars": 1911,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -994,7 +994,7 @@
             "open_issues": 5,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1912,
+            "stars": 1911,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1263,7 +1263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T13:56:43.568Z",
+    "last_updated": "2026-10-18T14:09:40.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
@@ -1275,7 +1275,7 @@
       "open_issues": 9,
       "owner": "saeidshirazi",
       "repo": "Awesome-Smart-Contract-Security",
-      "stars": 908,
+      "stars": 907,
       "topics": [
         "awesome-list",
         "blockchain-security",
