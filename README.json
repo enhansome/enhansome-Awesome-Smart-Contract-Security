@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-14T22:56:34Z",
-                "open_issues": 487,
+                "open_issues": 488,
                 "owner": "crytic",
                 "repo": "slither",
                 "stars": 6383,
@@ -220,7 +220,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-08T14:08:40Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "protofire",
                 "repo": "solhint",
                 "stars": 1126,
@@ -286,7 +286,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-14T22:56:34Z",
-                "open_issues": 487,
+                "open_issues": 488,
                 "owner": "crytic",
                 "repo": "slither",
                 "stars": 6383,
@@ -407,7 +407,7 @@
                 "open_issues": 8,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1040,
+                "stars": 1093,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -716,7 +716,7 @@
                 "open_issues": 38,
                 "owner": "palkeo",
                 "repo": "panoramix",
-                "stars": 955,
+                "stars": 956,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -1263,7 +1263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T14:09:40.404Z",
+    "last_updated": "2026-10-19T17:10:03.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
