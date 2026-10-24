@@ -21,7 +21,7 @@
                 "open_issues": 497,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6385,
+                "stars": 6387,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -289,7 +289,7 @@
                 "open_issues": 497,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6385,
+                "stars": 6387,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -407,7 +407,7 @@
                 "open_issues": 8,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1136,
+                "stars": 1138,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -1263,7 +1263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T15:28:21.819Z",
+    "last_updated": "2026-10-24T14:07:19.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
