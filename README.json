@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-23T00:17:27Z",
-                "open_issues": 499,
+                "open_issues": 501,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6389,
+                "stars": 6392,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -191,7 +191,7 @@
                 "id": 69834435,
                 "language": "KCL",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-05T06:25:17Z",
+                "last_commit": "2026-10-27T06:00:49Z",
                 "open_issues": 85,
                 "owner": "runtimeverification",
                 "repo": "evm-semantics",
@@ -286,10 +286,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-23T00:17:27Z",
-                "open_issues": 499,
+                "open_issues": 501,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6389,
+                "stars": 6392,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -403,11 +403,11 @@
                 "id": 894433723,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T13:36:22Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-27T10:21:03Z",
+                "open_issues": 3,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1147,
+                "stars": 1150,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -576,7 +576,7 @@
                 "open_issues": 0,
                 "owner": "juan23z",
                 "repo": "openclaw-audit",
-                "stars": 1,
+                "stars": 2,
                 "topics": [
                   "audit",
                   "defi",
@@ -923,7 +923,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1914,
+            "stars": 1916,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -948,7 +948,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1914,
+            "stars": 1916,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -994,7 +994,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1914,
+            "stars": 1916,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1221,7 +1221,7 @@
             "open_issues": 29,
             "owner": "TechRate",
             "repo": "Smart-Contract-Audits",
-            "stars": 575,
+            "stars": 574,
             "topics": [
               "audit",
               "defi",
@@ -1263,7 +1263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T16:59:42.949Z",
+    "last_updated": "2026-10-27T16:01:09.693Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
@@ -1272,7 +1272,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-05T03:42:49Z",
-      "open_issues": 10,
+      "open_issues": 11,
       "owner": "saeidshirazi",
       "repo": "Awesome-Smart-Contract-Security",
       "stars": 907,
