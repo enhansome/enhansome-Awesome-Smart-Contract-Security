@@ -17,7 +17,7 @@
                 "id": 147583941,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-23T00:17:27Z",
+                "last_commit": "2026-10-28T22:55:31Z",
                 "open_issues": 501,
                 "owner": "crytic",
                 "repo": "slither",
@@ -285,7 +285,7 @@
                 "id": 147583941,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-23T00:17:27Z",
+                "last_commit": "2026-10-28T22:55:31Z",
                 "open_issues": 501,
                 "owner": "crytic",
                 "repo": "slither",
@@ -315,7 +315,7 @@
                 "open_issues": 129,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4277,
+                "stars": 4276,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -374,11 +374,11 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-24T16:10:45Z",
+                "last_commit": "2026-10-28T21:34:24Z",
                 "open_issues": 107,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3187,
+                "stars": 3188,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -407,7 +407,7 @@
                 "open_issues": 4,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1157,
+                "stars": 1163,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -923,7 +923,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1916,
+            "stars": 1915,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -948,7 +948,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1916,
+            "stars": 1915,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -994,7 +994,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1916,
+            "stars": 1915,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1263,7 +1263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T16:49:39.697Z",
+    "last_updated": "2026-10-29T17:04:50.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
@@ -1272,7 +1272,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-05T03:42:49Z",
-      "open_issues": 11,
+      "open_issues": 12,
       "owner": "saeidshirazi",
       "repo": "Awesome-Smart-Contract-Security",
       "stars": 907,
