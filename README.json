@@ -17,11 +17,11 @@
                 "id": 147583941,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-28T22:55:31Z",
+                "last_commit": "2026-10-29T22:27:25Z",
                 "open_issues": 501,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6394,
+                "stars": 6397,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -162,7 +162,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3856,
+                "stars": 3855,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -219,8 +219,8 @@
                 "id": 107120334,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T14:08:40Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-30T05:26:23Z",
+                "open_issues": 10,
                 "owner": "protofire",
                 "repo": "solhint",
                 "stars": 1127,
@@ -285,11 +285,11 @@
                 "id": 147583941,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-28T22:55:31Z",
+                "last_commit": "2026-10-29T22:27:25Z",
                 "open_issues": 501,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6394,
+                "stars": 6397,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -312,10 +312,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-04-27T04:13:25Z",
-                "open_issues": 129,
+                "open_issues": 132,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4276,
+                "stars": 4277,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -345,7 +345,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3856,
+                "stars": 3855,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -407,7 +407,7 @@
                 "open_issues": 4,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1163,
+                "stars": 1168,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -923,7 +923,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1915,
+            "stars": 1916,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -948,7 +948,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1915,
+            "stars": 1916,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -994,7 +994,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1915,
+            "stars": 1916,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1263,7 +1263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T17:04:50.841Z",
+    "last_updated": "2026-10-30T16:49:30.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
