@@ -21,7 +21,7 @@
                 "open_issues": 501,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6397,
+                "stars": 6398,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -162,7 +162,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3855,
+                "stars": 3856,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -223,7 +223,7 @@
                 "open_issues": 10,
                 "owner": "protofire",
                 "repo": "solhint",
-                "stars": 1127,
+                "stars": 1128,
                 "topics": [
                   "ast",
                   "code-quality",
@@ -289,7 +289,7 @@
                 "open_issues": 501,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6397,
+                "stars": 6398,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -345,7 +345,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3855,
+                "stars": 3856,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -378,7 +378,7 @@
                 "open_issues": 107,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3188,
+                "stars": 3189,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -404,10 +404,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-27T19:15:01Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1168,
+                "stars": 1174,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -623,6 +623,40 @@
                 ]
               },
               "first_seen": "2026-09-03T14:43:31.398Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EVM Smart Audit",
+              "description": "Twenty AST-based detectors for Solidity mapped to SWC and the OWASP Smart Contract Top 10; reports the checks that passed as well as the ones that fired. MIT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Twenty AST-based static analysis detectors for Solidity, mapped to the SWC Registry and the OWASP Smart Contract Top 10. MIT.",
+                "homepage": "https://www.evmsmart.com",
+                "id": 1358713978,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-06T02:20:04Z",
+                "open_issues": 0,
+                "owner": "evmsmart",
+                "repo": "solidity-detectors",
+                "stars": 0,
+                "topics": [
+                  "audit",
+                  "blockchain",
+                  "ethereum",
+                  "evm",
+                  "owasp",
+                  "security",
+                  "smart-contracts",
+                  "solidity",
+                  "static-analysis",
+                  "swc",
+                  "vulnerability-detection",
+                  "web3"
+                ]
+              },
+              "first_seen": "2026-10-31T15:52:46.168Z"
             }
           ],
           "description": null,
@@ -1263,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T16:49:30.084Z",
+    "last_updated": "2026-10-31T15:52:46.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
@@ -1271,8 +1305,8 @@
       "id": 488823706,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-05T03:42:49Z",
-      "open_issues": 12,
+      "last_commit": "2026-10-30T23:18:22Z",
+      "open_issues": 4,
       "owner": "saeidshirazi",
       "repo": "Awesome-Smart-Contract-Security",
       "stars": 907,
@@ -1286,7 +1320,7 @@
         "solidity"
       ]
     },
-    "original_repository_sha": "cf605ed6a090d885ceb8b68c3009665e10a7511a",
+    "original_repository_sha": "e220c79f29f69c8c68c2a8a6057f08febb4b4f05",
     "enhanced_repository": "enhansome/enhansome-Awesome-Smart-Contract-Security",
     "enhanced_repository_description": null,
     "title": "Awesome-Smart-Contract-Security with stars"
