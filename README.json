@@ -21,7 +21,7 @@
                 "open_issues": 501,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6398,
+                "stars": 6401,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -289,7 +289,7 @@
                 "open_issues": 501,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6398,
+                "stars": 6401,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -315,7 +315,7 @@
                 "open_issues": 132,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4277,
+                "stars": 4278,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -378,7 +378,7 @@
                 "open_issues": 107,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3189,
+                "stars": 3190,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -407,7 +407,7 @@
                 "open_issues": 5,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1174,
+                "stars": 1178,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -626,6 +626,35 @@
             },
             {
               "node_type": "item",
+              "title": "Tanod Slither detectors",
+              "description": "Slither plugin with nine detectors for recurring DeFi bug classes (unchecked ERC-20 calls, AMM spot prices, zero slippage, swap deadlines, ERC-4626 inflation, ecrecover, signature replay, stale Chainlink prices), with vulnerable/fixed test fixtures and a GitHub Action. MIT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Slither detectors for recurring DeFi bug classes (unchecked ERC-20 calls, AMM spot prices, zero slippage, deadlines, downcasts, ERC-4626 inflation, ecrecover, signature replay, stale Chainlink prices). MIT.",
+                "homepage": "https://tanod.dev",
+                "id": 1408138349,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-21T23:46:08Z",
+                "open_issues": 0,
+                "owner": "tanod-labs",
+                "repo": "slither-detectors",
+                "stars": 0,
+                "topics": [
+                  "defi",
+                  "ethereum",
+                  "slither",
+                  "slither-plugin",
+                  "smart-contract-security",
+                  "solidity",
+                  "static-analysis"
+                ]
+              },
+              "first_seen": "2026-11-01T16:54:58.653Z"
+            },
+            {
+              "node_type": "item",
               "title": "EVM Smart Audit",
               "description": "Twenty AST-based detectors for Solidity mapped to SWC and the OWASP Smart Contract Top 10; reports the checks that passed as well as the ones that fired. MIT.",
               "children": [],
@@ -726,6 +755,38 @@
                 ]
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EIP-712 Inspector",
+              "description": "Browser-only check of eth_signTypedData_v4 payloads before signing: flags Permit/Permit2/Seaport orders, unlimited amounts, far deadlines and chainId mismatches; computes the digest and recovers the signer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "See what an EIP-712 signature authorises: Permit/Permit2/Seaport risk flags, hashes, signer recovery. Browser-only.",
+                "homepage": "https://dansgit2b.github.io/eip712-inspector/",
+                "id": 1412422735,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-10-09T21:29:52Z",
+                "open_issues": 0,
+                "owner": "Dansgit2b",
+                "repo": "eip712-inspector",
+                "stars": 0,
+                "topics": [
+                  "developer-tools",
+                  "eip-712",
+                  "ethereum",
+                  "permit",
+                  "permit2",
+                  "phishing",
+                  "signature",
+                  "typed-data",
+                  "viem",
+                  "web3-security"
+                ]
+              },
+              "first_seen": "2026-11-01T16:54:58.653Z"
             }
           ],
           "description": "These tools complement static analysis by watching contracts post-deployment for honeypots, rug pulls, and adversarial deployer patterns. Most are free to use.",
@@ -750,7 +811,7 @@
                 "open_issues": 38,
                 "owner": "palkeo",
                 "repo": "panoramix",
-                "stars": 957,
+                "stars": 956,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -929,6 +990,38 @@
                 ]
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Calldata Decoder",
+              "description": "Browser-based EVM calldata decoder that works without an ABI (openchain/4byte lookup), decodes nested multicall/Safe calls recursively and flags unlimited approvals and admin actions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Decode EVM calldata without an ABI: recursive multicall/Safe decoding, unlimited-approval flags. Browser-only.",
+                "homepage": "https://dansgit2b.github.io/calldata-decoder/",
+                "id": 1412422836,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-10-09T21:29:53Z",
+                "open_issues": 0,
+                "owner": "Dansgit2b",
+                "repo": "calldata-decoder",
+                "stars": 0,
+                "topics": [
+                  "4byte",
+                  "abi-decoder",
+                  "calldata",
+                  "developer-tools",
+                  "ethereum",
+                  "evm",
+                  "multicall",
+                  "safe",
+                  "solidity",
+                  "web3-security"
+                ]
+              },
+              "first_seen": "2026-11-01T16:54:58.653Z"
             }
           ],
           "description": null,
@@ -957,7 +1050,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1916,
+            "stars": 1917,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -982,7 +1075,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1916,
+            "stars": 1917,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1028,7 +1121,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1916,
+            "stars": 1917,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1297,7 +1390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:52:46.168Z",
+    "last_updated": "2026-11-01T16:54:58.653Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
@@ -1305,11 +1398,11 @@
       "id": 488823706,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-30T23:18:22Z",
-      "open_issues": 4,
+      "last_commit": "2026-10-31T16:12:04Z",
+      "open_issues": 0,
       "owner": "saeidshirazi",
       "repo": "Awesome-Smart-Contract-Security",
-      "stars": 907,
+      "stars": 909,
       "topics": [
         "awesome-list",
         "blockchain-security",
@@ -1320,7 +1413,7 @@
         "solidity"
       ]
     },
-    "original_repository_sha": "e220c79f29f69c8c68c2a8a6057f08febb4b4f05",
+    "original_repository_sha": "fa6e76bb22596612e606f0df350186c3f6b22baa",
     "enhanced_repository": "enhansome/enhansome-Awesome-Smart-Contract-Security",
     "enhanced_repository_description": null,
     "title": "Awesome-Smart-Contract-Security with stars"
