@@ -21,7 +21,7 @@
                 "open_issues": 501,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6401,
+                "stars": 6400,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -92,7 +92,7 @@
                 "open_issues": 21,
                 "owner": "fergarrui",
                 "repo": "ethereum-graph-debugger",
-                "stars": 349,
+                "stars": 348,
                 "topics": [
                   "blockchain",
                   "bytecode",
@@ -162,7 +162,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3856,
+                "stars": 3855,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -289,7 +289,7 @@
                 "open_issues": 501,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6401,
+                "stars": 6400,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -315,7 +315,7 @@
                 "open_issues": 132,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4278,
+                "stars": 4277,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -345,7 +345,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3856,
+                "stars": 3855,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -374,11 +374,11 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-28T21:34:24Z",
+                "last_commit": "2026-11-02T19:44:19Z",
                 "open_issues": 107,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3190,
+                "stars": 3189,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -404,10 +404,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-27T19:15:01Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1178,
+                "stars": 1194,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -1390,7 +1390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T16:54:58.653Z",
+    "last_updated": "2026-11-02T20:30:14.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
@@ -1402,7 +1402,7 @@
       "open_issues": 0,
       "owner": "saeidshirazi",
       "repo": "Awesome-Smart-Contract-Security",
-      "stars": 909,
+      "stars": 908,
       "topics": [
         "awesome-list",
         "blockchain-security",
