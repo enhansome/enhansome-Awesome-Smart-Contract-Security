@@ -152,7 +152,7 @@
 * [Mythril OSS](https://github.com/ConsenSys/mythril/) ⭐ 4,277 | 🐛 132 | 🌐 Python | 📅 2026-04-27 - Open-source security analysis tool for Ethereum smart contracts built around detector modules
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
 * [Echidna](https://github.com/trailofbits/echidna) ⭐ 3,189 | 🐛 107 | 🌐 Haskell | 📅 2026-11-02 - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,194 | 🐛 6 | 🌐 Python | 📅 2026-10-27 - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,199 | 🐛 6 | 🌐 Python | 📅 2026-10-27 - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 * [Securify v2.0](https://github.com/eth-sri/securify2) ⭐ 635 | 🐛 36 | 🌐 Solidity | 📅 2025-05-25 - Static analysis tool from ChainSecurity
 * [Octopus](https://github.com/pventuzelo/octopus) ⚠️ Archived - : Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
 * [Web3 Decoder](https://github.com/nccgroup/web3-decoder) ⭐ 117 | 🐛 0 | 🌐 Java | 📅 2026-06-02 - Web3 Decoder is a Burp Suite Extension that helps to analyze what is going on with the operations involving smart contracts of the web3
@@ -298,4 +298,4 @@ These tools complement static analysis by watching contracts post-deployment for
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
