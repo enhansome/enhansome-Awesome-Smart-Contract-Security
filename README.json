@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-04T22:55:42Z",
-                "open_issues": 504,
+                "open_issues": 512,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6409,
+                "stars": 6411,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -47,7 +47,7 @@
                 "open_issues": 8,
                 "owner": "ConsenSysDiligence",
                 "repo": "surya",
-                "stars": 1172,
+                "stars": 1171,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -162,7 +162,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3855,
+                "stars": 3856,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -286,10 +286,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-04T22:55:42Z",
-                "open_issues": 504,
+                "open_issues": 512,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6409,
+                "stars": 6411,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -345,7 +345,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3855,
+                "stars": 3856,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -374,7 +374,7 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-05T15:08:54Z",
+                "last_commit": "2026-11-06T16:25:59Z",
                 "open_issues": 106,
                 "owner": "crytic",
                 "repo": "echidna",
@@ -407,7 +407,7 @@
                 "open_issues": 6,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1204,
+                "stars": 1207,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -1390,7 +1390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T18:16:47.292Z",
+    "last_updated": "2026-11-06T17:40:51.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
