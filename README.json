@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-04T22:55:42Z",
-                "open_issues": 515,
+                "open_issues": 518,
                 "owner": "crytic",
                 "repo": "slither",
                 "stars": 6411,
@@ -220,7 +220,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-04T20:37:01Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "protofire",
                 "repo": "solhint",
                 "stars": 1128,
@@ -286,7 +286,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-04T22:55:42Z",
-                "open_issues": 515,
+                "open_issues": 518,
                 "owner": "crytic",
                 "repo": "slither",
                 "stars": 6411,
@@ -378,7 +378,7 @@
                 "open_issues": 104,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3191,
+                "stars": 3192,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -407,7 +407,7 @@
                 "open_issues": 6,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1208,
+                "stars": 1210,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -606,7 +606,7 @@
                 "id": 1330695896,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T06:48:22Z",
+                "last_commit": "2026-11-08T09:29:05Z",
                 "open_issues": 0,
                 "owner": "holistis",
                 "repo": "al-mizaan-judge",
@@ -1317,7 +1317,7 @@
             "open_issues": 1,
             "owner": "cryptofinlabs",
             "repo": "audit-checklist",
-            "stars": 367,
+            "stars": 368,
             "topics": [
               "ethereum",
               "security",
@@ -1390,7 +1390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T16:37:30.075Z",
+    "last_updated": "2026-11-08T16:46:56.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
@@ -1402,7 +1402,7 @@
       "open_issues": 2,
       "owner": "saeidshirazi",
       "repo": "Awesome-Smart-Contract-Security",
-      "stars": 908,
+      "stars": 907,
       "topics": [
         "awesome-list",
         "blockchain-security",
