@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-04T22:55:42Z",
-                "open_issues": 519,
+                "open_issues": 521,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6412,
+                "stars": 6417,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -219,8 +219,8 @@
                 "id": 107120334,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-10T12:03:04Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-10T21:33:26Z",
+                "open_issues": 14,
                 "owner": "protofire",
                 "repo": "solhint",
                 "stars": 1129,
@@ -286,10 +286,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-04T22:55:42Z",
-                "open_issues": 519,
+                "open_issues": 521,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6412,
+                "stars": 6417,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -378,7 +378,7 @@
                 "open_issues": 104,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3193,
+                "stars": 3195,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -407,7 +407,7 @@
                 "open_issues": 6,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1210,
+                "stars": 1215,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -1390,7 +1390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T18:16:18.877Z",
+    "last_updated": "2026-11-11T18:03:26.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
