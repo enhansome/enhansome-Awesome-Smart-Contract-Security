@@ -128,7 +128,7 @@
 
 ### Visualization
 
-* [Slither](https://github.com/trailofbits/slither) ⭐ 6,417 | 🐛 521 | 🌐 Python | 📅 2026-11-04 - Slither can map method visibility and modifiers, state variables that are read and written, calls, and can print the inheritance graph of a smart contract
+* [Slither](https://github.com/trailofbits/slither) ⭐ 6,418 | 🐛 521 | 🌐 Python | 📅 2026-11-04 - Slither can map method visibility and modifiers, state variables that are read and written, calls, and can print the inheritance graph of a smart contract
 * [Surya](https://github.com/ConsenSys/surya) ⭐ 1,172 | 🐛 8 | 🌐 JavaScript | 📅 2025-06-26 - Generates various visual outputs of function call graphs
 * [Solgraph](https://github.com/raineorshine/solgraph) ⭐ 1,027 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-04 - Generates DOT graphs with function control flow of a solidity contract
 * [ethereum-graph-debugger](https://github.com/fergarrui/ethereum-graph-debugger) ⭐ 348 | 🐛 21 | 🌐 TypeScript | 📅 2023-03-03 - A graphical EVM debugger. Displays the entire program control flow graph.
@@ -141,18 +141,19 @@
 
 ### Linters
 
-* [Solhint](https://github.com/protofire/solhint) ⭐ 1,129 | 🐛 14 | 🌐 JavaScript | 📅 2026-11-10 - Linter for both security and style-guide validations. It strictly adheres to the [Solidity Style Guide](https://solidity.readthedocs.io/en/latest/style-guide.html).
+* [Solhint](https://github.com/protofire/solhint) ⭐ 1,130 | 🐛 14 | 🌐 JavaScript | 📅 2026-11-10 - Linter for both security and style-guide validations. It strictly adheres to the [Solidity Style Guide](https://solidity.readthedocs.io/en/latest/style-guide.html).
 * [Solium](https://github.com/duaraghav8/Solium) ⭐ 920 | 🐛 74 | 🌐 JavaScript | 📅 2025-01-03 - Linter for both security and style-guide validations. Does not strictly adhere to the Solidity Style Guide.
 * [Remix](https://remix.ethereum.org/) - Browser-based Solidity IDE with linting features
 * [SmarrtCheck](https://tool.smartdec.net/) - A linter for Solidity and Vyper that checks code for security issues and bad practices.
 
 ### BugHunting
 
-* [Slither](https://github.com/trailofbits/slither) ⭐ 6,417 | 🐛 521 | 🌐 Python | 📅 2026-11-04 - Static analysis framework, written in Python, with detectors for many common Solidity issues
-* [Mythril OSS](https://github.com/ConsenSys/mythril/) ⭐ 4,279 | 🐛 132 | 🌐 Python | 📅 2026-04-27 - Open-source security analysis tool for Ethereum smart contracts built around detector modules
+* [Slither](https://github.com/trailofbits/slither) ⭐ 6,418 | 🐛 521 | 🌐 Python | 📅 2026-11-04 - Static analysis framework, written in Python, with detectors for many common Solidity issues
+* [Mythril OSS](https://github.com/ConsenSys/mythril/) ⭐ 4,277 | 🐛 132 | 🌐 Python | 📅 2026-04-27 - Open-source security analysis tool for Ethereum smart contracts built around detector modules
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
 * [Echidna](https://github.com/trailofbits/echidna) ⭐ 3,197 | 🐛 104 | 🌐 Haskell | 📅 2026-11-06 - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,226 | 🐛 6 | 🌐 Python | 📅 2026-10-27 - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
+* [Pashov Audit Group Skills](https://github.com/pashov/skills) ⭐ 1,312 | 🐛 23 | 🌐 JavaScript | 📅 2026-10-21 - Open-source agent skills for Solidity security: AI audit, pre-audit x-ray threat model, and Echidna/Medusa fuzz suite generation. MIT.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,232 | 🐛 7 | 🌐 Python | 📅 2026-10-27 - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 * [Securify v2.0](https://github.com/eth-sri/securify2) ⭐ 635 | 🐛 36 | 🌐 Solidity | 📅 2025-05-25 - Static analysis tool from ChainSecurity
 * [Octopus](https://github.com/pventuzelo/octopus) ⚠️ Archived - : Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
 * [Web3 Decoder](https://github.com/nccgroup/web3-decoder) ⭐ 117 | 🐛 0 | 🌐 Java | 📅 2026-06-02 - Web3 Decoder is a Burp Suite Extension that helps to analyze what is going on with the operations involving smart contracts of the web3
@@ -169,6 +170,8 @@ These tools complement static analysis by watching contracts post-deployment for
 * [HoneyBadger](https://github.com/christoftorres/HoneyBadger) ⭐ 103 | 🐛 1 | 🌐 Solidity | 📅 2023-03-07 - Honeypot detector for Ethereum smart contracts (academic, EVM bytecode).
 * [ContractScan](https://github.com/dutchaiagency/contractscan-api) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-04-29 - Free client-side smart contract security scanner. Detects proxies, honeypots, rug pulls, and 11 vulnerability patterns across 6 EVM chains. Works in browser, no signup needed.
 * [EIP-712 Inspector](https://github.com/Dansgit2b/eip712-inspector) ⭐ 0 | 🐛 0 | 📅 2026-10-09 - Browser-only check of eth\_signTypedData\_v4 payloads before signing: flags Permit/Permit2/Seaport orders, unlimited amounts, far deadlines and chainId mismatches; computes the digest and recovers the signer.
+* [Solidity MEV Bot Scam Detector](https://github.com/mevdao-org/solidity-mev-bot-scam-detector) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-11-11 - Pattern scanner for the fake "MEV bot" Remix contracts pushed in YouTube tutorials: flags decoy mempool functions (parseMempool, callMempool), hidden recipient addresses rebuilt from hex slices, and full-balance transfers inside start() or withdrawal(). MIT.
+* [ownerwatch](https://github.com/imal1ice/ownerwatch) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-12 - Open-source admin-surface monitor for EVM contracts: tracks owners, proxy admins, Safe signers and threshold, timelock delays and EIP-2535 diamond facets, and alerts the moment any of them change. Runs as a CLI, a GitHub Action or an MCP server; also drafts and verifies ERC-8241 control disclosures.
 * [GoPlus](https://gopluslabs.io/token-security-api) - Token security API covering 30+ chains with honeypot, ownership, and trading risk checks.
 * [Honeypot.is](https://honeypot.is/) - Quick honeypot test for ERC-20 tokens by simulating buy/sell.
 * [RektRadar](https://rektradar.io/) - Real-time Ethereum scam detector with mempool monitoring, deployer graph analysis, and factory pattern detection. Catches rug pulls mid-broadcast and flags honeypots before liquidity is added.
@@ -218,23 +221,34 @@ These tools complement static analysis by watching contracts post-deployment for
 | [6th Workshop on Trusted Smart Contracts](https://fc22.ifca.ai/wtsc/)                                                                                                                                                                            | WTSC 2022      | 2022 |
 | [Smart Contract Security: a Practitioners’ Perspective](https://conf.researchr.org/details/icse-2021/icse-2021-papers/12/Smart-Contract-Security-a-Practitioners-Perspective)                                                                    | ICSE 2021      | 2021 |
 | [Predicting Random Numbers in Ethereum Smart Contracts](https://schd.ws/hosted_files/appseccalifornia2018/00/AppSecCali%202018%20-%20Predicting%20Random%20Numbers%20in%20Ethereum%20Smart%20Contracts.pdf)                                      | OWASP AppSec   | 2018 |
-| [Blockchain Autopsies - Analyzing Smart Contract Deaths](https://github.com/trailofbits/publications/tree/master/presentations/Blockchain%20Autopsies%20-%20Analyzing%20Smart%20Contract%20Deaths) ⭐ 1,919 \| 🐛 4 \| 🌐 Python \| 📅 2026-11-13 | Blackhat USA   | 2018 |
+| [Blockchain Autopsies - Analyzing Smart Contract Deaths](https://github.com/trailofbits/publications/tree/master/presentations/Blockchain%20Autopsies%20-%20Analyzing%20Smart%20Contract%20Deaths) ⭐ 1,920 \| 🐛 4 \| 🌐 Python \| 📅 2026-11-13 | Blackhat USA   | 2018 |
 | [Rattle - an EVM binary analysis framework](https://www.trailofbits.com/presentations/rattle/)                                                                                                                                                   | reCON          | 2018 |
-| [Blackhat Ethereum](https://github.com/trailofbits/publications/blob/master/presentations/Blackhat%20Ethereum) ⭐ 1,919 \| 🐛 4 \| 🌐 Python \| 📅 2026-11-13                                                                                     | CanSecWest     | 2018 |
+| [Blackhat Ethereum](https://github.com/trailofbits/publications/blob/master/presentations/Blackhat%20Ethereum) ⭐ 1,920 \| 🐛 4 \| 🌐 Python \| 📅 2026-11-13                                                                                     | CanSecWest     | 2018 |
 | [Smashing Ethereum Smart Contracts for Fun and Profit](https://github.com/b-mueller/smashing-smart-contracts) ⚠️ Archived                                                                                                                        | HITB Amsterdam | 2018 |
-| [Automatic Bug Finding for the Blockchain](https://github.com/trailofbits/publications/blob/master/presentations/Automatic%20bugfinding%20for%20the%20blockchain) ⭐ 1,919 \| 🐛 4 \| 🌐 Python \| 📅 2026-11-13                                  | EkoParty       | 2017 |
+| [Automatic Bug Finding for the Blockchain](https://github.com/trailofbits/publications/blob/master/presentations/Automatic%20bugfinding%20for%20the%20blockchain) ⭐ 1,920 \| 🐛 4 \| 🌐 Python \| 📅 2026-11-13                                  | EkoParty       | 2017 |
 
 # Misc
 
 * [Examples of Solidity security issues](https://github.com/crytic/not-so-smart-contracts) ⚠️ Archived
+
 * [A Collection of Vulnerabilities in ERC20 Smart Contracts](https://github.com/sec-bit/awesome-buggy-erc20-tokens) ⭐ 633 | 🐛 9 | 🌐 Python | 📅 2024-02-15
+
 * [A guide to EOS smart contract security best practices](https://github.com/slowmist/eos-smart-contract-security-best-practices) ⭐ 392 | 🐛 0 | 📅 2025-07-31
+
 * [A guide to smart contract security best practices](https://github.com/ConsenSys/smart-contract-best-practices) ⭐ 27 | 🐛 0 | 🌐 HTML | 📅 2025-03-28
+
 * [A guide to smart contract security best practices](https://github.com/ConsenSys/smart-contract-best-practices) ⭐ 27 | 🐛 0 | 🌐 HTML | 📅 2025-03-28
+
+* [How to Break Into Blockchain Security](https://smartcontractshacking.com/learn/security/how-to-break-into-blockchain-security) - Free guide to building Solidity review skills, a security portfolio, and a responsible AI-assisted learning workflow.
+
 * [Security Pitfalls & Best Practices 201](https://secureum.substack.com/p/security-pitfalls-and-best-practices-201)
+
 * [Hacking Smart Contracts: Beginners Guide](https://learn.block6.tech/hacking-smart-contracts-beginners-guide-9c84e9de7194)
+
 * [Security Pitfalls & Best Practices 101](https://secureum.substack.com/p/security-pitfalls-and-best-practices-101?s=r)
+
 * [Decentralized Application Security Project (or DASP) Top 10](https://www.dasp.co/)
+
 * [Solidity Security Considerations](https://docs.soliditylang.org/en/latest/security-considerations.html)
 
 # Podcasts
@@ -290,12 +304,13 @@ These tools complement static analysis by watching contracts post-deployment for
 
 ## Web3 Security Tools
 
+* [Motech Audit Security Skills](https://github.com/MotechAudit/motech-audit-security-skills) ⭐ 3 | 🐛 4 | 🌐 Solidity | 📅 2026-11-09 - Open-source agent-readable Solidity security review guidance with reproducible Foundry tests covering reentrancy and access control. Includes vulnerable and mitigated examples. MIT licensed.
+* [token-launch-scan](https://github.com/invisiblemonsters/token-launch-scan) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-05 - Multi-chain launch-safety scanner: mint/freeze authority, honeypot behavior, LP lock, holder concentration (EVM + Solana + BSC).
 * [MetaVision CVE Oracle](https://metavision.click/cve) - Web3 vulnerability scanner. 355k+ CVEs from NVD, specialized in Ethereum/Solidity/DeFi. Wallet fraud + rug pull detection (ChainAware). API: POST /cve {"keyword": "solidity"}
 * [Kerne Verify Anything](https://kerne.fi/verify-anything) - Free, open, no-login client-side tool to verify any stablecoin's on-chain reserves, signed reserve attestations, and ERC-4626 vault accounting in the browser.
 * [Bounty Radar](https://agent.zbang.net/radar/) - Free live dashboard of Immunefi bug bounty programs, filterable by no-KYC payout and Safe Harbor status, cross-checked against GitHub code liveness for in-scope repos.
-* [token-launch-scan](https://github.com/invisiblemonsters/token-launch-scan) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-05 - Multi-chain launch-safety scanner: mint/freeze authority, honeypot behavior, LP lock, holder concentration (EVM + Solana + BSC).
 * [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 7 EVM chains.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

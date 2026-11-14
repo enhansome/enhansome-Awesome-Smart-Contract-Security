@@ -21,7 +21,7 @@
                 "open_issues": 521,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6417,
+                "stars": 6418,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -162,7 +162,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3856,
+                "stars": 3857,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -223,7 +223,7 @@
                 "open_issues": 14,
                 "owner": "protofire",
                 "repo": "solhint",
-                "stars": 1129,
+                "stars": 1130,
                 "topics": [
                   "ast",
                   "code-quality",
@@ -289,7 +289,7 @@
                 "open_issues": 521,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6417,
+                "stars": 6418,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -315,7 +315,7 @@
                 "open_issues": 132,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4279,
+                "stars": 4277,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -345,7 +345,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3856,
+                "stars": 3857,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -393,6 +393,42 @@
             },
             {
               "node_type": "item",
+              "title": "Pashov Audit Group Skills",
+              "description": "Open-source agent skills for Solidity security: AI audit, pre-audit x-ray threat model, and Echidna/Medusa fuzz suite generation. MIT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Pashov Audit Group Skills",
+                "homepage": null,
+                "id": 1165212299,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-10-21T09:22:05Z",
+                "open_issues": 23,
+                "owner": "pashov",
+                "repo": "skills",
+                "stars": 1312,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "ai-security",
+                  "claude-code",
+                  "defi-security",
+                  "fuzz-testing",
+                  "fuzzing",
+                  "security-research",
+                  "smart-contract-audit",
+                  "smart-contract-security",
+                  "solidity-audit",
+                  "web3",
+                  "web3-development",
+                  "web3-security"
+                ]
+              },
+              "first_seen": "2026-11-14T16:43:30.929Z"
+            },
+            {
+              "node_type": "item",
               "title": "Darkmoon",
               "description": "Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.",
               "children": [],
@@ -404,10 +440,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-27T19:15:01Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1226,
+                "stars": 1232,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -787,6 +823,66 @@
                 ]
               },
               "first_seen": "2026-11-01T16:54:58.653Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Solidity MEV Bot Scam Detector",
+              "description": "Pattern scanner for the fake \"MEV bot\" Remix contracts pushed in YouTube tutorials: flags decoy mempool functions (parseMempool, callMempool), hidden recipient addresses rebuilt from hex slices, and full-balance transfers inside start() or withdrawal(). MIT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Static analyzer & guide to detect fake YouTube Remix Solidity MEV bot drainers and evaluate real Flashbots MEV bots — by MEV DAO (https://mevdao.org)",
+                "homepage": "https://mevdao.org/blog/the-youtube-mev-bot-scam-how-the-remix-contract-drains-your-eth",
+                "id": 1432312005,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-11-11T19:03:58Z",
+                "open_issues": 0,
+                "owner": "mevdao-org",
+                "repo": "solidity-mev-bot-scam-detector",
+                "stars": 0,
+                "topics": [
+                  "ethereum-security",
+                  "flashbots",
+                  "mev",
+                  "mev-bot",
+                  "mevdao",
+                  "remix-ethereum",
+                  "scam-detector",
+                  "solidity"
+                ]
+              },
+              "first_seen": "2026-11-14T16:43:30.929Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ownerwatch",
+              "description": "Open-source admin-surface monitor for EVM contracts: tracks owners, proxy admins, Safe signers and threshold, timelock delays and EIP-2535 diamond facets, and alerts the moment any of them change. Runs as a CLI, a GitHub Action or an MCP server; also drafts and verifies ERC-8241 control disclosures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Self-hosted alerts when admin keys, roles, proxies or treasuries of your EVM contracts change",
+                "homepage": "https://pypi.org/project/ownerwatch/",
+                "id": 1418733339,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-12T08:50:11Z",
+                "open_issues": 0,
+                "owner": "imal1ice",
+                "repo": "ownerwatch",
+                "stars": 0,
+                "topics": [
+                  "alerting",
+                  "devops",
+                  "ethereum",
+                  "evm",
+                  "monitoring",
+                  "security",
+                  "smart-contracts",
+                  "web3"
+                ]
+              },
+              "first_seen": "2026-11-14T16:43:30.929Z"
             }
           ],
           "description": "These tools complement static analysis by watching contracts post-deployment for honeypots, rug pulls, and adversarial deployer patterns. Most are free to use.",
@@ -832,7 +928,7 @@
                 "open_issues": 9,
                 "owner": "crytic",
                 "repo": "ethersplay",
-                "stars": 853,
+                "stars": 854,
                 "topics": [
                   "binary-ninja",
                   "disassembler",
@@ -1050,7 +1146,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1919,
+            "stars": 1920,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1075,7 +1171,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1919,
+            "stars": 1920,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1121,7 +1217,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1919,
+            "stars": 1920,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1387,10 +1483,86 @@
         }
       ],
       "title": "Bug Bounty & Writeups"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Motech Audit Security Skills",
+              "description": "Open-source agent-readable Solidity security review guidance with reproducible Foundry tests covering reentrancy and access control. Includes vulnerable and mitigated examples. MIT licensed.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source AI-powered security skills by Motech Audit for Ethereum smart contract auditing, vulnerability detection, threat modeling, and security testing.",
+                "homepage": null,
+                "id": 1444724292,
+                "language": "Solidity",
+                "license": "MIT",
+                "last_commit": "2026-11-09T18:19:47Z",
+                "open_issues": 4,
+                "owner": "MotechAudit",
+                "repo": "motech-audit-security-skills",
+                "stars": 3,
+                "topics": [
+                  "agent-skills",
+                  "blockchain-security-solutions",
+                  "blockchain-security-tools",
+                  "ethereum",
+                  "foundry",
+                  "security-audit",
+                  "smart-contract-security",
+                  "solidity",
+                  "web3-security"
+                ]
+              },
+              "first_seen": "2026-11-14T16:43:30.929Z"
+            },
+            {
+              "node_type": "item",
+              "title": "token-launch-scan",
+              "description": "Multi-chain launch-safety scanner: mint/freeze authority, honeypot behavior, LP lock, holder concentration (EVM + Solana + BSC).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Free, no-API-key token launch safety scanner: authorities, honeypot simulation, taxes, holder concentration (EVM + Solana)",
+                "homepage": null,
+                "id": 1372526566,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-05T23:29:06Z",
+                "open_issues": 0,
+                "owner": "invisiblemonsters",
+                "repo": "token-launch-scan",
+                "stars": 0,
+                "topics": [
+                  "defi",
+                  "ethereum",
+                  "honeypot",
+                  "rugcheck",
+                  "safety",
+                  "security",
+                  "smart-contracts",
+                  "solana",
+                  "token",
+                  "web3"
+                ]
+              },
+              "first_seen": "2026-11-14T16:43:30.929Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web3 Security Tools"
+        }
+      ],
+      "title": "Bug Bounty/Audit Platforms & Project"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T18:03:28.245Z",
+    "last_updated": "2026-11-14T16:43:30.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
@@ -1398,8 +1570,8 @@
       "id": 488823706,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-31T16:12:04Z",
-      "open_issues": 5,
+      "last_commit": "2026-11-13T22:27:33Z",
+      "open_issues": 0,
       "owner": "saeidshirazi",
       "repo": "Awesome-Smart-Contract-Security",
       "stars": 908,
@@ -1413,7 +1585,7 @@
         "solidity"
       ]
     },
-    "original_repository_sha": "fa6e76bb22596612e606f0df350186c3f6b22baa",
+    "original_repository_sha": "a864675cad4fce001ee331c574470d92be53d05e",
     "enhanced_repository": "enhansome/enhansome-Awesome-Smart-Contract-Security",
     "enhanced_repository_description": null,
     "title": "Awesome-Smart-Contract-Security with stars"
