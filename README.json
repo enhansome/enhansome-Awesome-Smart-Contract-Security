@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-04T22:55:42Z",
-                "open_issues": 521,
+                "open_issues": 522,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6418,
+                "stars": 6420,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -255,7 +255,7 @@
                 "open_issues": 74,
                 "owner": "duaraghav8",
                 "repo": "Ethlint",
-                "stars": 920,
+                "stars": 921,
                 "topics": [
                   "ethereum",
                   "lint",
@@ -286,10 +286,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-04T22:55:42Z",
-                "open_issues": 521,
+                "open_issues": 522,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6418,
+                "stars": 6420,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -315,7 +315,7 @@
                 "open_issues": 132,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4277,
+                "stars": 4278,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -443,7 +443,7 @@
                 "open_issues": 7,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1232,
+                "stars": 1238,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -485,7 +485,7 @@
                 "open_issues": 36,
                 "owner": "eth-sri",
                 "repo": "securify2",
-                "stars": 635,
+                "stars": 636,
                 "topics": [
                   "datalog",
                   "ethereum",
@@ -514,7 +514,7 @@
                 "open_issues": 12,
                 "owner": "FuzzingLabs",
                 "repo": "octopus",
-                "stars": 490,
+                "stars": 491,
                 "topics": [
                   "blockchain",
                   "call-flow-analysis",
@@ -642,7 +642,7 @@
                 "id": 1330695896,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-08T09:29:05Z",
+                "last_commit": "2026-11-14T23:43:35Z",
                 "open_issues": 0,
                 "owner": "holistis",
                 "repo": "al-mizaan-judge",
@@ -1273,7 +1273,7 @@
             "open_issues": 9,
             "owner": "sec-bit",
             "repo": "awesome-buggy-erc20-tokens",
-            "stars": 633,
+            "stars": 634,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1306,7 +1306,7 @@
             "open_issues": 0,
             "owner": "slowmist",
             "repo": "eos-smart-contract-security-best-practices",
-            "stars": 392,
+            "stars": 393,
             "topics": [
               "blockchain",
               "eosio",
@@ -1413,7 +1413,7 @@
             "open_issues": 1,
             "owner": "cryptofinlabs",
             "repo": "audit-checklist",
-            "stars": 368,
+            "stars": 369,
             "topics": [
               "ethereum",
               "security",
@@ -1444,7 +1444,7 @@
             "open_issues": 29,
             "owner": "TechRate",
             "repo": "Smart-Contract-Audits",
-            "stars": 573,
+            "stars": 574,
             "topics": [
               "audit",
               "defi",
@@ -1562,7 +1562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T16:43:30.929Z",
+    "last_updated": "2026-11-15T17:24:16.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
@@ -1574,7 +1574,7 @@
       "open_issues": 0,
       "owner": "saeidshirazi",
       "repo": "Awesome-Smart-Contract-Security",
-      "stars": 908,
+      "stars": 910,
       "topics": [
         "awesome-list",
         "blockchain-security",
