@@ -21,7 +21,7 @@
                 "open_issues": 522,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6420,
+                "stars": 6419,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -223,7 +223,7 @@
                 "open_issues": 14,
                 "owner": "protofire",
                 "repo": "solhint",
-                "stars": 1130,
+                "stars": 1131,
                 "topics": [
                   "ast",
                   "code-quality",
@@ -289,7 +289,7 @@
                 "open_issues": 522,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6420,
+                "stars": 6419,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -378,7 +378,7 @@
                 "open_issues": 104,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3197,
+                "stars": 3198,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -443,7 +443,7 @@
                 "open_issues": 7,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1238,
+                "stars": 1247,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -1562,7 +1562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T17:24:16.166Z",
+    "last_updated": "2026-11-16T20:40:34.218Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
@@ -1574,7 +1574,7 @@
       "open_issues": 0,
       "owner": "saeidshirazi",
       "repo": "Awesome-Smart-Contract-Security",
-      "stars": 910,
+      "stars": 911,
       "topics": [
         "awesome-list",
         "blockchain-security",
