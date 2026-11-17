@@ -162,7 +162,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3857,
+                "stars": 3859,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -315,7 +315,7 @@
                 "open_issues": 132,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4278,
+                "stars": 4277,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -345,7 +345,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3857,
+                "stars": 3859,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -374,11 +374,11 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-06T22:49:23Z",
-                "open_issues": 104,
+                "last_commit": "2026-11-17T18:15:19Z",
+                "open_issues": 105,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3198,
+                "stars": 3199,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -407,7 +407,7 @@
                 "open_issues": 23,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1312,
+                "stars": 1314,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -443,7 +443,7 @@
                 "open_issues": 7,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1247,
+                "stars": 1259,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -1273,7 +1273,7 @@
             "open_issues": 9,
             "owner": "sec-bit",
             "repo": "awesome-buggy-erc20-tokens",
-            "stars": 634,
+            "stars": 633,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1562,7 +1562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T20:40:34.218Z",
+    "last_updated": "2026-11-17T19:24:20.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
@@ -1571,7 +1571,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-11-13T22:27:33Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "saeidshirazi",
       "repo": "Awesome-Smart-Contract-Security",
       "stars": 911,
