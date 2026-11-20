@@ -21,7 +21,7 @@
                 "open_issues": 522,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6421,
+                "stars": 6422,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -68,7 +68,7 @@
                 "open_issues": 5,
                 "owner": "raineorshine",
                 "repo": "solgraph",
-                "stars": 1027,
+                "stars": 1026,
                 "topics": [
                   "ethereum",
                   "solidity"
@@ -162,7 +162,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3857,
+                "stars": 3856,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -220,10 +220,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-10T21:33:26Z",
-                "open_issues": 14,
+                "open_issues": 16,
                 "owner": "protofire",
                 "repo": "solhint",
-                "stars": 1131,
+                "stars": 1130,
                 "topics": [
                   "ast",
                   "code-quality",
@@ -255,7 +255,7 @@
                 "open_issues": 74,
                 "owner": "duaraghav8",
                 "repo": "Ethlint",
-                "stars": 921,
+                "stars": 920,
                 "topics": [
                   "ethereum",
                   "lint",
@@ -289,7 +289,7 @@
                 "open_issues": 522,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6421,
+                "stars": 6422,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -315,7 +315,7 @@
                 "open_issues": 132,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4277,
+                "stars": 4278,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -345,7 +345,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3857,
+                "stars": 3856,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -407,7 +407,7 @@
                 "open_issues": 23,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1319,
+                "stars": 1322,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -439,11 +439,11 @@
                 "id": 894433723,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-19T13:11:52Z",
+                "last_commit": "2026-11-20T18:12:00Z",
                 "open_issues": 7,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1273,
+                "stars": 1276,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -485,7 +485,7 @@
                 "open_issues": 36,
                 "owner": "eth-sri",
                 "repo": "securify2",
-                "stars": 636,
+                "stars": 635,
                 "topics": [
                   "datalog",
                   "ethereum",
@@ -514,7 +514,7 @@
                 "open_issues": 12,
                 "owner": "FuzzingLabs",
                 "repo": "octopus",
-                "stars": 491,
+                "stars": 490,
                 "topics": [
                   "blockchain",
                   "call-flow-analysis",
@@ -928,7 +928,7 @@
                 "open_issues": 9,
                 "owner": "crytic",
                 "repo": "ethersplay",
-                "stars": 853,
+                "stars": 852,
                 "topics": [
                   "binary-ninja",
                   "disassembler",
@@ -954,7 +954,7 @@
                 "open_issues": 19,
                 "owner": "crytic",
                 "repo": "pyevmasm",
-                "stars": 387,
+                "stars": 386,
                 "topics": [
                   "assembler",
                   "dissassembler",
@@ -1027,7 +1027,7 @@
                 "open_issues": 8,
                 "owner": "crytic",
                 "repo": "ida-evm",
-                "stars": 330,
+                "stars": 329,
                 "topics": [
                   "dissassembler",
                   "evm",
@@ -1146,7 +1146,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1920,
+            "stars": 1919,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1171,7 +1171,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1920,
+            "stars": 1919,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1217,7 +1217,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1920,
+            "stars": 1919,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1248,7 +1248,7 @@
             "open_issues": 10,
             "owner": "crytic",
             "repo": "not-so-smart-contracts",
-            "stars": 2225,
+            "stars": 2224,
             "topics": [
               "ethereum",
               "solidity",
@@ -1273,7 +1273,7 @@
             "open_issues": 9,
             "owner": "sec-bit",
             "repo": "awesome-buggy-erc20-tokens",
-            "stars": 634,
+            "stars": 633,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1306,7 +1306,7 @@
             "open_issues": 0,
             "owner": "slowmist",
             "repo": "eos-smart-contract-security-best-practices",
-            "stars": 393,
+            "stars": 392,
             "topics": [
               "blockchain",
               "eosio",
@@ -1413,7 +1413,7 @@
             "open_issues": 1,
             "owner": "cryptofinlabs",
             "repo": "audit-checklist",
-            "stars": 369,
+            "stars": 368,
             "topics": [
               "ethereum",
               "security",
@@ -1444,7 +1444,7 @@
             "open_issues": 29,
             "owner": "TechRate",
             "repo": "Smart-Contract-Audits",
-            "stars": 574,
+            "stars": 573,
             "topics": [
               "audit",
               "defi",
@@ -1562,7 +1562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T19:09:36.668Z",
+    "last_updated": "2026-11-20T18:50:01.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
@@ -1574,7 +1574,7 @@
       "open_issues": 1,
       "owner": "saeidshirazi",
       "repo": "Awesome-Smart-Contract-Security",
-      "stars": 912,
+      "stars": 911,
       "topics": [
         "awesome-list",
         "blockchain-security",
