@@ -21,7 +21,7 @@
                 "open_issues": 522,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6422,
+                "stars": 6421,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -289,7 +289,7 @@
                 "open_issues": 522,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6422,
+                "stars": 6421,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -407,7 +407,7 @@
                 "open_issues": 23,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1322,
+                "stars": 1323,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -434,16 +434,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10). Runs on a local LLM behind a Privacy Gateway. Integrates with GitHub, GitLab, Jenkins, VS Code, JetBrains, n8n, Grafana & Splunk.",
+                "description": "Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10), with an evidence-checked attack-path graph. Runs on a local LLM behind a Privacy Gateway. Integrates with GitHub, GitLab, Jenkins, VS Code, JetBrains, n8n, Grafana & Splunk.",
                 "homepage": "https://dark-moon.org/",
                 "id": 894433723,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-20T18:12:00Z",
+                "last_commit": "2026-11-21T11:23:37Z",
                 "open_issues": 7,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1276,
+                "stars": 1280,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -1273,7 +1273,7 @@
             "open_issues": 9,
             "owner": "sec-bit",
             "repo": "awesome-buggy-erc20-tokens",
-            "stars": 633,
+            "stars": 632,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1332,7 +1332,7 @@
             "open_issues": 0,
             "owner": "Consensys",
             "repo": "smart-contract-best-practices",
-            "stars": 27,
+            "stars": 25,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:05.692Z"
@@ -1353,7 +1353,7 @@
             "open_issues": 0,
             "owner": "Consensys",
             "repo": "smart-contract-best-practices",
-            "stars": 27,
+            "stars": 25,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:05.692Z"
@@ -1562,7 +1562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T18:50:01.456Z",
+    "last_updated": "2026-11-21T17:46:22.449Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
