@@ -149,17 +149,17 @@
 ### BugHunting
 
 * [Slither](https://github.com/trailofbits/slither) ⭐ 6,421 | 🐛 522 | 🌐 Python | 📅 2026-11-18 - Static analysis framework, written in Python, with detectors for many common Solidity issues
-* [Mythril OSS](https://github.com/ConsenSys/mythril/) ⭐ 4,278 | 🐛 132 | 🌐 Python | 📅 2026-04-27 - Open-source security analysis tool for Ethereum smart contracts built around detector modules
+* [Mythril OSS](https://github.com/ConsenSys/mythril/) ⭐ 4,279 | 🐛 132 | 🌐 Python | 📅 2026-04-27 - Open-source security analysis tool for Ethereum smart contracts built around detector modules
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
-* [Echidna](https://github.com/trailofbits/echidna) ⭐ 3,200 | 🐛 106 | 🌐 Haskell | 📅 2026-11-18 - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
-* [Pashov Audit Group Skills](https://github.com/pashov/skills) ⭐ 1,323 | 🐛 23 | 🌐 JavaScript | 📅 2026-10-21 - Open-source agent skills for Solidity security: AI audit, pre-audit x-ray threat model, and Echidna/Medusa fuzz suite generation. MIT.
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,280 | 🐛 7 | 🌐 Python | 📅 2026-11-21 - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
+* [Echidna](https://github.com/trailofbits/echidna) ⭐ 3,201 | 🐛 106 | 🌐 Haskell | 📅 2026-11-18 - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
+* [Pashov Audit Group Skills](https://github.com/pashov/skills) ⭐ 1,324 | 🐛 23 | 🌐 JavaScript | 📅 2026-10-21 - Open-source agent skills for Solidity security: AI audit, pre-audit x-ray threat model, and Echidna/Medusa fuzz suite generation. MIT.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,287 | 🐛 8 | 🌐 Python | 📅 2026-11-22 - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 * [Securify v2.0](https://github.com/eth-sri/securify2) ⭐ 635 | 🐛 36 | 🌐 Solidity | 📅 2025-05-25 - Static analysis tool from ChainSecurity
 * [Octopus](https://github.com/pventuzelo/octopus) ⚠️ Archived - : Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
 * [Web3 Decoder](https://github.com/nccgroup/web3-decoder) ⭐ 117 | 🐛 0 | 🌐 Java | 📅 2026-06-02 - Web3 Decoder is a Burp Suite Extension that helps to analyze what is going on with the operations involving smart contracts of the web3
 * [L3X](https://github.com/VulnPlanet/l3x) ⭐ 93 | 🐛 0 | 🌐 Rust | 📅 2024-10-03 - AI-driven Smart Contract Static Analyzer
 * [OpenClaw Audit](https://github.com/juan23z/openclaw-audit) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-09-28 - Free heuristic static analysis scanner for Solidity with a GitHub Action; 12 detectors, calibrated to 0 findings across the OpenZeppelin library. No API keys, MIT.
-* [Al-Mizaan Judge](https://github.com/holistis/al-mizaan-judge) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-14 - CLI that runs a bug bounty finding through an adversarial debate (Defender/Attacker/Judge) before you spend a Sherlock/Immunefi/Cantina submission on it
+* [Al-Mizaan Judge](https://github.com/holistis/al-mizaan-judge) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-21 - CLI that runs a bug bounty finding through an adversarial debate (Defender/Attacker/Judge) before you spend a Sherlock/Immunefi/Cantina submission on it
 * [Tanod Slither detectors](https://github.com/tanod-labs/slither-detectors) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-03 - Slither plugin with nine detectors for recurring DeFi bug classes (unchecked ERC-20 calls, AMM spot prices, zero slippage, swap deadlines, ERC-4626 inflation, ecrecover, signature replay, stale Chainlink prices), with vulnerable/fixed test fixtures and a [GitHub Action](https://github.com/tanod-labs/pactlint-action) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-03. MIT.
 * [EVM Smart Audit](https://github.com/evmsmart/solidity-detectors) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-06 - Twenty AST-based detectors for Solidity mapped to SWC and the OWASP Smart Contract Top 10; reports the checks that passed as well as the ones that fired. MIT.
 
@@ -184,11 +184,11 @@ These tools complement static analysis by watching contracts post-deployment for
 
 ### Reverse Engineering
 
-* [Panoramix](https://github.com/palkeo/panoramix) ⭐ 956 | 🐛 39 | 🌐 Python | 📅 2024-08-04 - Ethereum decompiler
+* [Panoramix](https://github.com/palkeo/panoramix) ⭐ 956 | 🐛 40 | 🌐 Python | 📅 2024-08-04 - Ethereum decompiler
 * [Ethersplay](https://github.com/trailofbits/ethersplay) ⚠️ Archived - Visual disassembler for EVM bytecode built on Binary Ninja
 * [pyevmasm](https://github.com/trailofbits/pyevmasm) ⭐ 386 | 🐛 19 | 🌐 Python | 📅 2026-04-17 - EVM assembler and disassembler with a CLI and a Python API
 * [evmlab](https://github.com/ethereum/evmlab) ⚠️ Archived - Utilities for interacting with the Ethereum virtual machine
-* [Rattle](https://github.com/trailofbits/rattle) ⭐ 367 | 🐛 12 | 🌐 Python | 📅 2023-09-04 - EVM binary static analysis framework. Produces SSA representations of EVM code.
+* [Rattle](https://github.com/trailofbits/rattle) ⭐ 367 | 🐛 13 | 🌐 Python | 📅 2023-09-04 - EVM binary static analysis framework. Produces SSA representations of EVM code.
 * [IDA-EVM](https://github.com/trailofbits/ida-evm) ⭐ 329 | 🐛 8 | 🌐 Python | 📅 2024-01-19 - IDA plugin to view EVM instructions
 * [abi-decompiler](https://github.com/beched/abi-decompiler) ⭐ 233 | 🐛 1 | 🌐 C | 📅 2022-06-15 - EVM reverse engineering helper utility
 * [ethereum-dasm](https://github.com/tintinweb/ethereum-dasm) ⭐ 223 | 🐛 2 | 🌐 Python | 📅 2019-07-07 - EVM disassembler with static and dynamic analysis abilities, including function signature lookup
@@ -313,4 +313,4 @@ These tools complement static analysis by watching contracts post-deployment for
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
