@@ -21,7 +21,7 @@
                 "open_issues": 522,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6421,
+                "stars": 6422,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -220,7 +220,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-10T21:33:26Z",
-                "open_issues": 16,
+                "open_issues": 18,
                 "owner": "protofire",
                 "repo": "solhint",
                 "stars": 1130,
@@ -289,7 +289,7 @@
                 "open_issues": 522,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6421,
+                "stars": 6422,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -407,7 +407,7 @@
                 "open_issues": 23,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1324,
+                "stars": 1325,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -439,11 +439,11 @@
                 "id": 894433723,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-22T17:53:24Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-22T19:32:13Z",
+                "open_issues": 6,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1287,
+                "stars": 1294,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -722,6 +722,74 @@
                 ]
               },
               "first_seen": "2026-10-31T15:52:46.168Z"
+            },
+            {
+              "node_type": "item",
+              "title": "drain-scan",
+              "description": "Static linter for drain surfaces in smart wallets, ERC-4337 accounts and EIP-7702 delegates; precision-first, public benchmark. MIT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Static detector for wallet-drain vulnerability classes: a Slither-free solc-AST engine plus Semgrep rules, validated at 0 false positives on real OZ/Solady/Permit2 code against the public wallet-harness corpus. MIT.",
+                "homepage": "https://secrypta.com",
+                "id": 1467312190,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-22T09:24:47Z",
+                "open_issues": 0,
+                "owner": "secrypta",
+                "repo": "drain-scan",
+                "stars": 0,
+                "topics": [
+                  "defi-security",
+                  "ethereum",
+                  "security",
+                  "semgrep",
+                  "smart-contract-security",
+                  "smart-contracts",
+                  "solc",
+                  "solidity",
+                  "static-analysis",
+                  "vulnerability-scanner",
+                  "wallet-security-audit",
+                  "web3-security"
+                ]
+              },
+              "first_seen": "2026-11-23T22:14:32.259Z"
+            },
+            {
+              "node_type": "item",
+              "title": "wallet-harness",
+              "description": "Corpus of wallet-drain attack vectors as executable Foundry reproductions, for scoring detectors and wallets against labeled cases. MIT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A labeled, executable benchmark for the wallet-drain threat class: run a wallet or detector against real approval, signature, poisoning and delegation drains and measure which it actually resists. Verdicts from real outcomes, scored on ground truth with a held-out split.",
+                "homepage": "https://secrypta.com",
+                "id": 1465330769,
+                "language": "Solidity",
+                "license": "MIT",
+                "last_commit": "2026-11-22T09:24:50Z",
+                "open_issues": 0,
+                "owner": "secrypta",
+                "repo": "wallet-harness",
+                "stars": 0,
+                "topics": [
+                  "benchmark",
+                  "defi",
+                  "drain",
+                  "ethereum",
+                  "foundry",
+                  "invariant-testing",
+                  "security",
+                  "security-tools",
+                  "smart-contracts",
+                  "solidity",
+                  "wallet-security-audit",
+                  "web3"
+                ]
+              },
+              "first_seen": "2026-11-23T22:14:32.259Z"
             }
           ],
           "description": null,
@@ -883,6 +951,44 @@
                 ]
               },
               "first_seen": "2026-11-14T16:43:30.929Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Solana Rent & Rug Shield",
+              "description": "Pre-buy 10-layer Solana SPL and Token-2022 token risk scanner and inner-CPI transaction drain simulator: checks mint and freeze authorities, transfer fees, permanent delegates, transfer hooks, LP lock/burn status, and holder concentration, plus read-only wallet rent exposure. Free web UI without signup, with an open-source MCP server and x402 API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Solana 11-Layer pre-buy token rug & Block-0 Sybil shield (<120ms), Inner CPI drainer simulator, and read-only ATA SOL rent scanner via Streamable HTTP MCP & Solana x402 v2",
+                "homepage": "https://rentandrugshield.com",
+                "id": 1461232306,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-23T16:15:38Z",
+                "open_issues": 0,
+                "owner": "sonnyman2014",
+                "repo": "solana-rent-rug-shield-mcp",
+                "stars": 0,
+                "topics": [
+                  "ai-agents",
+                  "defi-security",
+                  "glama",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "pulsemcp",
+                  "rug-check",
+                  "smithery",
+                  "solana",
+                  "solana-actions",
+                  "solana-blinks",
+                  "solana-mcp",
+                  "streamable-http",
+                  "token-2022",
+                  "x402"
+                ]
+              },
+              "first_seen": "2026-11-23T22:14:32.259Z"
             }
           ],
           "description": "These tools complement static analysis by watching contracts post-deployment for honeypots, rug pulls, and adversarial deployer patterns. Most are free to use.",
@@ -907,7 +1013,7 @@
                 "open_issues": 40,
                 "owner": "palkeo",
                 "repo": "panoramix",
-                "stars": 956,
+                "stars": 957,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -1146,7 +1252,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1919,
+            "stars": 1920,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1171,7 +1277,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1919,
+            "stars": 1920,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1217,7 +1323,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1919,
+            "stars": 1920,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1562,7 +1668,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T18:03:00.760Z",
+    "last_updated": "2026-11-23T22:14:32.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
@@ -1570,8 +1676,8 @@
       "id": 488823706,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-13T22:27:33Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-22T23:21:55Z",
+      "open_issues": 1,
       "owner": "saeidshirazi",
       "repo": "Awesome-Smart-Contract-Security",
       "stars": 911,
@@ -1585,7 +1691,7 @@
         "solidity"
       ]
     },
-    "original_repository_sha": "a864675cad4fce001ee331c574470d92be53d05e",
+    "original_repository_sha": "614d919498dcb8554908ba119500fdf32169c425",
     "enhanced_repository": "enhansome/enhansome-Awesome-Smart-Contract-Security",
     "enhanced_repository_description": null,
     "title": "Awesome-Smart-Contract-Security with stars"
