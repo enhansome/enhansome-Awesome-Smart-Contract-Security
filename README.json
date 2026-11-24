@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-18T22:54:08Z",
-                "open_issues": 522,
+                "open_issues": 523,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6422,
+                "stars": 6420,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -223,7 +223,7 @@
                 "open_issues": 18,
                 "owner": "protofire",
                 "repo": "solhint",
-                "stars": 1130,
+                "stars": 1129,
                 "topics": [
                   "ast",
                   "code-quality",
@@ -286,10 +286,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-18T22:54:08Z",
-                "open_issues": 522,
+                "open_issues": 523,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6422,
+                "stars": 6420,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -374,8 +374,8 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-18T21:33:38Z",
-                "open_issues": 106,
+                "last_commit": "2026-11-24T13:32:26Z",
+                "open_issues": 107,
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3201,
@@ -407,7 +407,7 @@
                 "open_issues": 23,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1325,
+                "stars": 1323,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -443,7 +443,7 @@
                 "open_issues": 6,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1294,
+                "stars": 1301,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -964,7 +964,7 @@
                 "id": 1461232306,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-23T16:15:38Z",
+                "last_commit": "2026-11-24T18:37:43Z",
                 "open_issues": 0,
                 "owner": "sonnyman2014",
                 "repo": "solana-rent-rug-shield-mcp",
@@ -1013,7 +1013,7 @@
                 "open_issues": 40,
                 "owner": "palkeo",
                 "repo": "panoramix",
-                "stars": 957,
+                "stars": 958,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -1252,7 +1252,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1920,
+            "stars": 1921,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1277,7 +1277,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1920,
+            "stars": 1921,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1323,7 +1323,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1920,
+            "stars": 1921,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1668,7 +1668,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T22:14:32.259Z",
+    "last_updated": "2026-11-24T20:52:41.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
