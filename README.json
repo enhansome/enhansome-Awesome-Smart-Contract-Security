@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-18T22:54:08Z",
-                "open_issues": 524,
+                "open_issues": 527,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6421,
+                "stars": 6423,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -286,10 +286,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-18T22:54:08Z",
-                "open_issues": 524,
+                "open_issues": 527,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6421,
+                "stars": 6423,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -315,7 +315,7 @@
                 "open_issues": 132,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4280,
+                "stars": 4282,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -374,11 +374,11 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-24T13:32:26Z",
-                "open_issues": 107,
+                "last_commit": "2026-11-26T14:57:46Z",
+                "open_issues": 105,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3201,
+                "stars": 3203,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -407,7 +407,7 @@
                 "open_issues": 23,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1324,
+                "stars": 1326,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -443,7 +443,7 @@
                 "open_issues": 6,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1308,
+                "stars": 1312,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -965,7 +965,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-25T04:11:17Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "sonnyman2014",
                 "repo": "solana-rent-rug-shield-mcp",
                 "stars": 0,
@@ -1013,7 +1013,7 @@
                 "open_issues": 40,
                 "owner": "palkeo",
                 "repo": "panoramix",
-                "stars": 959,
+                "stars": 958,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -1087,7 +1087,7 @@
                 "open_issues": 10,
                 "owner": "ethereum",
                 "repo": "evmlab",
-                "stars": 382,
+                "stars": 381,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -1160,7 +1160,7 @@
                 "open_issues": 1,
                 "owner": "Decurity",
                 "repo": "abi-decompiler",
-                "stars": 233,
+                "stars": 232,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -1252,7 +1252,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1921,
+            "stars": 1920,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1277,7 +1277,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1921,
+            "stars": 1920,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1323,7 +1323,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1921,
+            "stars": 1920,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -1354,7 +1354,7 @@
             "open_issues": 10,
             "owner": "crytic",
             "repo": "not-so-smart-contracts",
-            "stars": 2224,
+            "stars": 2223,
             "topics": [
               "ethereum",
               "solidity",
@@ -1486,7 +1486,7 @@
             "open_issues": 0,
             "owner": "manojpramesh",
             "repo": "solidity-cheatsheet",
-            "stars": 1508,
+            "stars": 1509,
             "topics": [
               "best-practices",
               "blockchain",
@@ -1607,8 +1607,8 @@
                 "id": 1444724292,
                 "language": "Solidity",
                 "license": "MIT",
-                "last_commit": "2026-11-18T19:45:38Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-26T18:49:49Z",
+                "open_issues": 2,
                 "owner": "MotechAudit",
                 "repo": "motech-audit-security-skills",
                 "stars": 3,
@@ -1668,7 +1668,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T20:11:36.562Z",
+    "last_updated": "2026-11-26T19:49:44.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
@@ -1680,7 +1680,7 @@
       "open_issues": 3,
       "owner": "saeidshirazi",
       "repo": "Awesome-Smart-Contract-Security",
-      "stars": 912,
+      "stars": 914,
       "topics": [
         "awesome-list",
         "blockchain-security",
