@@ -21,7 +21,7 @@
                 "open_issues": 527,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6423,
+                "stars": 6424,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -162,7 +162,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3857,
+                "stars": 3856,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -195,7 +195,7 @@
                 "open_issues": 86,
                 "owner": "runtimeverification",
                 "repo": "evm-semantics",
-                "stars": 596,
+                "stars": 595,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:05.692Z"
@@ -289,7 +289,7 @@
                 "open_issues": 527,
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6423,
+                "stars": 6424,
                 "topics": [
                   "ethereum",
                   "solidity",
@@ -345,7 +345,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3857,
+                "stars": 3856,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -374,8 +374,8 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-26T14:57:46Z",
-                "open_issues": 105,
+                "last_commit": "2026-11-26T21:53:14Z",
+                "open_issues": 103,
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3203,
@@ -407,7 +407,7 @@
                 "open_issues": 23,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1326,
+                "stars": 1328,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -443,7 +443,7 @@
                 "open_issues": 6,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1312,
+                "stars": 1318,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -735,7 +735,7 @@
                 "id": 1467312190,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-22T09:24:47Z",
+                "last_commit": "2026-11-27T01:32:52Z",
                 "open_issues": 0,
                 "owner": "secrypta",
                 "repo": "drain-scan",
@@ -769,7 +769,7 @@
                 "id": 1465330769,
                 "language": "Solidity",
                 "license": "MIT",
-                "last_commit": "2026-11-22T09:24:50Z",
+                "last_commit": "2026-11-27T01:34:59Z",
                 "open_issues": 0,
                 "owner": "secrypta",
                 "repo": "wallet-harness",
@@ -959,7 +959,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Solana 11-Layer pre-buy token rug & Block-0 Sybil shield (<120ms), Inner CPI drainer simulator, and read-only ATA SOL rent scanner via Streamable HTTP MCP & Solana x402 v2",
+                "description": "Solana MCP & x402 Gateway: 100 Free Priority 12-Layer Rug Checks/day, CPI Drainer Sim & Read-Only 0% First 0x09 SOL Rent Claim",
                 "homepage": "https://rentandrugshield.com",
                 "id": 1461232306,
                 "language": "Python",
@@ -970,21 +970,19 @@
                 "repo": "solana-rent-rug-shield-mcp",
                 "stars": 0,
                 "topics": [
+                  "a2a",
                   "ai-agents",
-                  "defi-security",
-                  "glama",
+                  "defi",
+                  "elizaos",
                   "mcp",
                   "mcp-server",
                   "model-context-protocol",
-                  "pulsemcp",
-                  "rug-check",
-                  "smithery",
+                  "rug-checker",
                   "solana",
-                  "solana-actions",
-                  "solana-blinks",
-                  "solana-mcp",
-                  "streamable-http",
+                  "solana-agent-kit",
+                  "solana-rent-recovery",
                   "token-2022",
+                  "web3-security",
                   "x402"
                 ]
               },
@@ -1354,7 +1352,7 @@
             "open_issues": 10,
             "owner": "crytic",
             "repo": "not-so-smart-contracts",
-            "stars": 2223,
+            "stars": 2222,
             "topics": [
               "ethereum",
               "solidity",
@@ -1668,7 +1666,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T19:49:44.708Z",
+    "last_updated": "2026-11-27T19:39:19.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Smart Contract Security materials and resources For Researchers",
@@ -1677,7 +1675,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-11-22T23:21:55Z",
-      "open_issues": 3,
+      "open_issues": 5,
       "owner": "saeidshirazi",
       "repo": "Awesome-Smart-Contract-Security",
       "stars": 914,

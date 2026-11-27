@@ -128,7 +128,7 @@
 
 ### Visualization
 
-* [Slither](https://github.com/trailofbits/slither) ⭐ 6,423 | 🐛 527 | 🌐 Python | 📅 2026-11-18 - Slither can map method visibility and modifiers, state variables that are read and written, calls, and can print the inheritance graph of a smart contract
+* [Slither](https://github.com/trailofbits/slither) ⭐ 6,424 | 🐛 527 | 🌐 Python | 📅 2026-11-18 - Slither can map method visibility and modifiers, state variables that are read and written, calls, and can print the inheritance graph of a smart contract
 * [Surya](https://github.com/ConsenSys/surya) ⭐ 1,172 | 🐛 8 | 🌐 JavaScript | 📅 2025-06-26 - Generates various visual outputs of function call graphs
 * [Solgraph](https://github.com/raineorshine/solgraph) ⭐ 1,026 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-04 - Generates DOT graphs with function control flow of a solidity contract
 * [ethereum-graph-debugger](https://github.com/fergarrui/ethereum-graph-debugger) ⭐ 348 | 🐛 21 | 🌐 TypeScript | 📅 2023-03-03 - A graphical EVM debugger. Displays the entire program control flow graph.
@@ -137,7 +137,7 @@
 ### Verification
 
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool for EVM
-* [KEVM](https://github.com/kframework/evm-semantics) ⭐ 596 | 🐛 86 | 🌐 KCL | 📅 2026-10-28 - K Semantics of the Ethereum Virtual Machine (EVM)
+* [KEVM](https://github.com/kframework/evm-semantics) ⭐ 595 | 🐛 86 | 🌐 KCL | 📅 2026-10-28 - K Semantics of the Ethereum Virtual Machine (EVM)
 
 ### Linters
 
@@ -148,12 +148,12 @@
 
 ### BugHunting
 
-* [Slither](https://github.com/trailofbits/slither) ⭐ 6,423 | 🐛 527 | 🌐 Python | 📅 2026-11-18 - Static analysis framework, written in Python, with detectors for many common Solidity issues
+* [Slither](https://github.com/trailofbits/slither) ⭐ 6,424 | 🐛 527 | 🌐 Python | 📅 2026-11-18 - Static analysis framework, written in Python, with detectors for many common Solidity issues
 * [Mythril OSS](https://github.com/ConsenSys/mythril/) ⭐ 4,282 | 🐛 132 | 🌐 Python | 📅 2026-04-27 - Open-source security analysis tool for Ethereum smart contracts built around detector modules
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
-* [Echidna](https://github.com/trailofbits/echidna) ⭐ 3,203 | 🐛 105 | 🌐 Haskell | 📅 2026-11-26 - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
-* [Pashov Audit Group Skills](https://github.com/pashov/skills) ⭐ 1,326 | 🐛 23 | 🌐 JavaScript | 📅 2026-10-21 - Open-source agent skills for Solidity security: AI audit, pre-audit x-ray threat model, and Echidna/Medusa fuzz suite generation. MIT.
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,312 | 🐛 6 | 🌐 Python | 📅 2026-11-22 - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
+* [Echidna](https://github.com/trailofbits/echidna) ⭐ 3,203 | 🐛 103 | 🌐 Haskell | 📅 2026-11-26 - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
+* [Pashov Audit Group Skills](https://github.com/pashov/skills) ⭐ 1,328 | 🐛 23 | 🌐 JavaScript | 📅 2026-10-21 - Open-source agent skills for Solidity security: AI audit, pre-audit x-ray threat model, and Echidna/Medusa fuzz suite generation. MIT.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,318 | 🐛 6 | 🌐 Python | 📅 2026-11-22 - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 * [Securify v2.0](https://github.com/eth-sri/securify2) ⭐ 635 | 🐛 36 | 🌐 Solidity | 📅 2025-05-25 - Static analysis tool from ChainSecurity
 * [Octopus](https://github.com/pventuzelo/octopus) ⚠️ Archived - : Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
 * [Web3 Decoder](https://github.com/nccgroup/web3-decoder) ⭐ 117 | 🐛 0 | 🌐 Java | 📅 2026-06-02 - Web3 Decoder is a Burp Suite Extension that helps to analyze what is going on with the operations involving smart contracts of the web3
@@ -162,8 +162,8 @@
 * [Al-Mizaan Judge](https://github.com/holistis/al-mizaan-judge) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-21 - CLI that runs a bug bounty finding through an adversarial debate (Defender/Attacker/Judge) before you spend a Sherlock/Immunefi/Cantina submission on it
 * [Tanod Slither detectors](https://github.com/tanod-labs/slither-detectors) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-03 - Slither plugin with nine detectors for recurring DeFi bug classes (unchecked ERC-20 calls, AMM spot prices, zero slippage, swap deadlines, ERC-4626 inflation, ecrecover, signature replay, stale Chainlink prices), with vulnerable/fixed test fixtures and a [GitHub Action](https://github.com/tanod-labs/pactlint-action) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-03. MIT.
 * [EVM Smart Audit](https://github.com/evmsmart/solidity-detectors) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-06 - Twenty AST-based detectors for Solidity mapped to SWC and the OWASP Smart Contract Top 10; reports the checks that passed as well as the ones that fired. MIT.
-* [drain-scan](https://github.com/secrypta/drain-scan) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-22 - Static linter for drain surfaces in smart wallets, ERC-4337 accounts and EIP-7702 delegates; precision-first, public benchmark. MIT.
-* [wallet-harness](https://github.com/secrypta/wallet-harness) ⭐ 0 | 🐛 0 | 🌐 Solidity | 📅 2026-11-22 - Corpus of wallet-drain attack vectors as executable Foundry reproductions, for scoring detectors and wallets against labeled cases. MIT.
+* [drain-scan](https://github.com/secrypta/drain-scan) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-27 - Static linter for drain surfaces in smart wallets, ERC-4337 accounts and EIP-7702 delegates; precision-first, public benchmark. MIT.
+* [wallet-harness](https://github.com/secrypta/wallet-harness) ⭐ 0 | 🐛 0 | 🌐 Solidity | 📅 2026-11-27 - Corpus of wallet-drain attack vectors as executable Foundry reproductions, for scoring detectors and wallets against labeled cases. MIT.
 
 ### Runtime Monitoring & Scam Detection
 
@@ -316,4 +316,4 @@ These tools complement static analysis by watching contracts post-deployment for
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
